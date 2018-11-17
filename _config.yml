@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "[yossadh]"
+title                    : "[ yossadh ]"
 title_separator          : "-"
 name                     : &name "Yossa"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yossa Dwi Hartono"
   avatar           : "profile.png"
-  bio              : "Computational biologist at [National University of Singapore](nus.edu.sg)"
+  bio              : "Computational Biologist / Structural Bioinformatician"
   location         : "Singapore"
   employer         :
   googlescholar    : "https://scholar.google.com.sg/citations?user=LkGyZkMAAAAJ&hl=en"
