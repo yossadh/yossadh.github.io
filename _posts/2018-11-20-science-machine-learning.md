@@ -9,8 +9,7 @@ tags:
   - machine learning
   - science education
 ---
-![gears](/images/macro-1452987_1920.jpg)  
-_Image credit_: [pixabay](https://pixabay.com/en/macro-cogwheel-gear-engine-vintage-1452987/)
+[//]: # "![gears](/images/macro-1452987_1920.jpg) _Image credit_: [pixabay](https://pixabay.com/en/macro-cogwheel-gear-engine-vintage-1452987/)"
 
 This C&EN article ([Is machine learning overhyped?](https://cen.acs.org/physical-chemistry/computational-chemistry/machine-learning-overhyped/96/i34)) is great in its candour and depth about how machine learning is affecting chemistry. As chemistry is the central science, some points also definitely apply to science at large.
 
