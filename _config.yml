@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "[ yossadh ]"
 title_separator          : "-"
 name                     : &name "Yossa"
-description              : &description "personal description"
+description              : &description "personal webpage"
 url                      : https://yossadh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yossadh/yossadh.github.io"
@@ -251,7 +251,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore #America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

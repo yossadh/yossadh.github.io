@@ -2,6 +2,8 @@
 title: 'Link roundup: Nov 2018'
 date: 2018-11-30
 permalink: /posts/2018/11/link-roundup-nov-2018/
+categories:
+  - roundup
 tags:
   - links
 ---
