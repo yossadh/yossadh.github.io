@@ -2,6 +2,8 @@
 title: 'Links to Karolinska Institutet career blog'
 date: 2018-11-19
 permalink: /posts/2018/11/links-to-ki-career-blog/
+categories:
+  - roundup
 tags:
   - links
 ---
