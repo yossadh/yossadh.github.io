@@ -12,7 +12,7 @@ Hi there. I'm Yossa, a computational biologist / structural bioinformatician at 
 
 I am a chemist by training and did mostly molecular dynamics simulation for my doctoral work, with a brief stint in experimental structural biology work. I have worked with diverse systems: from proteins, to triplex nucleic acids, and the ribosome; as well as diverse computational biophysical techniques from conventional molecular dynamics, lambda dynamics, free energy perturbation, to QM/MM calculations. My thesis introduction is publicly available [here](https://openarchive.ki.se/xmlui/handle/10616/46043) and from therein I have extracted the popular science summary into a blog post [here](https://researcherblogski.wordpress.com/2017/12/08/8-postdoctoral/).
 
-I received my PhD jointly from [Karolinska Institutet, Sweden](ki.se) and [Nanyang Technological University, Singapore](ntu.edu.sg), and BSc in Chemistry and Biological Chemistry from [Nanyang Technological University, Singapore](ntu.edu.sg).
+I received my PhD jointly from [Karolinska Institutet, Sweden](https://ki.se) and [Nanyang Technological University, Singapore](https://ntu.edu.sg), and BSc in Chemistry and Biological Chemistry from [Nanyang Technological University, Singapore](https://ntu.edu.sg).
 
 I constantly find myself at the interface of things, straddling in between two worlds: chemistry and biology; Singapore and Sweden; experimental and computational. I strive to be a bridge, especially between experimentalists and computationalists — and it is easy how it is in parallel to my interest in science communication, which is bridging the scientist and the layman.
 
