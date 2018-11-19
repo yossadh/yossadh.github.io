@@ -14,6 +14,6 @@ I am a chemist by training and did mostly molecular dynamics simulation for my d
 
 I received my PhD jointly from [Karolinska Institutet, Sweden](https://ki.se) and [Nanyang Technological University, Singapore](http://ntu.edu.sg), and BSc in Chemistry and Biological Chemistry from [Nanyang Technological University, Singapore](http://ntu.edu.sg).
 
-I constantly find myself at the interface of things, straddling in between two worlds: chemistry and biology; Singapore and Sweden; experimental and computational. I strive to be a bridge, especially between experimentalists and computationalists — and it is easy how it is in parallel to my interest in science communication, which is bridging the scientist and the layman.
+I constantly find myself at the interface of things, straddling between two worlds: chemistry and biology; Singapore and Sweden; experimental and computational. I strive to be a bridge, especially between experimentalists and computationalists — and it is easy to see the parallel to my interest in science communication, which is bridging the scientist and the layman.
 
 For more details, including list of publication, take a look at my CV [[pdf](https://yossadh.github.io/files/cv_public_20181117.pdf), _updated Nov 2018_].
