@@ -14,7 +14,7 @@ During my time as PhD student in Karolinska Institutet (2015–2017), I contribu
 - [CRISPR and the structural perspective](https://researcherblogski.wordpress.com/2017/06/28/crispr-and-the-structural-perspective/)
 - [Grattis på födelsedagen, Linné](https://researcherblogski.wordpress.com/2017/05/23/grattis-pa-fodelsedagen-linne/)
 - [March for Science: the after](https://researcherblogski.wordpress.com/2017/04/27/march-for-science-the-after/)
-- [Mentoring || Mentoring](https://researcherblogski.wordpress.com/2017/03/08/mentoring-mentoring/)
+- [Mentoring \|\| Mentoring](https://researcherblogski.wordpress.com/2017/03/08/mentoring-mentoring/)
 - [Kakanskalender](https://researcherblogski.wordpress.com/2016/12/18/kakanskalender/)
 - [Julbord directives](https://researcherblogski.wordpress.com/2016/12/11/julbord-directives/)
 - [Nobel things to do, ranked by difficulty](https://researcherblogski.wordpress.com/2016/12/05/nobel-things-to-do-ranked-by-difficulty/)
