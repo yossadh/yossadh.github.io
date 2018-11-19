@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Science in the age of machine learning"
 date: 2018-11-20
 permalink: /posts/2018/11/science-machine-learning/
