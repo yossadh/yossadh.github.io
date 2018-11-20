@@ -8,5 +8,6 @@ tags:
   - links
 ---
 
+- [In the Pipeline: Disorder and Order](https://blogs.sciencemag.org/pipeline/archives/2018/11/19/disorder-and-order): C-terminal disordered region is there for entropic reason?
 - [C&EN: Making biologics on demand](https://cen.acs.org/biological-chemistry/biotechnology/Making-biologics-demand/96/i45)
 - [The Scientist: Solar-Powered Yeast Are More Efficient Drug Factories](https://www.the-scientist.com/news-opinion/solar-powered-yeast-are-more-efficient-drug-factories-65094)
