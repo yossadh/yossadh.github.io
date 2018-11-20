@@ -27,4 +27,5 @@ I get asked this quite often.
 [Nature article pick up Python](https://www.nature.com/news/programming-pick-up-python-1.16833)
 PyMol Python API
 someone did an entire presentation (with slides!) in pymol...
+.pml is nice but .py is better
 https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed
