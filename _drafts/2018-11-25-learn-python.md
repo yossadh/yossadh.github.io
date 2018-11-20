@@ -1,14 +1,15 @@
 ---
-layout: single
 title:  "Computational biologists and where to find them"
 date: 2018-11-19
-header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 
-  - Jekyll
+  - long
 tags:
+  - computational biology
   - python
+  - lab notebook
+  - coding
 ---
+What I talk about when I talk about molecular modelling
 ### Background / Intro
 Since I defended my thesis last year, I've been working as postdoctoral research fellow where I have been doing mostly molecular docking for enzyme engineering. The position is quite unique since I am the only computational biologist / structural bioinformatician in a research group that does mostly wet-lab biochemistry. While it is exciting, one of the foremost challenges is how to communicate our ideas to collaborate effectively across our disciplines. While I have some wet-lab experience (in fact, that might be why I got the position in the first place) and have rough ideas about it, my colleagues may have less idea of what I'm doing, hence this post.
 
