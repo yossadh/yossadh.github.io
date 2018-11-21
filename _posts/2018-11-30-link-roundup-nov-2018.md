@@ -15,4 +15,5 @@ tags:
 - [In the Pipeline \| Disorder and Order](https://blogs.sciencemag.org/pipeline/archives/2018/11/19/disorder-and-order): C-terminal disordered region is there for entropic reason?
 - [C&EN \| Making biologics on demand](https://cen.acs.org/biological-chemistry/biotechnology/Making-biologics-demand/96/i45)
 - [The Scientist \| Solar-Powered Yeast Are More Efficient Drug Factories](https://www.the-scientist.com/news-opinion/solar-powered-yeast-are-more-efficient-drug-factories-65094)
+- [Nature \| What I learnt pulling a straw out of a turtle’s nose](https://www.nature.com/articles/d41586-018-07287-z)
 - [Paper \| Characterization and engineering of a plastic-degrading aromatic polyesterase](http://www.pnas.org/content/115/19/E4350)
