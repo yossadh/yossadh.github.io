@@ -7,7 +7,7 @@ categories:
 tags:
   - links
 ---
-
+  
 - [In the Pipeline | Machine Learning: Be Careful What You Ask For](https://blogs.sciencemag.org/pipeline/archives/2018/11/20/machine-learning-be-careful-what-you-ask-for)
 - [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/wcms.1340) | PySCF, quantum chemistry calculations with Python, open source [via [iwatobipen](https://iwatobipen.wordpress.com/2017/07/30/quantum-chemistry-calculation-with-python/)]
 - [Blog](https://iwatobipen.wordpress.com/) | Cool cheminformatics blog, many examples with RDKit
