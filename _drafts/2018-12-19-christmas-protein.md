@@ -36,19 +36,21 @@ Query  1    CHRISTMAS  9
 Sbjct  97   CHRVSSMAS  105
 ```
 
-Ok, so there is no `CHRISTMAS` sequence occurring yet in all the proteins that humans currently know! Very sad :(
+Hmmm, ok, so there is no `CHRISTMAS` sequence occurring yet in all the proteins that humans currently know! Very sad :(
+To give you some idea of our search space, the protein database we are searching is nr, [RefSeq non-redundant protein sequences](https://www.ncbi.nlm.nih.gov/refseq/about/nonredundantproteins/), which as of 2018/11/22 has 178,521,967 sequences!  
 
-* Now let's repeat this with other Christmas-related words. Let's say you have around 100 words/sequences to BLAST, you wouldn't do this one by one to the blastp webpage, would you? We will be using a local installation of blastp to do BLAST searches in batch. blastp is part of software suite BLAST+ made available by NCBI for that very purpose (see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) for more information).
+* Now let's repeat this with other Christmas-related words. Let's say you have around 100 words/sequences to BLAST, you wouldn't submit them one by one to the blastp webpage, would you? We will be using a local installation of blastp to do BLAST searches in batch. blastp is part of software suite BLAST+ made available by NCBI for that very purpose (see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) for more information).
 
-* Let's source a list of Christmas-related words. A cursory Google search leads me [here](https://www.enchantedlearning.com/wordlist/christmas.shtml). Copy-paste this to a text file. Make sure every word in in a separate line. Save this as `xmas.txt`.
+* Let's source a list of Christmas-related words. A cursory Google search leads me [here](https://www.enchantedlearning.com/wordlist/christmas.shtml). Copy-paste this to a text file. Make sure every word is in a separate line. Save this as `xmas.raw.txt`.
 
-* Do some clean up. This is easy to do in a Linux terminal. You can of course do manual clean up, but humans are inconsistent. It is better to automate the process with a script. The result will be consistent, traceable, and reproducible.
+* Do some clean up. This is easy to do in a Linux terminal. You can of course do manual clean up, but humans are inconsistent. It is better to automate the process with a script. The result will be consistent, traceable, easily customisable, and reproducible.
 
 ```bash
 # convert everything to lowercase
-tr [:upper:] [:lower:] < xmas.txt > xmas.clean.txt 
+# note that we keep xmas.raw.txt untouched, for if we ever need to revisit the data cleanup again
+tr [:upper:] [:lower:] < xmas.raw.txt > xmas.clean.txt 
 # further cleanup 
-sed -i '/[bgjouxz]/d      # delete all words containing non amino acid letters
+sed -i '/[bjouxz]/d      # delete all words containing non amino acid letters
         /^.$/d            # delete lines with just one letter
         s/ //g            # delete single spaces
         s/[[:punct:]]//g  # remove punctuations
@@ -72,18 +74,36 @@ blastp -import_search_strategy christmas.asn -out christmas.out
 ```
 
 All is good? Go ahead and run on all words. It took ~9 hours for me. Best to run it overnight :)
+
 ```bash
 for i in *.fasta; do
+    # overwrite query in christmas.asn
     blastp -import_search_strategy christmas.asn -query $i -out $i.out    
 done
 ```
+
 * Jingle bells, jingle bells, oh what fun it is, to analyse your result! 
-Just for fun, I also included `NATALIE`, our dear blog coach in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord)
+Just for fun, I also included `NATALIE`, our dear blog coach, in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord)
 Her name turns out to be quite popular across the kingdoms so to speak, from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D
+
+Matches:
+- candle
+- candy
+- charity
+- chill
+- cider
+- creche
+
+Suprisingly has no match:
+- cap
+- card
 
 And here are some near-matches, for your amusement:
 - cannycane (candycane)
+- mevarrlchrisim (merrychristmas)
 
 Lessons to apply to real-life project:
 - Do test cases
 - Automate as much as possible, not only for ease but also reproducibility
+
+Well then, `MEVARRLCHRISIM`!

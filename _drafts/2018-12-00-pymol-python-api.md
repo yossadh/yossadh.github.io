@@ -12,7 +12,7 @@ I almost exclusively used VMD during my PhD and was aware of the other two popul
 
 However, now I find myself use PyMol almost exclusively with occasional use of Chimera. Even though the PyMol GUI is not that intuitive and takes some time to get used to, it's smooth after you are familiar with it. Also, the fact that you can tell it to do stuff in Python is powerful, and this is what this post is about. Chimera, too, has Python API and I do use it when PyMol cannot do certain things, but PyMol's Python API is better documented. VMD, too, is extensible with Python and Tcl, but again, documentation is a bit sparse (or I just didn't frequent the mailing list that much).
 
-Now, you don't need Python to do some automated tasks in PyMol. You can put all the commands that you would type in PyMol terminal in a .pml file, like so:
+Now, you don't need Python to do some automated tasks in PyMol. You can put all the commands that you would type in PyMol terminal in a .pml file (command script file), like so:
 ```
 # setup.pml
 bg white   # set background colour to white
@@ -34,4 +34,4 @@ Or, with PyMol: `pymol setup.pymol.py`
 And you will get the same result as the previous case.
 
 Why use the Python API, then, if it is more verbose? Well, with Python API you get access to full Python functionalities like the conditionals and loops, and also Python objects like lists and dictionaries.
- 
+You can include Python code inside .pml file but for me writing in pure Python is better, for learning 

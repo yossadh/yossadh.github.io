@@ -13,7 +13,9 @@ tags:
 [Nature article pick up Python](https://www.nature.com/news/programming-pick-up-python-1.16833)
 https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed
 
-Python learning points for scientists
+Python learning points for scientists (some dont' just apply to Python)
+- code documentation
 - object types: int, float, str, list, tuple, dictionary
 - conditional and loop statements
 - functions and abstractions
+- code review and refactoring
