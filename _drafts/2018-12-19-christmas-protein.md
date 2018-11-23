@@ -38,7 +38,7 @@ Sbjct  97   CHRVSSMAS  105
 
 Ok, so there is no `CHRISTMAS` sequence occurring yet in all the proteins that humans currently know! Very sad :(
 
-* Now let's repeat this with other Christmas-related words. Let's say you have around 100 words/sequences to BLAST, you wouldn't do this one by one to the blastp webpage, would you? We will be using a local installation of blastp to do BLAST searches in batch. blastp is part of software suite BLAST+ made available by NCBI for this very purpose (see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) for more information).
+* Now let's repeat this with other Christmas-related words. Let's say you have around 100 words/sequences to BLAST, you wouldn't do this one by one to the blastp webpage, would you? We will be using a local installation of blastp to do BLAST searches in batch. blastp is part of software suite BLAST+ made available by NCBI for that very purpose (see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) for more information).
 
 * Let's source a list of Christmas-related words. A cursory Google search leads me [here](https://www.enchantedlearning.com/wordlist/christmas.shtml). Copy-paste this to a text file. Make sure every word in in a separate line. Save this as `xmas.txt`.
 
@@ -60,8 +60,8 @@ sed -i '/[bgjouxz]/d      # delete all words containing non amino acid letters
 ```bash
 # add FASTA header
 sed -i 's/^/>prot\n/' xmas.clean.txt
-# split into individual files: xaa, xab, ...
-split -l 2 xmas.clean.txt
+# split into individual files with fasta extension
+split -l 2 --additional-suffix='.fasta' xmas.clean.txt
 ``` 
 
 * Finally, it's BLAST time! From my experience, the web and local blastp sometimes give different results because of different parameters. To ensure consistency, you can save the search strategy from blastp webpage, thus capturing all the parameters. Save the search strategy file as `christmas.asn`. I further edited my search strategy file to point to my local protein database. 
@@ -78,6 +78,11 @@ for i in *.fasta; do
 done
 ```
 * Jingle bells, jingle bells, oh what fun it is, to analyse your result! 
+Just for fun, I also included `NATALIE`, our dear blog coach in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord)
+Her name turns out to be quite popular across the kingdoms so to speak, from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D
+
+And here are some near-matches, for your amusement:
+- cannycane (candycane)
 
 Lessons to apply to real-life project:
 - Do test cases
