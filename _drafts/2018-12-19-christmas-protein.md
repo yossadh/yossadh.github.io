@@ -122,9 +122,9 @@ Now before running on all words, do a test case to see if it gives you the same 
 ---
 
 As I said in the beginning, there are some aspects of this exercise that can be applied to one's real-life project:
-**1. Consistency**  
+1. _Consistency_  
    You might notice that consistency is a motif in the exercise. I did a test case in blastp webpage first and compare the result to when I run local blastp. I wrote script for consistent data processing.
-**1. Automate as much as possible, not only for ease but also reproducibility**  
+1. _Automate as much as possible, not only for ease but also reproducibility_  
    Not only that you should write scripts, you should pay attention to how you name your scripts and variables, as well as documenting them with comments. The future you will thank you! This really takes deliberate effort and I can tell you that I did not do enough of this during my PhD and I am committing to do more.
 
 So with these Christmas-sy proteins, may you have a protein-packed Christmas, `MEVARRLCHRISIM`!
