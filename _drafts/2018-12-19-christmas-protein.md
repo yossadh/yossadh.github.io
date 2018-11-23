@@ -84,15 +84,16 @@ Just for fun, I also included `NATALIE`, our dear blog coach, in the search, and
 Her name turns out to be quite popular across the kingdoms so to speak, from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D
 
    Matches:  
-   angel candle candy charity chill cider creche elves family festival garland greeting icicle kings lights manger merry mittens myrrh nativity navidad partridge presents reindeer scarf sleigh stnick sweater tidings tinsel wassail winter wintry wiseman wish wrap wreath 
+   `angel candle candy charity chill cider creche elves family festival garland greeting icicle kings lights manger merry mittens myrrh nativity navidad partridge presents reindeer scarf sleigh stnick sweater tidings tinsel wassail winter wintry wiseman wish wrap wreath` 
    
    No match:
-   chimney christmastide giftgiving iceskate mincepie santaselves santashelper santaslist 
+   `chimney christmastide giftgiving iceskate mincepie santaselves santashelper santaslist` 
    
    Suprisingly has no match:
-   cap card elf
+   `cap card elf`
    
    And here are some near-matches, for your amusement:
+   ```
    * cannycane (candycane)
    * emergreen (evergreen)
    * fathprrhrlssmas (fatherchristmas)
@@ -103,6 +104,7 @@ Her name turns out to be quite popular across the kingdoms so to speak, from bac
    * sinterrlass (sinterklaas)
    * widrertime (wintertime)
    * wrarpigdgpaper (wrappingpaper)
+   ```
 
 Lessons to apply to real-life project:
 * Do test cases
