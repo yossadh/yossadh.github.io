@@ -94,7 +94,7 @@ Now before running on all words, do a test case to see if it gives you the same 
    `cap card elf`
    
    And here are some near-matches, for your amusement:
-   ```
+   `
    cannycane (candycane)
    emergreen (evergreen)
    fathprrhrlssmas (fatherchristmas)
@@ -105,7 +105,7 @@ Now before running on all words, do a test case to see if it gives you the same 
    sinterrlass (sinterklaas)
    widrertime (wintertime)
    wrarpigdgpaper (wrappingpaper)
-   ```
+   `
 
    Just for fun, I also included `NATALIE`, our dear blog coach's name, in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord)
    Her name turns out to be quite popular across the kingdoms so to speak, from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D   
