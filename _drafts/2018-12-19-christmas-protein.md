@@ -8,7 +8,7 @@ tags:
   - coding
 ---
 
-I deal with protein sequences a lot for my work and once in a while it brings a smile on my face to see some intelligible words appearing amidst the seemingly randon letters. Since this is Advent, I wondered whether I can find some Christmas-sy words in the known protein universe!
+I deal with protein sequences a lot for my work and once in a while it brings a smile on my face to see some intelligible words appearing amidst the seemingly random letters. Since this is Advent, I wondered whether I can find some Christmas-sy words in the known protein universe!
 
 This silly exercise will also show you a glimpse of data processing workflow commonly encountered in bioinformatics. Who says you can't learn something while having fun? ;)  
 
@@ -72,70 +72,25 @@ Now before running on all words, do a test case to see if it gives you the same 
    blastp -import_search_strategy christmas.asn -out christmas.out
    ```
    
-   All is good? Go ahead and run on all words. My desktop took around 20 minutes. Go for fika :)
+   All is good? Go ahead and run on all words. My desktop took around 20 minutes. Perfect time to take fikapaus :)
    
    ```bash
    # overwrite query in christmas.asn
    blastp -import_search_strategy christmas.asn -query xmas.clean.txt -out xmas.out    
    ```
 
-1. Jingle bells, jingle bells, oh what fun it is, to analyse your result! 
+1. Jingle bells, jingle bells, oh what fun it is, to analyse your result!   
 Just for fun, I also included `NATALIE`, our dear blog coach, in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord)
 Her name turns out to be quite popular across the kingdoms so to speak, from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D
 
-   Matches:
-   * angel
-   * candle
-   * candy
-   * charity
-   * chill
-   * cider
-   * creche
-   * elves
-   * family
-   * festival
-   * garland
-   * greeting
-   * icicle
-   * kings
-   * lights
-   * manger
-   * merry
-   * mittens
-   * myrrh
-   * nativity
-   * navidad
-   * partridge
-   * presents
-   * reindeer
-   * scarf
-   * sleigh
-   * stnick
-   * sweater
-   * tidings
-   * tinsel
-   * wassail
-   * winter
-   * wintry
-   * wiseman
-   * wish
-   * wrap
-   * wreath
+   Matches:  
+   angel candle candy charity chill cider creche elves family festival garland greeting icicle kings lights manger merry mittens myrrh nativity navidad partridge presents reindeer scarf sleigh stnick sweater tidings tinsel wassail winter wintry wiseman wish wrap wreath 
    
    No match:
-   * chimney
-   * christmastide
-   * giftgiving
-   * iceskate
-   * mincepie
-   * santaselves
-   * santashelper
-   * santaslist
+   chimney christmastide giftgiving iceskate mincepie santaselves santashelper santaslist 
    
    Suprisingly has no match:
-   * cap
-   * card
-   * elf
+   cap card elf
    
    And here are some near-matches, for your amusement:
    * cannycane (candycane)
@@ -153,4 +108,4 @@ Lessons to apply to real-life project:
 * Do test cases
 * Automate as much as possible, not only for ease but also reproducibility
 
-Well then, `MEVARRLCHRISIM`!
+With that, have a protein-packed Christmas, `MEVARRLCHRISIM`!
