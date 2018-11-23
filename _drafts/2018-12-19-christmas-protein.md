@@ -69,18 +69,18 @@ This silly exercise will also show you a glimpse of data processing workflow com
    sed -i 's/^/>prot\n/' xmas.clean.txt
    ``` 
 
-1. Finally, it's BLAST time! From my experience, the web and local blastp sometimes give different results because of different parameters. To ensure consistency, you can save the search strategy from blastp webpage, thus capturing all the parameters. Save the search strategy file as `christmas.asn`. I further edited my search strategy file to point to my local protein database. 
+1. Finally, it's BLAST time! From my experience, the web and local blastp sometimes give different results because of different parameters. To ensure consistency, you can save the search strategy from blastp webpage, thus capturing all the parameters. Save the search strategy file as `xmas.asn`. I further edited my search strategy file to point to my local protein database. 
 Now before running on all words, do a test run to see if it gives you the same result as the webpage.
 
    ```bash
-   blastp -import_search_strategy christmas.asn -out christmas.out
+   blastp -import_search_strategy xmas.asn -out xmas.out
    ```
    
    All good? Go ahead and run on all words. My desktop took around 20 minutes. Perfect time to take _fikapaus_ :)
    
    ```bash
-   # overwrite query in christmas.asn
-   blastp -import_search_strategy christmas.asn -query xmas.clean.txt -out xmas.out    
+   # overwrite query in xmas.asn
+   blastp -import_search_strategy xmas.asn -query xmas.clean.txt -out xmas.out    
    ```
 
 1. *Jingle bells, jingle bells, oh what fun it is, to, ahem, analyse your result!*   
@@ -128,4 +128,4 @@ As I said in the beginning, there are some aspects of this exercise that can be 
 1. _Automate as much as possible, not only for ease but also reproducibility_  
    Not only that you should write scripts, you should pay attention to how you name your scripts and variables, as well as documenting them with comments. The future you will thank you! This really takes deliberate effort and I can tell you that I did not do enough of this during my PhD and I am committing to do more.
 
-So with these Christmas-sy proteins, may you have a protein-packed Christmas, `MEVARRLCHRISIM`!
+So with these Christmas-sy proteins, may you have a protein-packed Christmas. `MEVARRLCHRISIM`!
