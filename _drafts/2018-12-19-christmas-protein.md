@@ -107,8 +107,8 @@ Now before running on all words, do a test case to see if it gives you the same 
    wrarpigdgpaper (wrappingpaper)
    ```
 
-   Just for fun, I also included `NATALIE`, our dear blog coach's name, in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord)
-   Her name turns out to be quite popular across the kingdoms so to speak, from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D   
+   Just for fun, I also included `NATALIE`, our dear blog coach's name, in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord).
+   Her name turns out to be quite popular across the kingdoms so to speak: from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D   
    Here are some:
    ```
    PTV49966.1 hypothetical protein DBL04_17595, partial [Acinetobacter seifertii]
@@ -121,6 +121,7 @@ Now before running on all words, do a test case to see if it gives you the same 
 
 ---
 
+### Postscript
 As I said in the beginning, there are some aspects of this exercise that can be applied to one's real-life project:
 1. _Consistency_  
    You might notice that consistency is a motif in the exercise. I did a test case in blastp webpage first and compare the result to when I run local blastp. I wrote script for consistent data processing.
