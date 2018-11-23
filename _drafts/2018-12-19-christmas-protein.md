@@ -70,13 +70,13 @@ This silly exercise will also show you a glimpse of data processing workflow com
    ``` 
 
 1. Finally, it's BLAST time! From my experience, the web and local blastp sometimes give different results because of different parameters. To ensure consistency, you can save the search strategy from blastp webpage, thus capturing all the parameters. Save the search strategy file as `christmas.asn`. I further edited my search strategy file to point to my local protein database. 
-Now before running on all words, do a test case to see if it gives you the same result as the webpage.
+Now before running on all words, do a test run to see if it gives you the same result as the webpage.
 
    ```bash
    blastp -import_search_strategy christmas.asn -out christmas.out
    ```
    
-   All is good? Go ahead and run on all words. My desktop took around 20 minutes. Perfect time to take fikapaus :)
+   All good? Go ahead and run on all words. My desktop took around 20 minutes. Perfect time to take _fikapaus_ :)
    
    ```bash
    # overwrite query in christmas.asn
