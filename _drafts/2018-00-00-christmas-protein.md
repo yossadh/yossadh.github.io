@@ -13,16 +13,43 @@ This silly exercise will also show you a glimpse of data processing workflow com
 
 **Note** that this was done with Linux with local blastp (protein BLAST) installation.
 
+* First, do a test case. Go to [NCBI blastp web interface](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) ans we will try to submit a peptide which has the sequence `CHRISTMAS`. Enter this in the query box:
 
-1. First let's source a list of words. A cursory Google search leads me [here](https://www.enchantedlearning.com/wordlist/christmas.shtml). Save this as xmas.txt
-* Do some clean up
+```
+>prot
+CHRISTMAS
+```
+
+And let's see the top 3 results...
+
+```
+Query  1    CHRISTMAS  9
+            CHRI TM S
+Sbjct  313  CHRITTMSS  321
+
+Query  1   CHR---ISTMAS  9
+           CHR   ISTMAS
+Sbjct  12  CHRLEKISTMAS  23
+
+Query  1    CHRISTMAS  9
+            CHR+S MAS
+Sbjct  97   CHRVSSMAS  105
+```
+
+Ok, so there is no `CHRISTMAS` sequence occurring yet in all the proteins that humans currently know! Very sad :(
+
+* Now let's repeat this with other Christmas-related words. Let's say you have around 100 words/sequences to BLAST, you wouldn't do this one by one to the blastp webpage, would you? We will be using a local installation of blastp to do BLAST searches in batch. blastp is part of software suite BLAST+ made available by NCBI for this very purpose (see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) for more information).
+
+* Let's source a list of Christmas-related words. A cursory Google search leads me [here](https://www.enchantedlearning.com/wordlist/christmas.shtml). Copy-paste this to a text file. Make sure every word in in a separate line. Save this as `xmas.txt`.
+
+* Do some clean up. This is easy to do in a Linux terminal. You can of course do manual clean up, but humans are inconsistent. It is better to automate the process with a script. The result will be consistent, traceable, and reproducible.
 
 ```bash
 # convert everything to lowercase
 tr [:upper:] [:lower:] < xmas.txt > xmas.clean.txt 
 # further cleanup 
 sed -i '/[bgjouxz]/d      # delete all words containing non amino acid letters
-        /^.$/d            # delete words with just one letter
+        /^.$/d            # delete lines with just one letter
         s/ //g            # delete single spaces
         s/[[:punct:]]//g  # remove punctuations
         ' xmas.clean.txt
@@ -37,12 +64,21 @@ sed -i 's/^/>prot\n/' xmas.clean.txt
 split -l 2 xmas.clean.txt
 ``` 
 
-* Finally, submit them to blastp and wait a long time (it took ~9 hours for me). Best to run it overnight :)
-Note that we use blastp-short here which is configured to searches with short sequences.
+* Finally, it's BLAST time! From my experience, the web and local blastp sometimes give different results because of different parameters. To ensure consistency, you can save the search strategy from blastp webpage, thus capturing all the parameters. Save the search strategy file as `christmas.asn`. I further edited my search strategy file to point to my local protein database. 
+Now before running on all words, do a test case to see if it gives you the same result as the webpage.
 
 ```bash
-for i in x??; do
-    blastp -task blastp-short -remote -comp_based_stats 0 -query $i -db nr > $i.out
-    done
+blastp -import_search_strategy christmas.asn -out christmas.out
 ```
 
+All is good? Go ahead and run on all words. It took ~9 hours for me. Best to run it overnight :)
+```bash
+for i in *.fasta; do
+    blastp -import_search_strategy christmas.asn -query $i -out $i.out    
+done
+```
+* Jingle bells, jingle bells, oh what fun it is, to analyse your result! 
+
+Lessons to apply to real-life project:
+- Do test cases
+- Automate as much as possible, not only for ease but also reproducibility
