@@ -83,14 +83,14 @@ Now before running on all words, do a test case to see if it gives you the same 
    blastp -import_search_strategy christmas.asn -query xmas.clean.txt -out xmas.out    
    ```
 
-1. *Jingle bells, jingle bells, oh what fun it is, to analyse your result!*   
+1. *Jingle bells, jingle bells, oh what fun it is, to, ahem, analyse your result!*   
    Matches:
    `angel candle candy charity chill cider creche elves family festival garland greeting icicle kings lights manger merry mittens myrrh nativity navidad partridge presents reindeer scarf sleigh stnick sweater tidings tinsel wassail winter wintry wiseman wish wrap wreath` 
    
    No match:
    `chimney christmastide giftgiving iceskate mincepie santaselves santashelper santaslist` 
    
-   Suprisingly has no match:
+   Suprisingly no match:
    `cap card elf`
    
    And here are some near-matches, for your amusement:
@@ -122,9 +122,9 @@ Now before running on all words, do a test case to see if it gives you the same 
 ---
 
 As I said in the beginning, there are some aspects of this exercise that can be applied to one's real-life project:
-1. Consistency
+1. **Consistency**  
    You might notice that consistency is a motif in the exercise. I did a test case in blastp webpage first and compare the result to when I run local blastp. I wrote script for consistent data processing.
-1. Automate as much as possible, not only for ease but also reproducibility
+1. **Automate as much as possible, not only for ease but also reproducibility**  
    Not only that you should write scripts, you should pay attention to how you name your scripts and variables, as well as documenting them with comments. The future you will thank you! This really takes deliberate effort and I can tell you that I did not do enough of this during my PhD and I am committing to do more.
 
 So with these Christmas-sy proteins, may you have a protein-packed Christmas, `MEVARRLCHRISIM`!
