@@ -14,6 +14,8 @@ This silly exercise will also show you a glimpse of data processing workflow com
 
 **Note** that this was done with Linux with local blastp (protein BLAST) installation.
 
+---
+
 1. First, do a test case. Go to [NCBI blastp web interface](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) and we will try to submit a peptide which has the sequence `CHRISTMAS`. Enter this in the query box:
 
    ```
@@ -82,9 +84,6 @@ Now before running on all words, do a test case to see if it gives you the same 
    ```
 
 1. *Jingle bells, jingle bells, oh what fun it is, to analyse your result!*   
-Just for fun, I also included `NATALIE`, our dear blog coach, in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord)
-Her name turns out to be quite popular across the kingdoms so to speak, from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D
-
    Matches:
    `angel candle candy charity chill cider creche elves family festival garland greeting icicle kings lights manger merry mittens myrrh nativity navidad partridge presents reindeer scarf sleigh stnick sweater tidings tinsel wassail winter wintry wiseman wish wrap wreath` 
    
@@ -108,12 +107,24 @@ Her name turns out to be quite popular across the kingdoms so to speak, from bac
    wrarpigdgpaper (wrappingpaper)
    ```
 
+   Just for fun, I also included `NATALIE`, our dear blog coach's name, in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord)
+   Her name turns out to be quite popular across the kingdoms so to speak, from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D   
+   Here are some:
+   ```
+   PTV49966.1 hypothetical protein DBL04_17595, partial [Acinetobacter seifertii]
+   PAA83426.1 hypothetical protein BOX15_Mlig003849g1 [Macrostomum lignano]
+   XP_009469590.1 PREDICTED: dynein heavy chain 5, axonemal-like [Nipponia nippon]
+   XP_010576315.1 PREDICTED: dynein heavy chain 5, axonemal-like [Haliaeetus leucocephalus]
+   XP_009884215.1 PREDICTED: dynein heavy chain 5, axonemal-like [Charadrius vociferus]
+   XP_021242631.1 dynein heavy chain 5, axonemal-like isoform X1 [Numida meleagris]
+   ```
+
+---
+
 As I said in the beginning, there are some aspects of this exercise that can be applied to one's real-life project:
 1. Consistency
    You might notice that consistency is a motif in the exercise. I did a test case in blastp webpage first and compare the result to when I run local blastp. I wrote script for consistent data processing.
 1. Automate as much as possible, not only for ease but also reproducibility
    Not only that you should write scripts, you should pay attention to how you name your scripts and variables, as well as documenting them with comments. The future you will thank you! This really takes deliberate effort and I can tell you that I did not do enough of this during my PhD and I am committing to do more.
 
----
-
-So with these Christmas-sy proteins, have a protein-packed Christmas, `MEVARRLCHRISIM`!
+So with these Christmas-sy proteins, may you have a protein-packed Christmas, `MEVARRLCHRISIM`!
