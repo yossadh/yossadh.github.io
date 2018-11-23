@@ -15,6 +15,7 @@ https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed
 
 Python learning points for scientists (some dont' just apply to Python)
 - code documentation
+- naming files, variables, functions
 - object types: int, float, str, list, tuple, dictionary
 - conditional and loop statements
 - functions and abstractions
