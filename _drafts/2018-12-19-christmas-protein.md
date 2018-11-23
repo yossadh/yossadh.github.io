@@ -47,6 +47,8 @@ This silly exercise will also show you a glimpse of data processing workflow com
 1. Do some clean up. This is easy to do in a Linux terminal. You can of course do manual clean up, but humans are inconsistent. It is better to automate the process with a script. The result will be consistent, traceable, easily customisable, and reproducible.
 
    ```bash
+   # cleanup.sh: clean up list of christmas words for blastp search
+
    # convert everything to lowercase
    # note that we keep xmas.raw.txt untouched, for if we ever need to revisit the data cleanup again
    tr [:upper:] [:lower:] < xmas.raw.txt > xmas.clean.txt 
@@ -79,11 +81,11 @@ Now before running on all words, do a test case to see if it gives you the same 
    blastp -import_search_strategy christmas.asn -query xmas.clean.txt -out xmas.out    
    ```
 
-1. Jingle bells, jingle bells, oh what fun it is, to analyse your result!   
+1. *Jingle bells, jingle bells, oh what fun it is, to analyse your result!*   
 Just for fun, I also included `NATALIE`, our dear blog coach, in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord)
 Her name turns out to be quite popular across the kingdoms so to speak, from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D
 
-   Matches:  
+   Matches:
    `angel candle candy charity chill cider creche elves family festival garland greeting icicle kings lights manger merry mittens myrrh nativity navidad partridge presents reindeer scarf sleigh stnick sweater tidings tinsel wassail winter wintry wiseman wish wrap wreath` 
    
    No match:
@@ -94,20 +96,24 @@ Her name turns out to be quite popular across the kingdoms so to speak, from bac
    
    And here are some near-matches, for your amusement:
    ```
-   * cannycane (candycane)
-   * emergreen (evergreen)
-   * fathprrhrlssmas (fatherchristmas)
-   * firpeplace (fireplace)
-   * fradkiksense (frankincense)
-   * mevarrlchrisim (merrychristmas)
-   * pvnetree (pinetree)
-   * sinterrlass (sinterklaas)
-   * widrertime (wintertime)
-   * wrarpigdgpaper (wrappingpaper)
+   cannycane (candycane)
+   emergreen (evergreen)
+   fathprrhrlssmas (fatherchristmas)
+   firpeplace (fireplace)
+   fradkiksense (frankincense)
+   mevarrlchrisim (merrychristmas)
+   pvnetree (pinetree)
+   sinterrlass (sinterklaas)
+   widrertime (wintertime)
+   wrarpigdgpaper (wrappingpaper)
    ```
 
-Lessons to apply to real-life project:
-* Do test cases
-* Automate as much as possible, not only for ease but also reproducibility
+As I said in the beginning, there are some aspects of this exercise that can be applied to one's real-life project:
+1. Consistency
+   You might notice that consistency is a motif in the exercise. I did a test case in blastp webpage first and compare the result to when I run local blastp. I wrote script for consistent data processing.
+1. Automate as much as possible, not only for ease but also reproducibility
+   Not only that you should write scripts, you should pay attention to how you name your scripts and variables, as well as documenting them with comments. The future you will thank you! This really takes deliberate effort and I can tell you that I did not do enough of this during my PhD and I am committing to do more.
 
-With that, have a protein-packed Christmas, `MEVARRLCHRISIM`!
+---
+
+So with these Christmas-sy proteins, have a protein-packed Christmas, `MEVARRLCHRISIM`!
