@@ -76,14 +76,14 @@ Now before running on all words, do a test run to see if it gives you the same r
    blastp -import_search_strategy xmas.asn -out xmas.out
    ```
    
-   All good? Go ahead and run on all words. My desktop took around 20 minutes. Perfect time to take _fikapaus_ :)
+   All good? Go ahead and run on all words. My desktop took around 20 minutes. Perfect time to take a _fikapaus_ :)
    
    ```bash
    # overwrite query in xmas.asn
    blastp -import_search_strategy xmas.asn -query xmas.clean.txt -out xmas.out    
    ```
 
-1. *Jingle bells, jingle bells, oh what fun it is, to, ahem, analyse your result!*   
+1. *Jingle bells, jingle bells, oh what fun it is to, ahem, analyse your result!*   
    Matches:
    `angel candle candy charity chill cider creche elves family festival garland greeting icicle kings lights manger merry mittens myrrh nativity navidad partridge presents reindeer scarf sleigh stnick sweater tidings tinsel wassail winter wintry wiseman wish wrap wreath` 
    
