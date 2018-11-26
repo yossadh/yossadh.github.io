@@ -20,6 +20,9 @@ Learning points for scientists from coding
 - conditional and loop statements
 - functions and abstractions
 - code review and refactoring
+- file I/O (opening, reading, and writing file)
 - Python:
   - object types: list, tuple, set, dictionary
   - list comprehension
+
+- So far don't need: assertion, exception
