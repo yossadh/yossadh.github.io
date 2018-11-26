@@ -107,6 +107,8 @@ Now before running on all words, do a test run to see if it gives you the same r
    wrarpigdgpaper (wrappingpaper)
    ```
 
+   There are quite a number of Christmas-sy proteins!
+
    Just for fun, I also included `NATALIE`, our dear blog coach's name, in the search, and coincidentally her name is Christmas-sy! (Latin: *natalis dies Domini* = birthday of the Lord).
    Her name turns out to be quite popular across the kingdoms so to speak: from bacteria, fish, octopus, to birds, there are proteins with `NATALIE` inside :D   
    Here are some:
