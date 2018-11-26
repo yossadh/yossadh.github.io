@@ -41,11 +41,11 @@ So here I am listing some points that I pick up from learning Python, and mentio
   do_thing_b
   }
   
-  do thing_a(){
+  do_thing_a(){
   ...
   }
   
-  do thing_b(){
+  do_thing_b(){
   ...
   }
   
