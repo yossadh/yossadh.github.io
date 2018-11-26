@@ -58,7 +58,7 @@ So here I am listing some points that I pick up from learning Python, and mentio
     Not that important, since it can always be replaced by loop, but it is a powerful Python feature and faster than loop
   - Packages: sys, sys.argv, os, math, numpy
   - Pick a good text editor/IDE (I use vi and Jupyter notebook)
-  - *So far don't need*: assertion, exception, classes
+  - *So far don't need*: assertion, try, exception, classes, decorator
 
 My own favourite Python tutorials:
 - [Software Carpentry tutorials](https://software-carpentry.org/lessons/), also for UNIX shell and git  
