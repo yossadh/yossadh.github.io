@@ -56,9 +56,9 @@ So here I am listing some points that I pick up from learning Python, and mentio
   - Object types: list, tuple, set, dictionary
   - List comprehension  
     Not that important, since it can always be replaced by loop, but it is a powerful Python feature and faster than loop
-  - Packages: sys, os, math, numpy
-  - Use text editor/IDE with syntax highlighting (I use vi and Jupyter notebook)
-  - *So far don't need*: assertion, exception
+  - Packages: sys, sys.argv, os, math, numpy
+  - Pick a good text editor/IDE (I use vi and Jupyter notebook)
+  - *So far don't need*: assertion, exception, classes
 
 My own favourite Python tutorials:
 - [Software Carpentry tutorials](https://software-carpentry.org/lessons/), also for UNIX shell and git  
