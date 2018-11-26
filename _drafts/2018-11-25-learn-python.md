@@ -64,4 +64,4 @@ My own favourite Python tutorials:
 - [Software Carpentry tutorials](https://software-carpentry.org/lessons/), also for UNIX shell and git  
 - [How to think like a computer scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html) 
 
-Related posts: Jupyter notebook
+Related post: [Jupyter notebook]()
