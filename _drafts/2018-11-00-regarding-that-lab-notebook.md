@@ -22,6 +22,16 @@ To summarise, my current documentation setup:
 - slides (one presentation per project): figures, schemes, narrative of the project, current result with timestamp
 - Jupyter notebook: graphs, data processing
 
-[How to pick an electronic laboratory notebook](https://www.nature.com/articles/d41586-018-05895-3)
-> Every month, his team exports pages to PDF files and signs them electronically; the files are then moved to a directory where they cannot be changed. 
-Somehow, this workflow resonates with me the most. It lets people to use anything they want, as long as it is exportable to PDF, and at the same time ticks the boxes for protection   
+While researching about about what the other scientists are using, I came across this article <[How to pick an electronic laboratory notebook](https://www.nature.com/articles/d41586-018-05895-3)>, which from the beginning already assumes that traditional notebook is cumbersome and electronic lab notebook (ELN) is definitely the future, but there are so many ELN options -- how to choose? (If you are interested, one of the references has [a comprehensive list](http://www.atriumresearch.com/eln.html).)
+
+I looked at several options and well, I don't know, somehow I am turned off by all the commercial options. I think the ideal ELN for science should be open-source like Jupyter notebook.
+
+> Every month, his team exports pages to PDF files and signs them electronically; the files are then moved to a directory where they cannot be changed.
+
+Somehow, this workflow resonates with me the most. It lets people to use anything they want, as long as it is exportable to PDF, and at the same time fulfilling audit requirement of timestamping and non-editability.
+
+I would submit that a better (but not necessarily easier) way to do this is to implement a sort of simplified version control, borrowed from software development. I use git lightly, and it works like this: you work on a project which has features A and B; you 'stage' the changes related to feature A and 'commit', thus timestamping and logging it in the timeline; you do the same for feature B -- 'staging' is precisely for this purpose, to bundle together changes in a structured manner. The version control software only saves the *incremental* changes, unlike the export PDF example above, where duplicate plus the incremental change are stored at every 'commit'. In this way you would accumulate a linear collections of timepoints (branching is possible but let's exclude it for simplicity), in which you have a record of every change in your notebook (isn't this like... blockchain?). Even if you go back and revert some changes you make because of a mistake for instance, that is recorded as yet another commit. 
+
+Make version control more user-friendly and simpler for the user (nice GUI; and we can also skip the staging for example) and for the auditor (they can see the whole timeline and there is a slider button to quickly review all changes), and I think I would gladly use it. The weakness of this approach is, the ELN needs to be largely plain text, otherwise the changes in the commit may be difficult to view. Jupyter notebook is actually well-suited for this, since it is just a JSON file. Now if someone can integrate Jupyter notebook and the simplified version control (like when you edit files in GitHub, there is always a commit box waiting for you), that would be cool! Not everyone is familiar with git -- I know when I first learned git, it took me sometime to, ahem, 'git' it.  
+
+
