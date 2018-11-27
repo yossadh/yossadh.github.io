@@ -16,7 +16,7 @@ So here I am listing some points that I pick up from learning Python, and mentio
 
 ### Learning points for scientists from coding:
 - Code documentation  
-  I often opened my old script files and took a few minutes to figure out what on earth I was doing. For scripts, code comments are often enough for documentation. But don't overcomment, e.g.:
+  I often opened my old script files and took a few minutes to figure out what on earth I was doing. For scripts, code comments are often enough for documentation ([here](https://realpython.com/python-comments-guide/) is a good commenting guide). But don't overcomment, e.g.:
   ```python
   # assign value to counter -> redundant comment
   counter = 0
