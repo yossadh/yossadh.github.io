@@ -38,7 +38,7 @@ So here I am listing some points that I pick up from learning Python, and mentio
   # - easy to comment out
   main(){
   do_thing_a
-  do_thing_b
+  #do_thing_b # skip the whole function with line, instead of block, comment
   }
   
   do_thing_a(){
