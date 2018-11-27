@@ -29,6 +29,7 @@ Perhaps you had to explain how hard it is to do X to your non-scientist friend, 
 PyMol Python API
 someone did an entire presentation (with slides!) in pymol...
 .pml is nice but .py is better
+you can include Python code in .pml, but...
 https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed
 
 Python learning points for scientists
