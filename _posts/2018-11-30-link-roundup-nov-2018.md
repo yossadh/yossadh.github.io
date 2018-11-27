@@ -18,7 +18,11 @@ tags:
 - [The Scientist \| Solar-Powered Yeast Are More Efficient Drug Factories](https://www.the-scientist.com/news-opinion/solar-powered-yeast-are-more-efficient-drug-factories-65094)
 - [Nature \| What I learnt pulling a straw out of a turtle’s nose](https://www.nature.com/articles/d41586-018-07287-z)
 - [Paper \| Characterization and engineering of a plastic-degrading aromatic polyesterase](http://www.pnas.org/content/115/19/E4350)
+
 ___
+
 - [3 Little Known But Useful Vim Tips](https://dev.to/jovica/3-little-known-but-useful-vim-tips-1pbg)
+
 ___
+
 - [Why the British Tell Better Children’s Stories](https://www.theatlantic.com/entertainment/archive/2016/01/why-the-british-tell-better-childrens-stories/422859/)
