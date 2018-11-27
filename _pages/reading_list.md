@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### Current
+* Python tricks: the book \| Dan Bader
 * 2312 \| Kim Stanley Robinson
 * We have no idea \| Jorge Cham and Daniell Whiteson
 * Gödel, Escher, Bach: and Eternal Golden Braid \| Douglas R. Hofstadter
