@@ -42,7 +42,7 @@ This silly exercise will also show you a glimpse of data processing workflow com
    Hmmm, ok, so there is no `CHRISTMAS` sequence occurring yet in all the proteins that humans currently know! Very sad :(  
    To give you some idea of our search space, the protein database we are searching is nr, [RefSeq non-redundant protein sequences](https://www.ncbi.nlm.nih.gov/refseq/about/nonredundantproteins/), which as of 2018/11/22 has 178,521,967 sequences!  
    
-1. Now let's repeat this with other Christmas-related words. Let's say you have around 100 words/sequences to BLAST, you wouldn't submit them one by one to the blastp webpage, would you? We will be using a local installation of blastp to do BLAST searches in batch. blastp is part of software suite BLAST+ made available by NCBI for that very purpose (see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) for more information).
+1. Now let's repeat this with other Christmas-related words. Although we can also still use the web interface, let's try using a local installation of blastp to do the BLAST search instead. blastp is part of software suite BLAST+ made available by NCBI (see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) for more information).
 
 1. Let's source a list of Christmas-related words. A cursory Google search leads me [here](https://www.enchantedlearning.com/wordlist/christmas.shtml). Copy-paste this to a text file. Make sure every word is in a separate line. Save this as `xmas.raw.txt`.
 
