@@ -9,6 +9,7 @@ tags:
 ---
 
 ### Science
+[Nature \| Statistical pitfalls of personalized medicine](https://www.nature.com/articles/d41586-018-07535-2)  
 [Quanta magazine \| ‘Lava-Lamp’ Proteins May Help Cells Cheat Death](https://www.quantamagazine.org/phase-separating-proteins-may-protect-and-regulate-cells-20181126/)  
 [The Oatmeal \| On November 26th, a mole will land on Mars](http://theoatmeal.com/comics/insight): NASA's InSight mission illustrated   
 [In the Pipeline \| Machine Learning: Be Careful What You Ask For](https://blogs.sciencemag.org/pipeline/archives/2018/11/20/machine-learning-be-careful-what-you-ask-for)  
