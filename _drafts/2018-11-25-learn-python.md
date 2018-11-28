@@ -55,7 +55,7 @@ So here I am listing some points that I pick up from learning Python, and mentio
 - Python-specific:
   - Object types: list, tuple, set, dictionary
   - List comprehension  
-    Not that important, since it can always be replaced by loop, but it is a powerful Python feature and faster than loop
+    Not that important, since it can always be replaced by loop, but it is a powerful Python feature. It is more succinct and faster than loop
   - Packages: sys, sys.argv, os, math, numpy
   - Pick a good text editor/IDE (I use vi and Jupyter notebook)
   - *So far don't need*: assertion, try, exception, classes, decorator
