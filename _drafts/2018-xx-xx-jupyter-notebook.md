@@ -14,4 +14,6 @@ tags:
 
 [CERN gravitational wave Jupyter notebook](https://hub.mybinder.org/user/losc-tutorial-l-_event_tutorial-ymrn44sy/notebooks/index.ipynb)
 
-https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed
+[1M Jupyter notebooks analyzed](https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed)
+
+[Why Jupyter is data scientists’ computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1)
