@@ -23,6 +23,7 @@ So here I am listing some points and good practices I pick up from learning Pyth
   # assign value to counter -> redundant comment
   counter = 0
   ```
+  Furthermore, I think scientists can learn from the way software developers think about their documentation. specifically applied to our lab notebook. You need to deliberately devote time and effort to document. I expand this thought in more details in [another blog post about lab notebooking](TODO).
 - Code review and refactoring  
   This is related to the previous point. If you write readable and well-structured code, sometimes comments become unnecessary. Code has to be revisited and revised, not only for the logic, but for structure.
 - Naming files, variables, functions  
@@ -62,8 +63,15 @@ So here I am listing some points and good practices I pick up from learning Pyth
   - Pick a good text editor/IDE (I use vi, Jupyter notebook, and VSCode)
   - *So far don't need*: assertion, try, exception, classes, decorator
 
-My own favourite Python tutorials:
+Finally, here are some Python courses/tutorials I have tried:
+- [edX \| Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/course/)
+  Comprehensive. Try this one if you need a solid foundation. Not suitable if you just want to get started quick.
+- [edX \| Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+2T2017/course/)
+  Introduces a lot of nice tools like Jupyter notebook and pandas.
+- [DataCamp](https://www.datacamp.com/) 
+  Bite-size step-by-step lessons. Good if you have only small chunks of time here and there. You will also be given a small exercise right after each lesson to make it stick.
 - [Software Carpentry tutorials](https://software-carpentry.org/lessons/), also for UNIX shell and git  
-- [How to think like a computer scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html) 
+- [How to think like a computer scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+  This one is my favourite. Things started to click for me here -- perhaps because I've done the other Python tutorials at this point, but give it a try.
 
 Related post: [Jupyter notebook](TODO)
