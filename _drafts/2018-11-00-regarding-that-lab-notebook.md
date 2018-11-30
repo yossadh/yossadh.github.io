@@ -29,7 +29,7 @@ Another thing I want to mention, is that I also have a script that nags me every
 If you would like a similar setup, you can easily set one by setting hourly reminder and log the entries in your Google or Outlook calendar (I keep mine in a plain text file). 
 
 ### Is there a better way?  
-Curious about better notebook options and what other scientists are using, first I asked around my computational group colleagues, and they generally also do not have any specialised ELN, but the usual OneNote, gDoc, pen and paper, and the likes.
+Curious about better notebook options and what other scientists are using, first I asked around my computational group colleagues, and they generally do not use any specialised ELN either, but the usual OneNote, gDoc, pen and paper, and the likes.
 
 Turning my queries online, I came across this Nature article <[How to pick an electronic laboratory notebook](https://www.nature.com/articles/d41586-018-05895-3)>, which from the get-go already assumes that traditional notebook is cumbersome and electronic lab notebook (ELN) is definitely the future, but there are so many ELN options -- how to choose? (If you are interested, one of the references has [a comprehensive list](http://www.atriumresearch.com/eln.html).)
 
