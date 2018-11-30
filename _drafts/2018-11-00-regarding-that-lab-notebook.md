@@ -31,14 +31,14 @@ If you would like a similar setup, you can easily set one by setting hourly remi
 ### Is there a better way?  
 Curious about better notebook options and what other scientists are using, first I asked around my computational group colleagues, and they generally also do not have any specialised ELN, but the usual OneNote, gDoc, pen and paper, and the likes.
 
-Researching online, I came across this Nature article <[How to pick an electronic laboratory notebook](https://www.nature.com/articles/d41586-018-05895-3)>, which from the get-go already assumes that traditional notebook is cumbersome and electronic lab notebook (ELN) is definitely the future, but there are so many ELN options -- how to choose? (If you are interested, one of the references has [a comprehensive list](http://www.atriumresearch.com/eln.html).)
+Turning my queries online, I came across this Nature article <[How to pick an electronic laboratory notebook](https://www.nature.com/articles/d41586-018-05895-3)>, which from the get-go already assumes that traditional notebook is cumbersome and electronic lab notebook (ELN) is definitely the future, but there are so many ELN options -- how to choose? (If you are interested, one of the references has [a comprehensive list](http://www.atriumresearch.com/eln.html).)
 
 I looked at the options mentioned in the article and well, I don't know, somehow I am turned off by all the commercial options. I think the ideal ELN for science should be open-source like Jupyter notebook.
 
 One workflow from the article resonates with me, though --
 > Every month, his team exports pages to PDF files and signs them electronically; the files are then moved to a directory where they cannot be changed.
 
- I like it because it lets people to use any form of notebook they want (even pen and paper!), as long as it is exportable to PDF, and at the same time fulfilling audit requirement of timestamping and non-editability.
+I like it because it lets people to use any form of notebook they want (even pen and paper!), as long as it is exportable to PDF, and at the same time fulfilling audit requirement of timestamping and non-editability.
 
 ### Version control as timestamping and more
 
