@@ -62,8 +62,8 @@ To summarise, this is my current lab notebook setup:
 - Pen and paper: scratchpad stuff
 - Slides (one presentation per project): figures, schemes, narrative of the project, current result with timestamp
 - Jupyter notebook: graphs, data processing
-- Hourly log script: for self-tracking, probably will be redundant with if using `git` 
-- *Trying out*: Markdown files, editing with Visual Studio Code, version control with `git` (integrated in VSCode) 
+- Hourly log script: for self-tracking, probably will be redundant if using `git` 
+- *Trying out*: Markdown files, editing with Visual Studio Code, version control with `git` (integrated in VSCode)  
   (see screenshot below)
 
 ![VSCode screenshot](../images/vscode.jpg "VSCode screenshot")
