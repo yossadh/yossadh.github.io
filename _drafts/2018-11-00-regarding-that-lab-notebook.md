@@ -65,7 +65,7 @@ To summarise, this is my current lab notebook setup:
 - Hourly log script: for self-tracking, probably will be redundant with if using `git` 
 - *Trying out*: Markdown files, editing with Visual Studio Code, version control with `git` (integrated in VSCode)
 
-![VSCode screenshot](images/vscode.png "VSCode screenshot")
+![VSCode screenshot](../images/vscode.png "VSCode screenshot")
 
 
 
