@@ -56,17 +56,16 @@ Ideally, they (I'm not sure who... kind strangers?) should make `git` version co
 
 Sounds like something you would use? Well, actually that thing I described above sort of exists already. If you install [Anaconda](https://www.anaconda.com/), a popular Python distribution, [Visual Studio Code](https://code.visualstudio.com/) (VSCode) is bundled inside. VSCode is an **open-source** code editor, and you know what, it has `git` built-in. You can **stage** and **commit** away with abandon without arcane terminal commands. I would suggest keeping the notebook in the form of Markdown files, since they are plain text, although you can do `.tex` files equally well. It has a lot of plugins, including a `git` history viewer. As a bonus, I can access the Linux terminal from within (I love my bash scripts) and there is  a plugin that lets you load Jupyter notebooks as well! 
 
-So I'm starting to slowly incorporate this VSCode setup into my workflow, and we will see if it gains traction.
+You can see my VSCode setup in the screenshot below:
+![VSCode screenshot](../images/vscode.jpg "VSCode screenshot")
+
+Take a closer look at the Markdown file in the screenshot... Yup, this blogpost itself is written with VSCode. Quite meta, isn't it? So I'm starting to slowly incorporate this VSCode setup into my workflow, and we will see if it gains traction.
 
 To summarise, this is my current lab notebook setup:
 - Pen and paper: scratchpad stuff
 - Slides (one presentation per project): figures, schemes, narrative of the project, current result with timestamp
 - Jupyter notebook: graphs, data processing
 - Hourly log script: for self-tracking, probably will be redundant if using `git` 
-- *Trying out*: Markdown files, editing with Visual Studio Code, version control with `git` (integrated in VSCode)  
-  (see screenshot below)
-
-![VSCode screenshot](../images/vscode.jpg "VSCode screenshot")
-
+- *Trying out*: Markdown files, editing with Visual Studio Code, version control with `git` (integrated in VSCode) 
 
 
