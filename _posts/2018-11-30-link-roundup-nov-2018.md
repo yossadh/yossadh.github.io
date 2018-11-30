@@ -9,6 +9,7 @@ tags:
 ---
 
 ### Science
+[Biology StackExchange \| What is the oldest protein in a human body?](https://biology.stackexchange.com/questions/79381/what-is-the-oldest-protein-in-a-human-body)  
 [Quanta magazine \| A Collector of Math and Physics Surprises](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)  
 [STAT \| Amid uproar, Chinese scientist defends creating gene-edited babies](https://www.statnews.com/2018/11/28/chinese-scientist-defends-creating-gene-edited-babies/) [via [In the Pipeline](http://blogs.sciencemag.org/pipeline/archives/2018/11/28/after-such-knowledge)]  
 [Nature \| Statistical pitfalls of personalized medicine](https://www.nature.com/articles/d41586-018-07535-2)  
