@@ -10,7 +10,7 @@ tags:
 ---
 
 This C&EN article <[Is machine learning overhyped?](https://cen.acs.org/physical-chemistry/computational-chemistry/machine-learning-overhyped/96/i34)> is great in its candour and depth about how machine learning is affecting chemistry. As chemistry is the central science, some points also definitely apply to science at large.  
-  
+
 Here are some of my takeaways:
 - "30% of respondents use machine learning regularly in their work."  
 - QSAR models have been using machine learning all along
