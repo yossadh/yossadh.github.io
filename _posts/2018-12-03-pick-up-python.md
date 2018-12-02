@@ -1,6 +1,7 @@
 ---
 title:  "Picking up Python as a scientist"
-date: 2018-xx-xx
+date: 2018-12-03
+permalink: /posts/2018/12/pick-up-python/
 categories: 
   - short
 tags:
@@ -23,7 +24,7 @@ So here I am listing some points and good practices I pick up from learning Pyth
   # assign value to counter -> redundant comment
   counter = 0
   ```
-  Furthermore, I think scientists can learn from the way software developers do their documentation, specifically applied to our lab notebook. One needs to deliberately devote time and effort to document. I expand this thought in more details in [another blog post about lab notebooking](TODO).
+  Furthermore, I think scientists can learn from the way software developers do their documentation, specifically applied to our lab notebook. One needs to deliberately devote time and effort to document. I will elaborate on lab notebooking in [another blogpost](TODO) (link will be updated).
 - Code review and refactoring  
   This is related to the previous point. If you write readable and well-structured code, sometimes comments become unnecessary. Code has to be revisited and revised, not only for the logic, but for structure.
 - Naming files, variables, functions  
@@ -58,8 +59,8 @@ So here I am listing some points and good practices I pick up from learning Pyth
 - Python-specific:
   - Object types: list, tuple, set, dictionary
   - List comprehension  
-    Not that important, since it can always be replaced by loop, but it is a powerful Python feature. It is more succinct and faster than loop.
-  - Packages: sys, sys.argv, os, math, numpy
+    Not that important, since it can always be replaced by loop, but it is a powerful Python feature. It is more succinct and faster than loop. On the other hand, it can be too terse that readability suffers.
+  - Packages: sys, sys.argv, os, math, numpy, pandas, matplotlib
   - Pick a good text editor/IDE (I use vi, Jupyter notebook, and VSCode)
   - *So far don't need*: assertion, try, exception, classes, decorator
 
@@ -73,5 +74,3 @@ Finally, here are some Python courses/tutorials I have tried:
 - [Software Carpentry tutorials](https://software-carpentry.org/lessons/), also for UNIX shell and git  
 - [How to think like a computer scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)  
   This one is my favourite. Things started to click for me here -- perhaps because I've done the other Python tutorials at this point, but give it a try.
-
-Related post: [Jupyter notebook](TODO)
