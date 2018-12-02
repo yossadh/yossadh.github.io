@@ -26,4 +26,4 @@ tags:
 ### Coding  
 [3 Little Known But Useful Vim Tips](https://dev.to/jovica/3-little-known-but-useful-vim-tips-1pbg)  
 ### Others  
-[Why the British Tell Better Children’s Stories](https://www.theatlantic.com/entertainment/archive/2016/01/why-the-british-tell-better-childrens-stories/422859/)  
+[The Atlantic \| Why the British Tell Better Children’s Stories](https://www.theatlantic.com/entertainment/archive/2016/01/why-the-british-tell-better-childrens-stories/422859/)  
