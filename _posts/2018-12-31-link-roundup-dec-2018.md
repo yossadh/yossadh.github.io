@@ -9,6 +9,6 @@ tags:
 ---
 
 ### Science
-### Coding  
+[Popular Science \| Cannabis gets its high-inducing power from ancient viruses](https://www.popsci.com/ancient-viruses-cannabis-genome) 
 ### Others  
 [The Atlantic \| The World’s Most Efficient Languages](https://www.theatlantic.com/international/archive/2016/06/complex-languages/489389/)
