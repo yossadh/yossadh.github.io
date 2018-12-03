@@ -50,7 +50,9 @@ Sounds like something you would use? Well, actually that thing I described above
 You can see my VSCode setup in the screenshot below:
 ![VSCode screenshot](/images/vscode.jpg "VSCode screenshot")
 
-Take a closer look at the Markdown file in the screenshot... Yup, this blogpost itself is written with VSCode. Quite meta, isn't it? So I'm starting to slowly incorporate this VSCode setup into my workflow, and we will see if it gains traction.
+Take a closer look at the Markdown file in the screenshot... Yup, this blogpost itself is written with VSCode. Quite meta, isn't it? 
+
+So I'm starting to slowly incorporate this VSCode setup into my workflow, and we will see if it gains traction.
 
 To summarise, this is my current lab notebook setup:
 - Pen and paper: scratchpad stuff
