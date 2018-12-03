@@ -10,6 +10,7 @@ tags:
 ---
 ### Part 1: Lab notebooking and me
 *'Tis the receptacle of our tinkering of the world, out of which we distill and crystallise knowledge.*
+
 <p align="center">
   <img src="https://www.bl.uk/britishlibrary/~/media/bl/global/highlights/sky%20arts/arundel_ms_263_f087r.jpg" height="200px"/>
 </p>
