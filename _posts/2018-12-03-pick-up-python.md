@@ -17,7 +17,7 @@ I did heed his advice and looked up some tutorials but soon abandoned it since i
   <img src="/images/me_and_python.jpg" height="200px"/>
 </p>
 <p align="center">
-Exhibit A: How much I love Python
+Exhibit A: Me picking up some python...
 </p>
 
 I did pick up Python starting late last year, right after my thesis defense, while waiting for my work visa. While it is true that many resources and tutorials are out there, since Python is a popular language, I often found that the tutorials are more geared towards software developers. Scientists often do not need the full-blown Python capabilities or follow certain style guidelines, since we often write small scripts with fewer than 100 lines, instead of a big software.
