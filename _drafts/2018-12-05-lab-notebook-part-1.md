@@ -31,9 +31,11 @@ Another thing I want to mention, is that I also have a script that nags me every
 
 If you would like a similar setup, you can easily set one by setting hourly reminder and log the entries in your Google or Outlook calendar (I keep mine in a plain text file). You can see how this log file looks like below:
 
-![]()
+<p align="center">
+  <img src="/images/log.png" height="200px"/>
+</p>
+
 TODO:
-- log file screenshot
 - open notebook science
 - [Ten Simple Rules for a Computational Biologist’s Laboratory Notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385)
 - philosophy: track as much as possible with least effort possible
