@@ -9,14 +9,13 @@ tags:
   - lab notebook
 ---
 ### Part 1: Lab notebooking and me
+'Tis the receptacle of our tinkering of the world, out of which we distill and crystallise knowledge.
 <p align="center">
   <img src="https://www.bl.uk/britishlibrary/~/media/bl/global/highlights/sky%20arts/arundel_ms_263_f087r.jpg" height="200px"/>
 </p>
 <p align="center">
 Leonardo da Vinci's notebook / British Library
 </p>
-
-(TODO: Catchy excerpt) da vinci notebook
 
 Whether one does research in academia and industry, the lab notebook is a constant companion. In fact, in industry the notebook recording would be even more enforced and regulated due to IP and patent and stuff, while in academia it tends to be more lax; or at least that is my impression anyway.
 
