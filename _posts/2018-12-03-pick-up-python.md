@@ -13,6 +13,9 @@ My PhD supervisor prophetically decreed back in 2013 that "it might do thee some
 
 I did heed his advice and looked up some tutorials but soon abandoned it since it was not directly relevant to what I was doing. Now that Python is all the buzz, I feel a tinge of regret for not persisting to learn Python. I do believe the ability to code is now essential for a scientist regardless of fields, but especially in biology where we encounter growing size of data. This Nature article <[Programming: Pick up Python](https://www.nature.com/news/programming-pick-up-python-1.16833)> lays out this argument in more details with some resources for you to begin picking up Python.
 
+![](/images/me_and_python.jpg)  
+Exhibit A: How much I love Python
+
 I did pick up Python starting late last year, right after my thesis defense, while waiting for my work visa. While it is true that many resources and tutorials are out there, since Python is a popular language, I often found that the tutorials are more geared towards software developers. Scientists often do not need the full-blown Python capabilities or follow certain style guidelines, since we often write small scripts with fewer than 100 lines, instead of a big software.
 
 So here I am listing some points and good practices I pick up from learning Python that are good to know, and mention some advanced features that you can skip from tutorials if you just want to pick up Python quickly. Some of the points are not Python-specific, but good coding practices and/or 'philosophy' of sorts (try googling [Zen of Python](http://wiki.c2.com/?PythonPhilosophy), for example). 
