@@ -14,7 +14,7 @@ My PhD supervisor prophetically decreed back in 2013 that "it might do thee some
 I did heed his advice and looked up some tutorials but soon abandoned it since it was not directly relevant to what I was doing. Now that Python is all the buzz, I feel a tinge of regret for not persisting to learn Python. I do believe the ability to code is now essential for a scientist regardless of fields, but especially in biology where we encounter growing size of data. This Nature article <[Programming: Pick up Python](https://www.nature.com/news/programming-pick-up-python-1.16833)> lays out this argument in more details with some resources for you to begin picking up Python.
 
 <p align="center">
-  <img src="/images/me_and_python.jpg" height="500px"/>
+  <img src="/images/me_and_python.jpg" height="200px"/>
 </p>
 <p align="center">
 Exhibit A: How much I love Python
