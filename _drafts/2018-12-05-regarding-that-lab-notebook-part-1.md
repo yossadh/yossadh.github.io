@@ -9,6 +9,8 @@ tags:
   - lab notebook
 ---
 ### Part 1: Lab notebooking and me
+(TODO: Catchy excerpt) da vinci notebook
+
 Whether one does research in academia and industry, the lab notebook is a constant companion. In fact, in industry the notebook recording would be even more enforced and regulated due to IP and patent and stuff, while in academia it tends to be more lax; or at least that is my impression anyway.
 
 Now, for those doing computational work, how best to log and record our work? The wet lab notebook is definitely not a good fit, since we have some code snippets here and there, which are not so amenable to longhand. In my initial PhD years doing structural biology work, I was happy to adopt OneNote at the suggestion of my PI, who was a fan. It worked fine, but somehow when I transitioned to more computational work, I abandoned it. Perhaps it is too bloated with features. Perhaps it's the change to Linux desktop. But there is the web version, you say; I know, I know, perhaps it's just my lack of discipline after all...
@@ -19,7 +21,7 @@ With this in mind, I was happy to find [Jupyter notebook](http://jupyter.org/) i
 
 Don't get me wrong, Jupyter notebook is very useful and I still use it, but not for my *big picture* notebook. I find it better to have one notebook of say, a particular data processing from raw data with some docking scores, to pretty graphs, to final selection to be passed on to a collaborator. I think Jupyter notebook would better fit work that is more scripting-heavy e.g. non-structural bioinformatics and/or deals with an enormous amount of data e.g. data science, astronomy.
 
-I also still use pen and paper for scratchpad stuff: brainstorming, sketching ideas, immediate todo list, doubts, and other unpolished stuff. I would not abandon pen and paper yet, since the current research says that [pen is mightier than the keyboard](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581) (but I will copy-paste that code snippet, thank you). 
+I also still use pen and paper as scratchpad: brainstorming, sketching ideas, immediate todo list, doubts, and other unpolished stuff. I would not abandon pen and paper yet, since the current research says that [pen is mightier than the keyboard](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581) (but I will copy-paste that code snippet, thank you). 
 
 Interestingly, what sticks for me as a big picture notebook is... wait for it... presentation slides! Wait, wait go back, don't go away. 
 
@@ -32,5 +34,10 @@ If you would like a similar setup, you can easily set one by setting hourly remi
 ![]()
 TODO:
 - log file screenshot
+- open notebook science
+- [Ten Simple Rules for a Computational Biologist’s Laboratory Notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385)
+- philosophy: track as much as possible with least effort possible
 
-In [Part 2](TODO) (link will be updated), I will talk about a new lab notebook setup that I am trying.
+In [Part 2](TODO) (link will be updated), I will talk about alternative options out there and a new lab notebook setup that I am trying out.
+
+
