@@ -1,6 +1,7 @@
 ---
 title:  "Regarding that lab notebook... (Part 1)"
-date: 2018-11-19
+date: 2018-12-05
+permalink: /posts/2018/12/lab-notebook-part-1/
 categories: 
   - long
 tags:
@@ -26,7 +27,10 @@ I've learned during my PhD that my weekly update with my supervisor keep me on m
 
 Another thing I want to mention, is that I also have a script that nags me every hour to log what I am doing at the hour, with the script automatically generating the timestamp. Besides jolting me out of procrastination, it helps me track of the distribution of work among the projects over the weeks, for example. I keep the entries simple, and I don't fill every hour, so it comes down to a few entries per workday. 
 
-If you would like a similar setup, you can easily set one by setting hourly reminder and log the entries in your Google or Outlook calendar (I keep mine in a plain text file). 
+If you would like a similar setup, you can easily set one by setting hourly reminder and log the entries in your Google or Outlook calendar (I keep mine in a plain text file). You can see how this log file looks like below:
 
+![]()
 TODO:
 - log file screenshot
+
+In [Part 2](TODO) (link will be updated), I will talk about a new lab notebook setup that I am trying.
