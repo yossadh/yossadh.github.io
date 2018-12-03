@@ -1,5 +1,5 @@
 ---
-title:  "Regarding that lab notebook... (Part 1)"
+title:  "Regarding that lab notebook... (Part 1: Lab notebooking and me)"
 date: 2018-12-05
 permalink: /posts/2018/12/lab-notebook-part-1/
 categories: 
@@ -8,7 +8,6 @@ tags:
   - computational biology
   - lab notebook
 ---
-### Part 1: Lab notebooking and me
 *'Tis the receptacle of our tinkering of the world, out of which we distill and crystallise knowledge.*
 
 <p align="center">
