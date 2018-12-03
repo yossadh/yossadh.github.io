@@ -1,5 +1,5 @@
 ---
-title:  "Regarding that lab notebook... (Part 2)"
+title:  "Regarding that lab notebook... (Part 2: Is there a better way?)"
 date: 2018-12-10
 permalink: /posts/2018/12/lab-notebook-part-2/
 categories: 
@@ -8,7 +8,6 @@ tags:
   - computational biology
   - lab notebook
 ---
-### Part 2: Is there a better way?  
 *Searching, searching, for a better receptacle.*
 
 Curious about better notebook options and what other scientists are using, first I asked around my computational group colleagues. They generally do not use any specialised ELN either, but the usual OneNote, gDoc, pen and paper, and the likes.
