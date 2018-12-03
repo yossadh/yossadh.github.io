@@ -31,7 +31,7 @@ So here I am listing some points and good practices I pick up from learning Pyth
   # assign value to counter -> redundant comment
   counter = 0
   ```
-  Furthermore, I think scientists can learn from the way software developers do their documentation, specifically applied to our lab notebook. One needs to deliberately devote time and effort to document. I will elaborate on lab notebooking in [another blogpost](TODO) (link will be updated).
+  Furthermore, I think scientists can learn from the way software developers do their documentation, specifically applied to our lab notebook. One needs to deliberately devote time and effort to document. I will elaborate on lab notebooking in [another blogpost](/posts/2018/12/lab-notebook-part-1/).
 - Code review and refactoring  
   This is related to the previous point. If you write readable and well-structured code, sometimes comments become unnecessary. Code has to be revisited and revised, not only for the logic, but for structure.
 - Naming files, variables, functions  
