@@ -8,7 +8,7 @@ tags:
   - links
 ---
 
-### Science
+**Science**  
 [Biology StackExchange \| What is the oldest protein in a human body?](https://biology.stackexchange.com/questions/79381/what-is-the-oldest-protein-in-a-human-body)  
 [Quanta magazine \| A Collector of Math and Physics Surprises](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)  
 [STAT \| Amid uproar, Chinese scientist defends creating gene-edited babies](https://www.statnews.com/2018/11/28/chinese-scientist-defends-creating-gene-edited-babies/) [via [In the Pipeline](http://blogs.sciencemag.org/pipeline/archives/2018/11/28/after-such-knowledge)]  
@@ -21,10 +21,10 @@ tags:
 [C&EN \| Making biologics on demand](https://cen.acs.org/biological-chemistry/biotechnology/Making-biologics-demand/96/i45)  
 [The Scientist \| Solar-Powered Yeast Are More Efficient Drug Factories](https://www.the-scientist.com/news-opinion/solar-powered-yeast-are-more-efficient-drug-factories-65094)  
 [Nature \| What I learnt pulling a straw out of a turtle’s nose](https://www.nature.com/articles/d41586-018-07287-z)  
-### Paper
+**Paper**  
 [WIREs Comp Mol Sci](https://onlinelibrary.wiley.com/doi/full/10.1002/wcms.1340) \| PySCF, quantum chemistry calculations with Python, open source [via [iwatobipen](https://iwatobipen.wordpress.com/2017/07/30/quantum-chemistry-calculation-with-python/)]  
 [PNAS \| Characterization and engineering of a plastic-degrading aromatic polyesterase](http://www.pnas.org/content/115/19/E4350)  
-### Coding  
+**Coding**  
 [3 Little Known But Useful Vim Tips](https://dev.to/jovica/3-little-known-but-useful-vim-tips-1pbg)  
-### Others  
+**Others**    
 [The Atlantic \| Why the British Tell Better Children’s Stories](https://www.theatlantic.com/entertainment/archive/2016/01/why-the-british-tell-better-childrens-stories/422859/)  
