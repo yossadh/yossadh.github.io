@@ -9,8 +9,8 @@ tags:
 ---
 
 **Science**  
-[Popular Science \| Cannabis gets its high-inducing power from ancient viruses](https://www.popsci.com/ancient-viruses-cannabis-genome) 
+[Popular Science \| Cannabis gets its high-inducing power from ancient viruses](https://www.popsci.com/ancient-viruses-cannabis-genome)  
 **Paper**  
-[J Med Chem \| Two Decades under the Influence of the Rule of Five and the Changing Properties of Approved Oral Drugs](http://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00686)
+[J Med Chem \| Two Decades under the Influence of the Rule of Five and the Changing Properties of Approved Oral Drugs](http://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00686)  
 **Others**   
-[The Atlantic \| The World’s Most Efficient Languages](https://www.theatlantic.com/international/archive/2016/06/complex-languages/489389/)
+[The Atlantic \| The World’s Most Efficient Languages](https://www.theatlantic.com/international/archive/2016/06/complex-languages/489389/)  
