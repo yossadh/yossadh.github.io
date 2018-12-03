@@ -1,6 +1,7 @@
 ---
 title:  "Regarding that lab notebook... (Part 2)"
-date: 2018-11-19
+date: 2018-12-10
+permalink: /posts/2018/12/lab-notebook-part-2/
 categories: 
   - long
 tags:
