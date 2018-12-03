@@ -16,6 +16,13 @@ I did heed his advice and looked up some tutorials but soon abandoned it since i
 ![](/images/me_and_python.jpg){:height="30%" width="30%"}  
 Exhibit A: How much I love Python
 
+<p align="center">
+  <img src="/images/me_and_python.jpg" height="500px"/>
+</p>
+<p align="center">
+Exhibit A: How much I love Python
+</p>
+
 I did pick up Python starting late last year, right after my thesis defense, while waiting for my work visa. While it is true that many resources and tutorials are out there, since Python is a popular language, I often found that the tutorials are more geared towards software developers. Scientists often do not need the full-blown Python capabilities or follow certain style guidelines, since we often write small scripts with fewer than 100 lines, instead of a big software.
 
 So here I am listing some points and good practices I pick up from learning Python that are good to know, and mention some advanced features that you can skip from tutorials if you just want to pick up Python quickly. Some of the points are not Python-specific, but good coding practices and/or 'philosophy' of sorts (try googling [Zen of Python](http://wiki.c2.com/?PythonPhilosophy), for example). 
