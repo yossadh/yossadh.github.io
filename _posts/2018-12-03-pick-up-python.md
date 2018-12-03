@@ -76,7 +76,7 @@ Finally, here are some Python courses/tutorials I have tried:
   Comprehensive. Try this one if you need a solid foundation. Not suitable if you just want to get started quick.
 - [edX \| Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+2T2017/course/)  
   Introduces a lot of nice tools like Jupyter notebook and pandas.
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
   Practical stuff. Good for beginners who just want to pick up Python quickly.
 - [DataCamp](https://www.datacamp.com/)  
   Bite-size step-by-step lessons. Good if you have only small chunks of time here and there. You will also be given a small exercise right after each lesson to make it stick.
