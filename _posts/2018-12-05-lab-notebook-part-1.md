@@ -41,4 +41,4 @@ If you would like a similar setup, you can easily set one by setting hourly remi
   <img src="/images/log.png" height="200px"/>
 </p>
 
-In [Part 2](/posts/2018/12/lab-notebook-part-2/) (link will be updated), I will talk about alternative options out there and a new lab notebook setup that I am trying out.
+In [Part 2](/posts/2018/12/lab-notebook-part-2/), I will talk about alternative options out there and a new lab notebook setup that I am trying out.
