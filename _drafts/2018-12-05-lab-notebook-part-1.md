@@ -41,11 +41,4 @@ If you would like a similar setup, you can easily set one by setting hourly remi
   <img src="/images/log.png" height="200px"/>
 </p>
 
-TODO:
-- open notebook science
-- [Ten Simple Rules for a Computational Biologist’s Laboratory Notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385)
-- philosophy: track as much as possible with least effort possible
-
-In [Part 2](TODO) (link will be updated), I will talk about alternative options out there and a new lab notebook setup that I am trying out.
-
-
+In [Part 2](/posts/2018/12/lab-notebook-part-2/) (link will be updated), I will talk about alternative options out there and a new lab notebook setup that I am trying out.
