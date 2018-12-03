@@ -31,7 +31,7 @@ I would submit that a better (but not necessarily easier) way to do this is to b
   <img src="http://phdcomics.com/comics/archive/phd101212s.gif" height="200px"/>
 </p>
 <p align="center">
-Another thing that we should get into version control...
+Another thing that we should get into version control... <br>Image credit: <a href="http://phdcomics.com/comics/archive.php?comicid=1531">PHDComics</a>
 </p>
 
 In our case, our notebook *is* the source code. Indeed, there are others who have the same idea. Googling 'git lab notebook' gives several hits, for example [this one](https://github.com/tlnagy/jekyll-lab-notebook) is centred around the calendar days and lives in GitHub.  (The version control software that I am familiar with is `git`, so I will mention `git` a lot.)
