@@ -8,12 +8,14 @@ author_profile: true
 {% include base_path %}
 
 ### Current
+* On not speaking Chinese \| Ien Ang
 * Python tricks: the book \| Dan Bader
 * 2312 \| Kim Stanley Robinson
-* We have no idea \| Jorge Cham and Daniell Whiteson
+* We have no idea \| Jorge Cham and Daniel Whiteson
 * Gödel, Escher, Bach: and Eternal Golden Braid \| Douglas R. Hofstadter
 
 ### Past
+* Consider the fork \| Bee Wilson
 * Lelaki Harimau \| Eka Kurniawan
 * I contain multitudes \| Ed Yong
 * Harry Potter and the Methods of Rationality \| Eliezer Yudkowsky
