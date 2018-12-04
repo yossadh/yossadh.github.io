@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[The Atlantic \| The CRISPR Baby Scandal Gets Worse by the Day](https://www.theatlantic.com/science/archive/2018/12/15-worrying-things-about-crispr-babies-scandal/577234/)  
 [Popular Science \| Cannabis gets its high-inducing power from ancient viruses](https://www.popsci.com/ancient-viruses-cannabis-genome)  
 **Paper**  
 [J Med Chem \| Two Decades under the Influence of the Rule of Five and the Changing Properties of Approved Oral Drugs](http://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00686)  
