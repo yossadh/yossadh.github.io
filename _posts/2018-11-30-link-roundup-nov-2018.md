@@ -24,7 +24,6 @@ tags:
 **Paper**  
 [WIREs Comp Mol Sci](https://onlinelibrary.wiley.com/doi/full/10.1002/wcms.1340) \| PySCF, quantum chemistry calculations with Python, open source [via [iwatobipen](https://iwatobipen.wordpress.com/2017/07/30/quantum-chemistry-calculation-with-python/)]  
 [PNAS \| Characterization and engineering of a plastic-degrading aromatic polyesterase](http://www.pnas.org/content/115/19/E4350)  
-**Coding**  
-[3 Little Known But Useful Vim Tips](https://dev.to/jovica/3-little-known-but-useful-vim-tips-1pbg)  
 **Others**    
 [The Atlantic \| Why the British Tell Better Children’s Stories](https://www.theatlantic.com/entertainment/archive/2016/01/why-the-british-tell-better-childrens-stories/422859/)  
+[3 Little Known But Useful Vim Tips](https://dev.to/jovica/3-little-known-but-useful-vim-tips-1pbg) 
