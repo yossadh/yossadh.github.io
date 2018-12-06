@@ -9,6 +9,8 @@ tags:
 ---
 
 **Science**  
+[The Scientist \| Book Excerpt from Gene Machine](https://www.the-scientist.com/reading-frames/book-excerpt-from-gene-machine-65171)
+"...author Venki Ramakrishnan relays the moment when he and collaborators finally solved the structure of a ribosomal subunit."  
 [The Atlantic \| The CRISPR Baby Scandal Gets Worse by the Day](https://www.theatlantic.com/science/archive/2018/12/15-worrying-things-about-crispr-babies-scandal/577234/)  
 [Popular Science \| Cannabis gets its high-inducing power from ancient viruses](https://www.popsci.com/ancient-viruses-cannabis-genome)  
 **Paper**  
