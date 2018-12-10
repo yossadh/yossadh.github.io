@@ -23,7 +23,6 @@ tags:
 [Entropy Explained, With Sheep](https://aatishb.com/entropy/)  
 [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](https://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/)  
 [Top 11 Alternative Entry Level PhD Science Careers To Skip the PostDoc](http://thegradstudentway.com/blog/?p=2153)  
-
 **Others**  
 [A Brief History of Metaphysics](http://existentialcomics.com/comic/250)  
 [Philosophy Round Table: Human Nature](http://existentialcomics.com/comic/242)  
