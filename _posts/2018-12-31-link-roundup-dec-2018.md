@@ -9,6 +9,8 @@ tags:
 ---
 
 **Science**  
+[Synthetic biology: A call for a new culture of responsibility](https://thebulletin.org/2018/12/synthetic-biology-a-call-for-a-new-culture-of-responsibility/)  
+[Science \| Chess, a _Drosophila_ of reasoning](http://science.sciencemag.org/content/362/6419/1087)  
 [The Scientist \| Book Excerpt from Gene Machine](https://www.the-scientist.com/reading-frames/book-excerpt-from-gene-machine-65171)
 "...author Venki Ramakrishnan relays the moment when he and collaborators finally solved the structure of a ribosomal subunit."  
 [The Atlantic \| The CRISPR Baby Scandal Gets Worse by the Day](https://www.theatlantic.com/science/archive/2018/12/15-worrying-things-about-crispr-babies-scandal/577234/)  
