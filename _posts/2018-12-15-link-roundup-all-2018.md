@@ -23,8 +23,7 @@ tags:
 [Entropy Explained, With Sheep](https://aatishb.com/entropy/)  
 [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](https://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/)  
 [Top 11 Alternative Entry Level PhD Science Careers To Skip the PostDoc](http://thegradstudentway.com/blog/?p=2153)  
-**Coding**  
-[Learn Perl in about 2 hours 30 minutes](https://qntm.org/files/perl/perl.html)  
+
 **Others**  
 [A Brief History of Metaphysics](http://existentialcomics.com/comic/250)  
 [Philosophy Round Table: Human Nature](http://existentialcomics.com/comic/242)  
@@ -33,3 +32,4 @@ tags:
 [The Philosophy Force Five vs the Scientismists](http://existentialcomics.com/comic/190)  
 [A collection of dataviz caveats](https://www.data-to-viz.com/caveats.html)  
 [How to Train Your Own Neural Network](https://lifehacker.com/we-trained-an-ai-to-generate-lifehacker-headlines-1826616918)  
+[Learn Perl in about 2 hours 30 minutes](https://qntm.org/files/perl/perl.html)  
