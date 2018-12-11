@@ -27,7 +27,7 @@ tags:
 [A Brief History of Metaphysics](http://existentialcomics.com/comic/250)  
 [Philosophy Round Table: Human Nature](http://existentialcomics.com/comic/242)  
 [Jenga and the Meaning of Life](http://existentialcomics.com/comic/226)  
-[Superphilosopher](http://existentialcomics.com/comic/202) 
+[Superphilosopher](http://existentialcomics.com/comic/202)  
 [The Philosophy Force Five vs the Scientismists](http://existentialcomics.com/comic/190)  
 [A collection of dataviz caveats](https://www.data-to-viz.com/caveats.html)  
 [How to Train Your Own Neural Network](https://lifehacker.com/we-trained-an-ai-to-generate-lifehacker-headlines-1826616918)  
