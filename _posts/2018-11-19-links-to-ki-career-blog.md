@@ -9,6 +9,7 @@ tags:
 ---
 
 During my time as PhD student in Karolinska Institutet (2014–2017), I contributed several blog posts to a blog run by KI Career Service, which focuses on the life of the researcher and career advice. My posts mostly are about researcher life, science communication, and popular science. Here are the links to all my posts:  
+[Searching for Christmas-sy proteins](https://researcherblogski.wordpress.com/2018/12/11/searching-for-christmas-sy-proteins/) (Dec 2018)   
 [#23 So you are going to defend your thesis](https://researcherblogski.wordpress.com/2017/12/23/23-so-you-are-going-to-defend-your-thesis/)  
 [#8 Postdoctoral](https://researcherblogski.wordpress.com/2017/12/08/8-postdoctoral/)  
 [When I grow up, I’ll be a… science teacher](https://researcherblogski.wordpress.com/2017/10/16/when-i-grow-up-ill-be-a-science-teacher/)  
