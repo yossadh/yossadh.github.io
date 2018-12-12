@@ -18,20 +18,29 @@ My most impressionable memory of seeing a rainbow happened in a tourist bus in I
 
 ---
 
-Suggested background music: [The Muppet Movie -- Rainbow Connection ](https://www.youtube.com/watch?v=fEnC5gwNAN0M)
+Suggested background music: [The Muppet Movie – Rainbow Connection ](https://www.youtube.com/watch?v=fEnC5gwNAN0M)
 
 >Why are there so many songs about rainbows  
 And what's on the other side?
 
-This post has actually been simmering in my mind since I read [this paper](http://iopscience.iop.org/article/10.1088/0143-0807/37/6/063001/meta;jsessionid=7261FC35F9C0F500C705DA4198BDADAA.c1.iopscience.cld.iop.org) [1](#ref1), a review about rainbows in a physics journal! I was amazed by 1) how complex the physics of rainbows is, and 2) potentially how much we don't know still about rainbows. 
+This post has actually been simmering in my mind since I read [this paper](http://iopscience.iop.org/article/10.1088/0143-0807/37/6/063001/meta;jsessionid=7261FC35F9C0F500C705DA4198BDADAA.c1.iopscience.cld.iop.org) [[1](#ref1)], a review about rainbows in a physics journal! I was amazed by 1) how complex the physics of rainbows is, and 2) potentially how much we don't know still about rainbows. 
 
 It is such a formidable task to bring together the physics and fascination and wonder, and package it into a neat, coherent post, but here goes! 
 
->Rainbows are visions  
+The physics of rainbows can be succinctly stated: rainbows are projections of light refracted by water droplets behind you, the observer. 
+
+Now that physics of rainbows have a lot of mind-blowing implications:
+
+  >Rainbows are visions  
 But only illusions  
 And rainbows have nothing to hide  
 
-Yep. Rainbows are optical illusions, projections of light refracted by water droplets behind you, the observer. This means that you can't get your hands on the leprechaun's gold pot at the end of the rainbow; nor can you cross over to Asgard via the rainbow bridge Bifröst to say hej to Odin/Thor/Loki. (Somewhere, someone is wearing a T-shirt saying "Science: ruining romance since 12xx").
+- They _are_ optical illusions, since you need to be at certain angle with respect to the sunbeam and the water droplets. 
+
+  >You've located intrinsic worth in the wrong place," she said to all of them, over the common band. "It's like a rainbow. Without an observer at a twenty-three-degree angle to the light reflecting off a cloud of spherical droplets, there is no rainbow. The whole universe is like that. Our spirits stand at twenty-three-degree angle to the universe. There is some new thing created at the contact of photon and retina, some space created between rock and mind. Without mind there is no intrinsic worth."  
+– Kim Stanley Robinson, _Blue Mars_
+
+  This means that you can't get your hands on the leprechaun's gold pot at the end of the rainbow; nor can you cross over to Asgard via the rainbow bridge Bifröst to say _hej_ to Odin/Thor/Loki. (Somewhere, someone is wearing a T-shirt saying "Science: ruining romance since 12xx").
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/the_end_of_the_rainbow.png" height="200px"/>
@@ -40,26 +49,29 @@ Yep. Rainbows are optical illusions, projections of light refracted by water dro
 Obligatory xkcd comic<br>Image credit: <a href="https://xkcd.com/1944/">xkcd</a>
 </p>
 
+- Another observer at slightly different position doesn't see the same rainbow. They would see refractions from another droplet that fits the angle at their position.
+
+- If the droplet is small (e.g. in fog), the colours would not be well-separated, and you would see white rainbow (fogbow).
+
+
+
+
+
+
 [What the heck are white rainbows, and where do they come from?](https://www.popsci.com/where-do-white-rainbows-come-from)
 [There Is More to a Rainbow than Meets the Eye](https://medium.com/the-philipendium/there-is-more-to-a-rainbow-than-meets-the-eye-2a3e1a1c82d0)
-[Rainbows in nature: recent advances in observation and theory](http://iopscience.iop.org/article/10.1088/0143-0807/37/6/063001/meta;jsessionid=7261FC35F9C0F500C705DA4198BDADAA.c1.iopscience.cld.iop.org)
 [Rainbows are (literally) in the eye of the beholder](https://www.popsci.com/why-rainbows-look-like)
 
+>So we've been told  
+And some choose to believe it  
+I know they're wrong, wait and see  
+Some day we'll find it  
+The rainbow connection  
+The lovers, the dreamers, and me  
 
-Rainbows are an endless source of fascination. The science turns out to be very interesting, too -- this I didn't really appreciate fully when I was in high school physics class. So in this post I will give you the interesting scientific tidbits, then wax philosophical, as I am wont to do—
 
-
->You've located intrinsic worth in the wrong place," she said to all of them, over the common band. "It's like a rainbow. Without an observer at a twenty-three-degree angle to the light reflecting off a cloud of spherical droplets, there is no rainbow. The whole universe is like that. Our spirits stand at twenty-three-degree angle to the universe. There is some new thing created at the contact of photon and retina, some space created between rock and mind. Without mind there is no intrinsic worth."
-– Kim Stanley Robinson, _Blue Mars_
 
 Polar stratospheric cloud
-
-So we've been told
-And some choose to believe it
-I know they're wrong, wait and see
-Some day we'll find it
-The rainbow connection
-The lovers, the dreamers, and me
 
 Who said that every wish
 Would be heard and answered
@@ -88,7 +100,7 @@ I've heard it too many times to ignore it
 It's something that I'm supposed to be
 Someday we'll find it
 The rainbow connection
-The lovers, the dreamers and me</blockquote>
+The lovers, the dreamers and me
 La da da di da da dum da duh da da dum di da ohhh
 
 hbond
