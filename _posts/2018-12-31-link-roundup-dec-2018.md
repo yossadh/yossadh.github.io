@@ -9,7 +9,7 @@ tags:
 ---
 
 **Science**  
-[Scientists Don’t Stay for Long in Their Jobs Anymore: Study](https://www.the-scientist.com/news-opinion/scientists-dont-stay-for-long-in-their-jobs-anymore--study-65200)  
+[The Scientist \| Scientists Don’t Stay for Long in Their Jobs Anymore: Study](https://www.the-scientist.com/news-opinion/scientists-dont-stay-for-long-in-their-jobs-anymore--study-65200)  
 [What's the Most Dangerous Food of All Time?](https://gizmodo.com/whats-the-most-dangerous-food-of-all-time-1830979433)  
 [Synthetic biology: A call for a new culture of responsibility](https://thebulletin.org/2018/12/synthetic-biology-a-call-for-a-new-culture-of-responsibility/)  
 [Science \| Chess, a _Drosophila_ of reasoning](http://science.sciencemag.org/content/362/6419/1087)  
