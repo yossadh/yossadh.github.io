@@ -25,10 +25,12 @@ The voice might be one in the same
 
 Suggested background music: [The Muppet Movie – Rainbow Connection ](https://www.youtube.com/watch?v=fEnC5gwNAN0M)
 
-```
-Why are there so many songs about rainbows  
+<blockquote>
+<p align="right">
+Why are there so many songs about rainbows<br>   
 And what's on the other side?
-```
+</p>
+</blockquote>
 
 This post has actually been simmering in my mind since I read [this paper](http://iopscience.iop.org/article/10.1088/0143-0807/37/6/063001/meta;jsessionid=7261FC35F9C0F500C705DA4198BDADAA.c1.iopscience.cld.iop.org) [[1](#ref1)], a review about rainbows in a physics journal! I was amazed by 1) how nice it is to have a comprehensive physical explanation of an everyday object in a journal article, 2) how complex the physics of rainbows is, and 3) potentially how much we don't know still about rainbows. It is such a formidable task to bring together the physics and fascination and wonder, and package it into a neat, coherent post. Here goes! 
 
@@ -72,6 +74,7 @@ And what do we think we might see
 – Kim Stanley Robinson, _Blue Mars_
 
 - Another observer at slightly different position doesn't see the same rainbow. They would see refractions from another droplet that fits the angle at their position.
+- The light does not have to be from the sun, it can be from the moon (moonbow).
 
 <blockquote>
 <p align="right">
@@ -83,8 +86,6 @@ I know they're wrong, wait and see<br>
 
 - If the droplet is small (e.g. in fog), the colours would not be well-separated, and you would see white rainbow (fogbow).
   Check out this article <[What the heck are white rainbows, and where do they come from?](https://www.popsci.com/where-do-white-rainbows-come-from)>.
-
-- The light does not have to be from the sun, it can be from the moon (moonbow).
 - Raindrops are not spherical due to air drag. But the small ones experience less air drag such that they are roughly spherical. Bigger ones oscillate so much that not stable rainbows are formed. [[1](#ref1)]
 - The droplet does not have to be raindrop, it can be your garden-variety garden hose spray, for instance.
 
@@ -117,6 +118,8 @@ The rainbow connection<br>
 The lovers, the dreamers and me  
 </p>
 </blockquote>
+
+So, the next time it rains, look, look for that distorted image of the Sun, that only exists at the interface of photon and retina.
 
 Some more nice articles:
 - [There Is More to a Rainbow than Meets the Eye](https://medium.com/the-philipendium/there-is-more-to-a-rainbow-than-meets-the-eye-2a3e1a1c82d0)
