@@ -37,7 +37,7 @@ This post has actually been simmering in my mind since I read [this paper](http:
 >Rainbows are intangible, in the sense that they are nothing more than scattered sunlight reaching the observer from certain directions, or, alternatively expressed, they are heavily distorted images of the Sun itself.  
 – Alexander Haußmann, in the review article [[1](#ref1)]
 
-The physics of rainbows can be very succinctly stated: **rainbows are projections of light refracted by water droplets behind you, the observer**. Now, that brief physics of rainbows have a lot of mind-blowing implications:
+The physics of rainbows can be very succinctly stated: **rainbows are projections of light refracted by water droplets to you, the observer**. Now, that brief physics of rainbows have a lot of mind-blowing implications:
 
 <blockquote>
 <p align="right">
