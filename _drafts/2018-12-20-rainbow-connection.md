@@ -17,7 +17,7 @@ And have you heard voices?<br>
 I've heard them calling my name<br>  
 Is this the sweet sound<br>  
 That called the young sailors?<br>  
-The voice might be one in the same 
+The voice might be one and the same 
 </p>
 </blockquote>
 
