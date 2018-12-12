@@ -23,11 +23,9 @@ Suggested background music: [The Muppet Movie -- Rainbow Connection ](https://ww
 >Why are there so many songs about rainbows  
 And what's on the other side?
 
-This post has actually been simmering in my mind since I read [this paper](http://iopscience.iop.org/article/10.1088/0143-0807/37/6/063001/meta;jsessionid=7261FC35F9C0F500C705DA4198BDADAA.c1.iopscience.cld.iop.org) [1], a review about rainbows in a physics journal! I was amazed by 1) how complex the physics of rainbows is, and 2) potentially how much we don't know still about rainbows. 
+This post has actually been simmering in my mind since I read [this paper](http://iopscience.iop.org/article/10.1088/0143-0807/37/6/063001/meta;jsessionid=7261FC35F9C0F500C705DA4198BDADAA.c1.iopscience.cld.iop.org) [1](#ref1), a review about rainbows in a physics journal! I was amazed by 1) how complex the physics of rainbows is, and 2) potentially how much we don't know still about rainbows. 
 
 It is such a formidable task to bring together the physics and fascination and wonder, and package it into a neat, coherent post, but here goes! 
-
-[1] [Rainbows in nature: recent advances in observation and theory (2016) Alexander Haußmann _Eur. J. Phys._ **37** 063001](http://iopscience.iop.org/article/10.1088/0143-0807/37/6/063001/meta;jsessionid=7261FC35F9C0F500C705DA4198BDADAA.c1.iopscience.cld.iop.org)
 
 >Rainbows are visions  
 But only illusions  
@@ -95,5 +93,6 @@ La da da di da da dum da duh da da dum di da ohhh
 
 hbond
 
-
+<a id="ref1"></a>
+[1] [Rainbows in nature: recent advances in observation and theory (2016) Alexander Haußmann _Eur. J. Phys._ **37** 063001](http://iopscience.iop.org/article/10.1088/0143-0807/37/6/063001/meta;jsessionid=7261FC35F9C0F500C705DA4198BDADAA.c1.iopscience.cld.iop.org)
 
