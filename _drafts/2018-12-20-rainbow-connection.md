@@ -100,7 +100,7 @@ And look what it's done so far
 </p>
 </blockquote>
 
-- The droplet does not have to be raindrop, it can be ice crystals. I once saw a cousin of the rainbow, [polar stratospheric cloud](https://en.wikipedia.org/wiki/Polar_stratospheric_cloud), in the Swedish Lapland. The iridiscence comes from diffraction by ice crystals, so one only sees this when the temperature is very cold (it was around -20°C as I recall). See [this article](https://blog.metservice.com/atmospheric-optics) for more atmospheric optical phenomena.
+- The droplet does not have to be raindrop, it can be ice crystals. I once saw a cousin of the rainbow, [polar stratospheric cloud](https://en.wikipedia.org/wiki/Polar_stratospheric_cloud), in the Swedish Lapland. The iridiscence comes from diffraction by ice crystals, so one only sees this when the temperature is very low (it was around -20°C as I recall). See [this article](https://blog.metservice.com/atmospheric-optics) for more atmospheric optical phenomena.
 
 <p align="center">
   <img src="/images/psc.jpg" height="200px"/>
