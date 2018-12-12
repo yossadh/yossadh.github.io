@@ -86,7 +86,7 @@ I know they're wrong, wait and see<br>
 
 - If the droplet is small (e.g. in fog), the colours would not be well-separated, and you would see white rainbow (fogbow).
   Check out this article <[What the heck are white rainbows, and where do they come from?](https://www.popsci.com/where-do-white-rainbows-come-from)>.
-- Raindrops are not spherical due to air drag. But the small ones experience less air drag such that they are roughly spherical. Bigger ones oscillate so much that not stable rainbows are formed. [[1](#ref1)]
+- Raindrops are not spherical due to air drag. But the small ones experience less air drag such that they are roughly spherical. Bigger ones oscillate so much that "no stable rainbows are formed". [[1](#ref1)]
 - The droplet does not have to be raindrop, it can be your garden-variety garden hose spray, for instance.
 
 <blockquote>
