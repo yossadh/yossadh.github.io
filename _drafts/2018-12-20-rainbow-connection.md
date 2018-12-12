@@ -121,9 +121,9 @@ The lovers, the dreamers and me
 
 So, the next time it rains, look, look for that distorted image of the Sun, that only exists at the interface of photon and retina.
 
-Some more nice articles:
-- [There Is More to a Rainbow than Meets the Eye](https://medium.com/the-philipendium/there-is-more-to-a-rainbow-than-meets-the-eye-2a3e1a1c82d0)
-- [Rainbows are (literally) in the eye of the beholder](https://www.popsci.com/why-rainbows-look-like)
+Some more nice articles:  
+[There Is More to a Rainbow than Meets the Eye](https://medium.com/the-philipendium/there-is-more-to-a-rainbow-than-meets-the-eye-2a3e1a1c82d0)  
+[Rainbows are (literally) in the eye of the beholder](https://www.popsci.com/why-rainbows-look-like)
 
 Check out the review article as well:  
 <a id="ref1"></a>
