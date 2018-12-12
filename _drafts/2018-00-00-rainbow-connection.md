@@ -1,13 +1,13 @@
 ---
 title:  ""
-date: 2018-00-00
+date: 2018-12-20
 categories: 
   - long
 tags:
   - popular science
 ---
 
-I have an impressionable memory of seeing a rainbow when I was in a tourist bus in Iceland. It was faint, like a watercolour painting on the canvas that was the pale blue sky. I noticed it first, and a few minutes later the whole bus was teetering at one side of the bus, peering spellbound out of the window (except the bus driver, I hope).
+My most impressionable memory of seeing a rainbow happened in a tourist bus in Iceland. It was faint, like a watercolour painting on the canvas that was the pale blue sky. I noticed it first, and a few minutes later the whole bus was teetering at one side of the bus, peering spellbound out of the window (except the bus driver, I hope).
 
 >Why are there so many songs about rainbows 
 And what's on the other side?
@@ -20,7 +20,12 @@ You might want to play [_Rainbow Connection_]() while reading, just for the mood
 
 Ready?
 
-
+[What the heck are white rainbows, and where do they come from?](https://www.popsci.com/where-do-white-rainbows-come-from)
+[There Is More to a Rainbow than Meets the Eye](https://medium.com/the-philipendium/there-is-more-to-a-rainbow-than-meets-the-eye-2a3e1a1c82d0)
+[Rainbows in nature: recent advances in observation and theory](http://iopscience.iop.org/article/10.1088/0143-0807/37/6/063001/meta;jsessionid=7261FC35F9C0F500C705DA4198BDADAA.c1.iopscience.cld.iop.org)
+[Rainbows are (literally) in the eye of the beholder](https://www.popsci.com/why-rainbows-look-like)
+Obligatory xkcd comic
+[https://xkcd.com/1944/](https://xkcd.com/1944/)
 
 Rainbows are an endless source of fascination. The science turns out to be very interesting, too -- this I didn't really appreciate fully when I was in high school physics class. So in this post I will give you the interesting scientific tidbits, then wax philosophical, as I am wont to do—
 
