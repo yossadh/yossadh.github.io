@@ -37,7 +37,7 @@ This post has actually been simmering in my mind since I read [this paper](http:
 >Rainbows are intangible, in the sense that they are nothing more than scattered sunlight reaching the observer from certain directions, or, alternatively expressed, they are heavily distorted images of the Sun itself.  
 – Alexander Haußmann, in the review article [[1](#ref1)]
 
-The physics of rainbows can be very succinctly stated: **rainbows are projections of light refracted by water droplets to you, the observer**. Now, that brief physics of rainbows have a lot of mind-blowing implications:
+The physics of rainbows can be very succinctly stated: **rainbows are projections of light refracted by water droplets, perceived by you, the observer**. Now, that brief physics of rainbows have a lot of mind-blowing implications:
 
 <blockquote>
 <p align="right">
@@ -49,7 +49,7 @@ And rainbows have nothing to hide
 
 -   They _are_ optical illusions, since you need to be at certain angle with respect to the sunbeam and the water droplets. 
 
-    This means that you can't get your hands on the leprechaun's gold pot at the end of the rainbow; nor can you cross over to Asgård via the rainbow bridge Bifröst to say _hej_ to Odin/Thor/Loki. (Somewhere, someone is wearing a T-shirt saying "Science: ruining romance since 12xx").
+    This means that you can't get your hands on the leprechaun's gold pot at the end of the rainbow; nor can you cross over to Asgård via the rainbow bridge Bifröst to say _hej_ to Odin/Thor/Loki. (Somewhere, someone is wearing a T-shirt saying "Science: ruining romance since 12xx"). But then again ...
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/the_end_of_the_rainbow.png" height="200px"/>
