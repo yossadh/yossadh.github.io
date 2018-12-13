@@ -1,11 +1,11 @@
 ---
-title:  "Template Title"
+title:  "The brown house"
 date: 2019-01-00
 permalink: /posts/2019/01/template-title/
 categories: 
   - long
 tags:
-  - essay
+  - personal essay
 ---
 Someone once said that everyone has a story. When I think of my story, my thoughts swarm towards the house of Oma and Opa, my maternal grandparents, who lived in the same city as our family, in Surabaya, probably about half an hour’s drive away.
 
