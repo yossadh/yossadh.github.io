@@ -9,7 +9,7 @@ tags:
 ---
 
 **Science**  
-[Nature \| Enzymes engineered to trap reaction intermediates](https://www.nature.com/articles/d41586-018-07569-6) (with link to the paper therein)  
+[Nature \| Enzymes engineered to trap reaction intermediates](https://www.nature.com/articles/d41586-018-07569-6) with link to the paper therein  
 [The Scientist \| Scientists Don’t Stay for Long in Their Jobs Anymore: Study](https://www.the-scientist.com/news-opinion/scientists-dont-stay-for-long-in-their-jobs-anymore--study-65200)  
 [What's the Most Dangerous Food of All Time?](https://gizmodo.com/whats-the-most-dangerous-food-of-all-time-1830979433)  
 [Synthetic biology: A call for a new culture of responsibility](https://thebulletin.org/2018/12/synthetic-biology-a-call-for-a-new-culture-of-responsibility/)  
@@ -19,6 +19,7 @@ tags:
 [The Atlantic \| The CRISPR Baby Scandal Gets Worse by the Day](https://www.theatlantic.com/science/archive/2018/12/15-worrying-things-about-crispr-babies-scandal/577234/)  
 [Popular Science \| Cannabis gets its high-inducing power from ancient viruses](https://www.popsci.com/ancient-viruses-cannabis-genome)  
 **Paper**  
+[Proc. R. Soc. London, Ser. A \| The origins of quantum biology](https://royalsocietypublishing.org/doi/10.1098/rspa.2018.0674) A nice historical review    
 [J Med Chem \| qFit-ligand Reveals Widespread Conformational Heterogeneity of Drug-Like Molecules in X-Ray Electron Density Maps](http://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01292)  
 [Nature \| Mannose impairs tumour growth and enhances chemotherapy](https://www.nature.com/articles/s41586-018-0729-3) [via [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2018/12/05/mannose-and-cancer)]  
 [J Med Chem \| Two Decades under the Influence of the Rule of Five and the Changing Properties of Approved Oral Drugs](http://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00686)  
