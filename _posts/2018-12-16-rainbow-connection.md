@@ -1,6 +1,7 @@
 ---
 title:  "Rainbow connection"
 date: 2018-12-16
+permalink: /posts/2018/12/rainbow-connection/
 categories: 
   - long
 tags:
