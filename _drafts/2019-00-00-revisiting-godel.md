@@ -16,7 +16,7 @@ Recently though, I've been reading Douglas Hofstadter's [_Gödel, Escher, Bach: 
 <br><br> 
 Thus, he showed how it was possible for an arithmetical statement about two numbers to be also a meta-mathematical statement about whether a particular arithmetical statement can or cannot be proven in the system of—say—Principia Mathematica. This allowed him to create the self-reference needed for a “strange loop” and to create an arithmetical statement that in effect says, in an echo of Epimenides, “I am not provable in the Principia Mathematica system.”
 <br><br>
-If the system of Principia Mathematica is consistent, then this statement must be true. Why? Because, if it were false, then it would be provable in the Principia system, and, as it says that it is not provable, this would introduce an inconsistency into the system. So, if the system isconsistent, then the statement must be true. But, if it is true, and (this is the crucial bit) it expresses an arithmetical statement, then it expresses an arithmetical truth—an arithmetical truth that cannot, by virtue of its own truth be proven in Principia Mathematica. In sum, if the system of arithmetic is consistent, then it is necessarily incomplete.
+If the system of Principia Mathematica is consistent, then this statement must be true. Why? Because, if it were false, then it would be provable in the Principia system, and, as it says that it is not provable, this would introduce an inconsistency into the system. So, if the system is consistent, then the statement must be true. But, if it is true, and (this is the crucial bit) it expresses an arithmetical statement, then it expresses an arithmetical truth—an arithmetical truth that cannot, by virtue of its own truth be proven in Principia Mathematica. In sum, if the system of arithmetic is consistent, then it is necessarily incomplete.
 
 I'm not sure if I would find the excerpt above comprehensible without reading the book, though.
 
@@ -25,4 +25,4 @@ Notes from _Gödel, Escher, Bach_:
 - the record player metaphor
 
 Other resources:  
-[BBC In Our Time podcast](https://www.bbc.co.uk/programmes/b00dshx3)
+[In Our Time (BBC podcast) \|_Godel's Incompleteness Theorems_](https://www.bbc.co.uk/programmes/b00dshx3)
