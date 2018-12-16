@@ -25,4 +25,4 @@ Notes from _Gödel, Escher, Bach_:
 - the record player metaphor
 
 Other resources:  
-[In Our Time (BBC podcast) \|_Godel's Incompleteness Theorems_](https://www.bbc.co.uk/programmes/b00dshx3)
+[In Our Time (BBC podcast) \| _Godel's Incompleteness Theorems_](https://www.bbc.co.uk/programmes/b00dshx3)
