@@ -21,4 +21,5 @@ If the system of Principia Mathematica is consistent, then this statement must b
 I'm not sure if I would find the excerpt above comprehensible without reading the book, though. I think I'm starting to get it. And the next level is to be able to make other people understand the theorem. We will see if I gain more _aufklärung_ after finishing the book.
 
 Other resources:  
-[In Our Time (BBC podcast) \| _Godel's Incompleteness Theorems_](https://www.bbc.co.uk/programmes/b00dshx3)
+[In Our Time (BBC podcast) \| _Godel's Incompleteness Theorems_](https://www.bbc.co.uk/programmes/b00dshx3)  
+[Scientific American \| What is Godel's Theorem?](https://www.scientificamerican.com/article/what-is-godels-theorem/)
