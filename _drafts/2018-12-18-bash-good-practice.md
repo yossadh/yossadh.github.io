@@ -35,8 +35,14 @@ I will illustrate some good practices of writing bash scripts by showing you how
    
    main
    ```
-    Here I have defined functions `main` which overarches the 3 other functions. The reason for this structure is _abstraction_, such that we can think of the script at higher level -- that there are 3 things that the script does -- without needing to worry about the nitty-gritty workings of those 3 things. If need be, we can always zoom in and go to the lower level. 
-
+    Here I have defined a function `main` which overarches the 3 other functions. The reason for this structure is _abstraction_, such that we can think of the script at higher level -- that there are 3 things that the script does -- without needing to worry about the nitty-gritty inner workings of those 3 things. If need be, we can always zoom in and go to the lower level. It also makes it easy to comment out a whole functional block by just twiddling with `main`, like so:
+    ```bash
+    main(){
+    process_protein
+    make_dock_input
+    #run_dock
+    }
+    ```
     Good-practice-wise, the function definition should be indented. Python would strictly enforce this, but not bash. I find my lack of indentation does not affect readability (and my script will have no nested functions where proper indentation becomes more important), so in this case I prefer no indentation.  
    
     ```bash
@@ -176,6 +182,8 @@ I will illustrate some good practices of writing bash scripts by showing you how
    ```
    Lastly, add more comments, which is valuable documentation, especially when future you digs out this script again in far future! Take a look again at how I wrote the comments for insertion and deletion steps in `make_dock_input`. On the other hand, do not overcomment.
 
+   I read somewhere that typically for a given code one writes 10 times as much code! That should give you some idea of how much editing is done.
+   
 ### BONUS: how to specify a dynamic list 
 This is more of a tip than good practice. I often find myself needing to do things to a list of proteins, but I want to exclude and include some of them with flexibility. In the example above, `for pdb in *pdb` will iterate over all `.pdb` files in the directory, so the list is fixed.
 
