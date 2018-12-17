@@ -35,7 +35,9 @@ I will illustrate some good practices of writing bash scripts by showing you how
    
    main
    ```
-    Here I have defined a function `main` which overarches the 3 other functions. The reason for this structure is _abstraction_, such that we can think of the script at higher level -- that there are 3 things that the script does -- without needing to worry about the nitty-gritty inner workings of those 3 things. If need be, we can always zoom in and go to the lower level. It also makes it easy to comment out a whole functional block by just twiddling with `main`, like so:
+    Here I have defined a function `main` which overarches the 3 other functions. I keep definition of `main` at the top of the file for easy editing. The script is also structured like this such that we can think of the script at higher level -- that there are 3 things that the script does -- without needing to worry about the nitty-gritty inner workings of those 3 things. This concept is called _abstraction_. If need be, we can always zoom in and go to the lower level.  
+    
+    It also makes it easy to comment out a whole functional block by just twiddling with `main`, like so:
     ```bash
     main(){
     process_protein
