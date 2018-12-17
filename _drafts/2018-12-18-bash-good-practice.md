@@ -109,7 +109,7 @@ I will illustrate some good practices of writing bash scripts by showing you how
         echo $protein_path
         sed -i "/protein_paths/i $protein_path" dock.inp
     done
-    # delete 'placeholder' protein_path
+    # delete 'placeholder' protein_paths
     sed -i '/protein_paths/d' dock.inp
     ```
     Combine them:
@@ -133,9 +133,9 @@ I will illustrate some good practices of writing bash scripts by showing you how
     sed -i '/protein_paths/d' dock.inp
     }
     ```
-3. Debug and refactor
+3. Debug and refactor  
    Test the script. Does it do what you want to do? If it does, great! But your work is not done yet. You should put some effort in _refactoring_, which does not change the script output, but beautify the source code, so to speak. What you want is source code that is readable and maintainable.
-   For example, you may want to combine some lines:
+   For a start, you may want to combine some lines:
    ```bash
    sed -i '/ligand_path/d' dock.inp
    sed -i '/protein_paths/d' dock.inp
