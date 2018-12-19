@@ -25,7 +25,7 @@ Do you see how brilliant this parallel is? Whitman's intended 'multitudes' are a
 
 ---
 
-Now I would like to mention another verse, which is Tomas Tranströmer's [_The Blue House_](https://www.poemhunter.com/poem/the-blue-house/). I learned about this poem from Cheryl Strayed, who quoted it in [advising a advice column reader](https://therumpus.net/2011/04/dear-sugar-the-rumpus-advice-column-71-the-ghost-ship-that-didnt-carry-us/) about a big life decision (whether or not to have a child).
+Now I would like to mention another verse, which is Tomas Tranströmer's [_The Blue House_](https://www.poemhunter.com/poem/the-blue-house/). I learned about this poem from Cheryl Strayed, who quoted it in [advising a reader of her advice column](https://therumpus.net/2011/04/dear-sugar-the-rumpus-advice-column-71-the-ghost-ship-that-didnt-carry-us/) about a big life decision (whether or not to have a child).
 
 Interestingly, I went to live in Sweden not long after that, and knowing a little bit of Swedish language and culture gives a different flavour to my reading. Let's dissect the poem a little before drawing the parallel to a physical reality concept. 
 
@@ -33,7 +33,9 @@ The poem opens with a surprising sentence:
 >It is night with glaring sunshine.   
 || Det är en natt med strålande sol.
 
-As a person who spent most of my life near the equator, the night sunshine felt like a distant fantasy. To readers in Northern hemisphere though, this conjures a certain place and time. The reader is immediately transported to a certain geography, up North around the Arctic circle, and a certain season, summertime when days are long. It is also notable that the translator (Göran Malmqvist) chose to translate _strålande_ as _glaring_, probably because it suits the overall sombre mood, but _strålande_ also has a positive connotation (_brilliant, glorious_: There is a song called _Jul, jul, strålande jul || Christmas, Christmas, glorious Christmas_).
+As a person who spent most of my life near the equator, the night sunshine felt like a distant fantasy. To readers in Northern hemisphere though, this conjures a certain place and time. The reader is immediately transported to a certain geography, up North around the Arctic circle, and a certain season, summertime when days are long. 
+
+It is also notable that the translator, Göran Malmqvist, chose to translate _strålande_ as _glaring_, probably because it suits the overall sombre mood, but _strålande_ also has a positive connotation (_brilliant, glorious_: There is a song called _Jul, jul, strålande jul || Christmas, Christmas, glorious Christmas_). Note also that Malmqvist preserves the present participle form of _strålande_, so _glaring_ not _glary_.
 
 The poem closes parenthetically:
 >While the sun burns behind the islands.  
