@@ -21,6 +21,7 @@ tags:
 [The Atlantic \| The CRISPR Baby Scandal Gets Worse by the Day](https://www.theatlantic.com/science/archive/2018/12/15-worrying-things-about-crispr-babies-scandal/577234/)  
 [Popular Science \| Cannabis gets its high-inducing power from ancient viruses](https://www.popsci.com/ancient-viruses-cannabis-genome)  
 **Paper**  
+[BMJ \| Key opinion leaders’ guide to spinning a disappointing clinical trial result](https://www.bmj.com/content/363/bmj.k5207) [via [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2018/12/18/making-excuses-the-modern-way)]  
 [Science \| Molecular to organismal chirality is induced by the conserved myosin 1D](http://science.sciencemag.org/content/362/6417/949) [via [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2018/12/13/right-side-left-side)]  
 [Proc. R. Soc. London, Ser. A \| The origins of quantum biology](https://royalsocietypublishing.org/doi/10.1098/rspa.2018.0674) A nice historical review    
 [J Med Chem \| qFit-ligand Reveals Widespread Conformational Heterogeneity of Drug-Like Molecules in X-Ray Electron Density Maps](http://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01292)  
