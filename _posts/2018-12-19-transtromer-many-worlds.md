@@ -1,7 +1,7 @@
 ---
 title:  "Tomas Tranströmer and many-worlds interpretation"
-date: 2019-01-00
-permalink: /posts/2019/01/transtromer-many-worlds/
+date: 2018-12-19
+permalink: /posts/2018/12/transtromer-many-worlds/
 categories: 
   - short
 tags:
