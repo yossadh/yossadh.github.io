@@ -27,7 +27,7 @@ Do you see how brilliant this parallel is? Whitman's intended 'multitudes' are a
 
 Now I would like to mention another verse, which is Tomas Tranströmer's [_The Blue House_](https://www.poemhunter.com/poem/the-blue-house/). I learned about this poem from Cheryl Strayed, who quoted it in [advising a advice column reader](https://therumpus.net/2011/04/dear-sugar-the-rumpus-advice-column-71-the-ghost-ship-that-didnt-carry-us/) about a big life decision (whether or not to have a child).
 
-Interestingly, I went to live in Sweden a not long after that, and knowing a little bit of Swedish language and culture gives a different flavour to my reading. Let's dissect the poem a little before drawing the parallel to a physical reality concept. 
+Interestingly, I went to live in Sweden not long after that, and knowing a little bit of Swedish language and culture gives a different flavour to my reading. Let's dissect the poem a little before drawing the parallel to a physical reality concept. 
 
 The poem opens with a surprising sentence:
 >It is night with glaring sunshine.   
@@ -45,15 +45,27 @@ Why is he alone and why is mood so sombre? We know a little: he is about to make
 
 The structure of the poem is noteworthy: it is not liberal with line breaks as traditional verses are. Although the wording at times is poem-like terse, and one can imagine inserting line breaks to make it more poem-like, Tranströmer chose not to. Superficially then, it looks like a prose, and it suits the narration thread. Overall, it feels like the cadence is rushed, like a poetic stream-of-consciousness. 
 
-Speaking of rushing, the setting transitions hastily from outside the house to inside:
+Speaking of rushing, the setting transitions hastily from outside to inside the house:
 >Open the doors, enter! Inside unrest dwells in the ceiling and peace in the walls.  
 || Öppna dörren, stig in! Här inne är oro i taket och fred i väggarna.
+
+And we get a glimpse of the pearl of this poem (the ship painting) after getting through the oyster (the house):
+>Above the bed there hangs an amateur painting representing a ship with seventeen sails, rough sea and a wind which the gilded frame cannot subdue.  
+|| Över sängen hänger en amatörtavla, föreställande ett skepp med sjutton segel, fräsande vågkammar och en vind som den förgyllda ramen inte kan hejda. 
+
+What is this ship? It is a foreshadowing for that which will come in several more sentences. We are subsequently shifted from the poetic metaphorical plane back to reality plane, with a little flitting back to the painting:
+>It is always so early in here, it is before the crossroads, before the irrevocable choices. I am grateful for this life! And yet I miss the alternatives. All sketches wish to be real.   
+|| Det är alltid så tidigt här inne, det är före vägskälen, före de oåterkalleliga valen. Tack för det här livet! Ändå saknar jag alternativen. Alla skisser vill bli verkliga.
+
+Then a literary pause to ponder all that, before the thesis comes:
+>A motor far out on the water extends the horizon of the summer night. Both joy and sorrow swell in the magnifying glass of the dew.  
+|| En motor på vattnet långt borta tänjer ut sommarnattens horisont. Både glädje och sorg sväller i daggens förstorings-glas.
 
 Finally, we come to the penultimate sentence, which is the pearl of this poem:
 >We do not actually know it, but we sense it: our life has a sister vessel which plies an entirely different route.   
 || Vi vet det egentligen inte, men anar det: det finns ett systerfartyg till vårt liv, som går en helt annan trad.
 
-Doesn't it remind you of the notion of the _multiverse_ and [many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) of quantum mechanics? That there might be sister branches of parallel worlds that we do not tread? But it is perhaps impossible to _know_ them, precisely because we do not tread them. 
+Doesn't it remind you of the notion of the _multiverse_ and [many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) of quantum mechanics? That there might be sister branches of parallel worlds that we do not tread? But it is perhaps impossible to _know_ them, precisely because we do not tread them. Let me end the physics just there, for I want you ponder more about the poem.
 
 See also:  
 [Emma Tranströmer (Tomas Tranströmer's daughter) recites _The Blue House_ (in Swedish)](https://www.youtube.com/watch?v=NOkhxpr_4To)
