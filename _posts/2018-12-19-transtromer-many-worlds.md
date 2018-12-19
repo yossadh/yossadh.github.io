@@ -8,6 +8,7 @@ tags:
   - popular science
 ---
 Finding science in literature
+
 ---
 I wrote about how a verse in William Blake's _Auguries of Innocence_ illustrates ergodicity <[William Blake and the ergodic hypothesis](https://researcherblogski.wordpress.com/2016/05/30/william-blake-and-the-ergodic-hypothesis/)>. Rereading it, in retrospect, my tone was playful and irreverent.
 
