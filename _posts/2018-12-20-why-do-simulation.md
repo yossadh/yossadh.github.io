@@ -5,7 +5,6 @@ permalink: /posts/2018/12/why-do-simulation/
 categories: 
   - short
 tags:
-  - popular science
   - computational biology
 ---
 Why do we do what we do? — is a question that should be asked by practitioners of any vocation
@@ -25,7 +24,8 @@ Michel Cuendet at EMBL in his Molecular Dynamics Simulation (2008) course [summa
 
 To others outside the field, especially my experimental collaborators, I usually highlight these points:
 - **blind**: Experiments have no access at the microscopic scale. MD simulations can at least suggest microscopic mechanical desciptions. Needless to say, there has to be some validation, e.g. agreement of some macroscopic observation. 
-- **pre– and/or post–experiment**: I like to think this way: simulations can come _before_ as prediction/provocation, or they can come _after_ as explanation. Of course this distinction is not absolute. Computational and experimetal works can go hand-in-hand synergistically, or feedback each other in an iterative loop. (While computational work completely replacing experiment work altogether is probably not so realistic).  
+- **pre– and/or post–experiment**: I like to think this way: simulations can come _before_ as prediction/provocation, or they can come _after_ as explanation. Of course this distinction is not absolute. Computational and experimetal works can go hand-in-hand synergistically, or feedback each other in an iterative loop. (While computational work completely replacing experiment work altogether is probably not so realistic).
+
   Here is a pertinent quote:
   >**1.3.2.3. Molecular dynamics as prior belief in a Bayesian framework**  
   A recent trend in biomolecular simulations is to deemphasize the predictive capability of molecular dynamics, and focus instead   on potential synergy with experiments. Simulations are thus used as a component of a Bayesian inference task whose goal is to associate a conformational ensemble to a set of experimental observations. When the latter are too sparse or unrestrictive, the problem is underdetermined, and the best one can do is to find structural parameters that are maximally probable given the experimental data. According to Bayes' rule, this probability is proportional to the product of the likelihood function (which measures the probability of each experimental outcome, given the structural parameters) and a prior probability distribution (which reflects our knowledge of each structure before doing any experiments). Several recent lines of research [159] are based on prior probability distributions derived from molecular dynamics, and enable the incorporation of sparse experimental information to solve, for instance, the protein structure prediction problem. This agnostic approach does not require molecular dynamics to be exact in any sense, just to be “not too wrong.”  
