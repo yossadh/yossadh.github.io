@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[TED talk \| Hans and Ola Rosling: How not to be ignorant about the world](https://www.youtube.com/watch?v=Sm5xF-UYgdg) Classic Hans Rosling TED talk [via [3 Quarks Daily](https://www.3quarksdaily.com/3quarksdaily/2018/12/hans-and-ola-rosling-how-not-to-be-ignorant-about-the-world-2.html)]  
 [Nautilus \| Iron Is the New Cholesterol](http://nautil.us/issue/67/reboot/iron-is-the-new-cholesterol) Donate blood, people!  
 [In the Pipeline \| We Have Given People Amyloid Disease](https://blogs.sciencemag.org/pipeline/archives/2018/12/17/we-have-given-people-amyloid-disease)  
 [Kurt Gödel and the romance of logic](https://www.prospectmagazine.co.uk/magazine/kurt-godel-and-the-romance-of-logic)  
