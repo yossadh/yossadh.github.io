@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Nautilus \| Iron Is the New Cholesterol](http://nautil.us/issue/67/reboot/iron-is-the-new-cholesterol) Donate blood, people!  
 [In the Pipeline \| We Have Given People Amyloid Disease](https://blogs.sciencemag.org/pipeline/archives/2018/12/17/we-have-given-people-amyloid-disease)  
 [Kurt Gödel and the romance of logic](https://www.prospectmagazine.co.uk/magazine/kurt-godel-and-the-romance-of-logic)  
 [Nature \| Enzymes engineered to trap reaction intermediates](https://www.nature.com/articles/d41586-018-07569-6) with link to the paper therein  
