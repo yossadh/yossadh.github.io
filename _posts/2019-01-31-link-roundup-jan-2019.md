@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[The Guardian \| Why exercise alone won’t save us](https://www.theguardian.com/news/2019/jan/03/why-exercise-alone-wont-save-us)  
 [The Scientist \| Can Viruses in the Genome Cause Disease?](https://www.the-scientist.com/features/can-viruses-in-the-genome-cause-disease--65212)  
 [The Atlantic \| Why Exaggeration Jokes Work](https://www.theatlantic.com/science/archive/2018/12/biological-phenomenon-why-wit-works/578842/)  
 [Wired \| How a Reclusive Lizard Became a Prize Find for Wildlife Smugglers](https://www.wired.com/story/wildlife-smugglers-poached-rachel-nuwer-reclusive-lizard/)  
