@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Science \| Four lessons about transitioning from academia to the ‘real world’](https://www.sciencemag.org/careers/2019/01/four-lessons-about-transitioning-academia-real-world)  
 [Brain Pickings \| Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordinary Letter to His Departed Wife](https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/)  
 [The Guardian \| Why exercise alone won’t save us](https://www.theguardian.com/news/2019/jan/03/why-exercise-alone-wont-save-us)  
 [The Scientist \| Can Viruses in the Genome Cause Disease?](https://www.the-scientist.com/features/can-viruses-in-the-genome-cause-disease--65212)  
