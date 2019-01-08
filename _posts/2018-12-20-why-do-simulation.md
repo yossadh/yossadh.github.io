@@ -48,7 +48,7 @@ Another review paper <[Hollingsworth, S. A., & Dror, R. O. (2018). Molecular Dyn
    - membrane composition
 - structural basis for events that are difficult to address experimentally
 - pertaining to drug discovery:
-   - relatively inexpensive, although rough, filter for binding en- ergy or stability to winnow down a large pool of candidates to a smaller one that can be tested experimentally
+   - relatively inexpensive, although rough, filter for binding energy or stability to winnow down a large pool of candidates to a smaller one that can be tested experimentally
     - generate a qualitative understanding of how a biomolecule or drug works
     - guide lead optimization
     - provide substantially more accurate estimates of ligand binding affinities (free energies) than other computational approaches such as docking
