@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Nature \| Designer protein delivers signal of choice](https://www.nature.com/articles/d41586-018-07883-z) Layman summary of a new paper  
 [The Conversation \| The periodic table is 150 – but it could have looked very different](https://theconversation.com/the-periodic-table-is-150-but-it-could-have-looked-very-different-106899)  
 [Science \| Four lessons about transitioning from academia to the ‘real world’](https://www.sciencemag.org/careers/2019/01/four-lessons-about-transitioning-academia-real-world)  
 [Brain Pickings \| Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordinary Letter to His Departed Wife](https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/)  
