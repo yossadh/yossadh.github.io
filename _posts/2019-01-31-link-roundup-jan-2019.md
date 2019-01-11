@@ -20,9 +20,11 @@ tags:
 [3 Quarks Daily \| The vast and mysterious real numbers](https://www.3quarksdaily.com/3quarksdaily/2018/12/the-vast-and-mysterious-real-numbers.html)  
 **Paper**  
 [Nature \| Enzymatic assembly of carbon–carbon bonds via iron-catalysed _sp3_ C–H functionalization](https://www.nature.com/articles/s41586-018-0808-5)  
-It's nice to see that even though Frances Arnold just received the Nobel Prize, she is still actively publishing papers. Or maybe I notice because I am on the lookout for publications on protein design ¯\\_(ツ)_/¯  
+It's nice to see that even though Frances Arnold just received the Nobel Prize, she is still actively publishing papers. Or maybe I notice just because I am on the lookout for publications on protein design ¯\\_(ツ)_/¯  
 [PNAS \| Dietary sugar silences a colonization factor in a mammalian gut symbiont](https://www.pnas.org/content/early/2018/12/12/1813780115) [via [Scientific American](https://www.scientificamerican.com/podcast/episode/simple-sugars-wipe-out-beneficial-gut-bugs/)]  
 **Others**   
-[Language Log \| Sinographs for "tea"](http://languagelog.ldc.upenn.edu/nll/?p=41281) Fascinating. Adding _The True History of Tea_  to my to-read  
+[As Tintin turns 90, the comic book hero is still teaching children about the world](https://scroll.in/article/908934/as-tintin-turns-90-the-comic-book-hero-is-still-teaching-children-about-the-world)  
+I have a similar anecdote with the author about the informativity of comic books. Though it was with Doraemon, of all things.   
+[Language Log \| Sinographs for "tea"](http://languagelog.ldc.upenn.edu/nll/?p=41281) Fascinating. Adding _The True History of Tea_  to my to-read.  
 [Buzzfeed News \| How Millennials Became The Burnout Generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work)  
 [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)  
