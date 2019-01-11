@@ -8,13 +8,16 @@ author_profile: true
 {% include base_path %}
 
 ### Current
+* Silence \| Shusaku Endo
 * On not speaking Chinese \| Ien Ang
 * We have no idea \| Jorge Cham and Daniel Whiteson
-* Gödel, Escher, Bach: and Eternal Golden Braid \| Douglas R. Hofstadter
 
 ### Past
+* Foreign Studies \| Shusaku Endo
+* Gödel, Escher, Bach: and Eternal Golden Braid \| Douglas R. Hofstadter
 * Python tricks: the book \| Dan Bader
-* 2312 \| Kim Stanley Robinson* Consider the fork \| Bee Wilson
+* 2312 \| Kim Stanley Robinson
+* Consider the fork \| Bee Wilson
 * Lelaki Harimau \| Eka Kurniawan
 * I contain multitudes \| Ed Yong
 * Harry Potter and the Methods of Rationality \| Eliezer Yudkowsky
