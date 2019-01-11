@@ -9,7 +9,7 @@ tags:
 ---
 
 I have been teaching swimming to a friend who is relatively a beginner. I often found myself having no words to describe a certain motion or posture and go "you just have to experience it with your body". While I do attribute this partly to my lack of training as a swimming instructor, I still think there are things that cannot be conveyed in words, especially when it comes to motoric stuff, don't you think?
-
+  
 <p align="center">
 <img src="https://www.smbc-comics.com/comics/1546358139-20190101.png" height="200px"/>
 </p>
@@ -17,7 +17,7 @@ I have been teaching swimming to a friend who is relatively a beginner. I often 
 Martial art: Definitely a motoric stuff<br>
 Image credit: <a href="https://www.smbc-comics.com/comic/conscious">SMBC Comics</a>
 </p>
-
+  
 Anyway, thinking about this my mind wandered to the talk about failures in science. It's like this -- before I did my PhD I have heard things about the inevitable stress and failures (and I find myself saying the same thing to pre- and current PhD students too) but knowing it cognitively is different from experiencing it oneself, isn't it?
-
+  
 Here is a recent Nature article on the subject: <[Scientific progress is built on failure](https://www.nature.com/articles/d41586-019-00107-y)>. Reading this, on one hand I hope that a PhD student or a prospective one takes note and does the necessary mental preparation; but on the other hand, I cannot help but go "My son, I know these things would fall on deaf ears. You just have to experience it for yourself". 
