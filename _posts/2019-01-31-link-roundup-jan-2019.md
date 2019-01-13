@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Is Sunscreen the New Margarine?](https://www.outsideonline.com/2380751/sunscreen-sun-exposure-skin-cancer-science)  
 [Nature \| Designer protein delivers signal of choice](https://www.nature.com/articles/d41586-018-07883-z) Layman summary of a new paper  
 [The Conversation \| The periodic table is 150 – but it could have looked very different](https://theconversation.com/the-periodic-table-is-150-but-it-could-have-looked-very-different-106899)  
 [Science \| Four lessons about transitioning from academia to the ‘real world’](https://www.sciencemag.org/careers/2019/01/four-lessons-about-transitioning-academia-real-world)  
