@@ -28,7 +28,7 @@ It's nice to see that even though Frances Arnold just received the Nobel Prize, 
 **Others**   
 [NYT \| Virginia Woolf? Snob! Richard Wright? Sexist! Dostoyevsky? Anti-Semite!](https://www.nytimes.com/2019/01/08/books/review/edith-wharton-house-of-mirth-anti-semitism.html)  
 >I think we’d all be better readers if we realized that it isn’t the writer who’s the time traveler. It’s the reader. When we pick up an old novel, we’re not bringing the novelist into our world and deciding whether he or she is enlightened enough to belong here; we’re journeying into the novelist’s world and taking a look around.  
-
+  
 [As Tintin turns 90, the comic book hero is still teaching children about the world](https://scroll.in/article/908934/as-tintin-turns-90-the-comic-book-hero-is-still-teaching-children-about-the-world)  
 I have a similar anecdote with the author about the informativity of comic books. Though it was with Doraemon, of all things.   
 [Language Log \| Sinographs for "tea"](http://languagelog.ldc.upenn.edu/nll/?p=41281) Fascinating. Adding _The True History of Tea_  to my to-read.  
