@@ -21,6 +21,7 @@ tags:
 [Wired \| How a Reclusive Lizard Became a Prize Find for Wildlife Smugglers](https://www.wired.com/story/wildlife-smugglers-poached-rachel-nuwer-reclusive-lizard/)  
 [3 Quarks Daily \| The vast and mysterious real numbers](https://www.3quarksdaily.com/3quarksdaily/2018/12/the-vast-and-mysterious-real-numbers.html)  
 **Paper**  
+[ACS Catalysis \| Structure-Guided Triple-Code Saturation Mutagenesis: Efficient Tuning of the Stereoselectivity of an Epoxide Hydrolase](https://pubs.acs.org/doi/abs/10.1021/acscatal.5b02751)  
 [Cell Chem Bio \| What Makes a Kinase Promiscuous for Inhibitors?](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(18)30412-4?rss=yes)  
 [Nature \| Enzymatic assembly of carbon–carbon bonds via iron-catalysed _sp3_ C–H functionalization](https://www.nature.com/articles/s41586-018-0808-5)  
 It's nice to see that even though Frances Arnold just received the Nobel Prize, she is still actively publishing papers. Or maybe I notice just because I am on the lookout for publications on protein design ¯\\\_(ツ)\_/¯  
