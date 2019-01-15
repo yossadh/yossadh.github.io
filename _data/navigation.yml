@@ -2,7 +2,9 @@
 main:
   - title: "Blog"
     url: /blog/
-    
+  
+  - title: "Bookshelf"
+    url: /bookshelf/  
   #- title: "Publications"
   #  url: /publications/
 
