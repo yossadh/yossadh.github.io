@@ -4,9 +4,20 @@ title: "Bookshelf"
 permalink: /bookshelf/
 author_profile: true
 ---
-### To read
+### Wishlist
+**Sapiens : a brief history of humankind \| Yuval Noah Harari**
+
+### Reading queue
 **The emperor of all maladies \| Siddhartha Mukherjee**  
-tbu
+**Easy & Not So Easy Pieces \| Richard Feynman**   
+**Malice \| Keigo Higashino**  
+**The better angels of our nature : why violence has declined \| Steven Pinker**  
+**The true history of tea \| Victor H. Mair & Erling Hoh** 
+**Curiosity \| Alberto Manguel**  
+**I am a strange loop \| Douglas Hofstadter**  
+**Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
+**Solaris \| Stanislaw Lem**  
+**On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
 
 ### 2019
 **Silence \| Shusaku Endo ⭑⭑⭑⭑**   
@@ -31,3 +42,32 @@ I picked some tricks. But I think this book is better suited for more serious Py
 
 **2312 \| Kim Stanley Robinson ⭑⭑⭑**  
 I think he can't outdo the epic Mars trilogy. But still a good read.
+
+**Westminster Shorter Catechism \| G I Williamson ⭑⭑⭑**  
+
+### All-time favourites
+I contain multitudes \| Ed Yong  
+Harry Potter and the Methods of Rationality \| Eliezer Yudkowsky  
+Miss Smilla's Feeling for Snow \| Peter Høeg  
+Les Misérables \| Victor Hugo  
+The Luminaries \| Eleanor Catton  
+Midnight Children \| Salman Rushdie  
+1984 \| George Orwell  
+The Glass Bead Game \| Herman Hesse  
+Zen and the art of motorcycle maintenance \| Robert M. Pirsig ** 
+
+### Favourite authors 
+Liu Cixin: The Three Body Problem  
+Kim Stanley Robinson: Mars trilogy  
+Haruki Murakami: 1Q84  
+Margaret Atwood: The Handmaid's Tale  
+Paulo Coelho: The Alchemist  
+Fyodor Dostoyevsky: Crime and Punishment, The Brothers Karamazov  
+Natsuo Kirino: Out  
+Keigo Higashino: The Devotion of Suspect X, Salvation of a saint, Naoko  
+GK Chesterton: Father Brown series  
+CS Lewis: The Four Loves, The Problem of Pain, The Screwtape letters  
+JRR Tolkien: The Hobbit, Lord of the Rings trilogy  
+FW Boreham: A Handful of Stars, Mushrooms on the Moor  
+Viktor Frankl: Man's Search for Ultimate Meaning  
+Søren Kierkegaard: Fear and Trembling  
