@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[In the Pipeline \| Nivien’s Shot](http://blogs.sciencemag.org/pipeline/archives/2019/01/15/niviens-shot) Drug research is hard  
 [In the Pipeline \| Come One, Come All to These Kinases](https://blogs.sciencemag.org/pipeline/archives/2019/01/11/come-one-come-all-to-these-kinases).      
 [Is Sunscreen the New Margarine?](https://www.outsideonline.com/2380751/sunscreen-sun-exposure-skin-cancer-science)  
 [Nature \| Designer protein delivers signal of choice](https://www.nature.com/articles/d41586-018-07883-z) Layman summary of a new paper  
