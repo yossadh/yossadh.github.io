@@ -22,7 +22,9 @@ author_profile: true
 **Solaris \| Stanislaw Lem**  
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
-**Cantik itu luka / Beauty is a wound \| Eka Kurniawan.** 
+**Cantik itu luka / Beauty is a wound \| Eka Kurniawan.**  
+**Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks**  
+**The firmament of time \| Loren Eiseley**  
 
 ## 2019
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**  
