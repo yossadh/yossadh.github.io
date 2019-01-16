@@ -5,9 +5,9 @@ permalink: /bookshelf/
 author_profile: true
 ---
 ### Wishlist
-**Sapiens : a brief history of humankind \| Yuval Noah Harari**
-**Giants series \| James P Hogan**
-**Story of your life \| Ted Chiang**
+**Sapiens : a brief history of humankind \| Yuval Noah Harari**  
+**Giants series \| James P Hogan**  
+**Story of your life \| Ted Chiang**  
 
 ### Reading queue
 **The emperor of all maladies \| Siddhartha Mukherjee**  
