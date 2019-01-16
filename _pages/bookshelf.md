@@ -6,6 +6,8 @@ author_profile: true
 ---
 ### Wishlist
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**
+**Giants series \| James P Hogan**
+**Story of your life \| Ted Chiang**
 
 ### Reading queue
 **The emperor of all maladies \| Siddhartha Mukherjee**  
@@ -18,6 +20,7 @@ author_profile: true
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
 **Solaris \| Stanislaw Lem**  
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
+**The structure of scientific revolutions \| Thomas S. Kuhn**  
 
 ### 2019
 **Silence \| Shusaku Endo ⭑⭑⭑⭑**   
