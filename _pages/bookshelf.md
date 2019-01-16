@@ -23,18 +23,17 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 
 ## 2019
-**Silence \| Shusaku Endo ⭑⭑⭑⭑**   
-tbu
-
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**  
-tbu
+Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness.
+
+**Silence \| Shusaku Endo ⭑⭑⭑⭑**   
+Very heavy topic, especially since it is a historical fiction, so the depictions are real. Endo captures best the tugging and struggles in the missionary's heart. Can Christianity really take roots in Japan? Are all the deaths during the persecution meaningful?   
 
 **We have no idea \| Jorge Cham and Daniel Whiteson ⭑⭑⭑⭑**  
 A good popular science book. It is true that the jokes can be a bit too much (this is pointed out in many online reviews). What I want to point out is how the illustrations and the text meld so well together, corny jokes aside.
 
 **Foreign Studies \| Shusaku Endo ⭑⭑⭑**  
-This book was actually a farewell gift when I departed for Singapore 15 years ago (I guess the title is apt for the occasion). Only recently I rediscovered it in my parents' house (my level of English 15 years ago was not enough) and decided to read it. I found some sentences indeed mirror my own experience studying in foreign land. This book is not an easy reading since there hangs a certain gloomy heaviness to it. The titular "foreign studies" are not a joyful thing, but a source of discomfort, sadness, illness, and the like.   
-I was also pleasantly surprised to find that he is also the author of _Silence_, which was in my to-read list. The topic, Jesuit missionaries and Christians enduring persecution in Japan circa 17th century, is even heavier.
+This book was actually a farewell gift when I departed for Singapore 15 years ago (I guess the title is apt for the occasion). Only recently I rediscovered it in my parents' house (my level of English 15 years ago was not enough) and decided to read it. I found some sentences indeed mirror my own experience studying in foreign land. This book is not an easy reading since there hangs a certain gloomy heaviness to it. The titular "foreign studies" are not a joyful thing, but a source of discomfort, sadness, illness, and the like. I was also pleasantly surprised to find that he is also the author of _Silence_, which was in my to-read list. The topic, Jesuit missionaries and Christians enduring persecution in Japan circa 17th century, is even heavier.
 
 ## 2018
 **Gödel, Escher, Bach: an Eternal Golden Braid \| Douglas R. Hofstadter ⭑⭑⭑⭑⭑**  
