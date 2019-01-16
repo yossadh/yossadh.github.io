@@ -41,7 +41,7 @@ Fascinating journey to comprehend Gödel's incompleteness theorem and meandering
 I picked some tricks. But I think this book is better suited for more serious Python users, not a casual user like me.   
 
 **2312 \| Kim Stanley Robinson ⭑⭑⭑**  
-I think he can't outdo the epic Mars trilogy. But still a good read.
+I think he can't outdo the epic Mars trilogy. But still a good read. Continuing the theme of interplanetary travel and human diaspora in the Solar system (the protagonist's hometown is in Mercury). What to say, humans will be humans, whether they venture to new lands or new planets -- I think this is the running thread in Robinson's novels.
 
 **Westminster Shorter Catechism \| G I Williamson ⭑⭑⭑**  
 
@@ -54,7 +54,7 @@ The Luminaries \| Eleanor Catton
 Midnight Children \| Salman Rushdie  
 1984 \| George Orwell  
 The Glass Bead Game \| Herman Hesse  
-Zen and the art of motorcycle maintenance \| Robert M. Pirsig ** 
+Zen and the art of motorcycle maintenance \| Robert M. Pirsig   
 
 ### Favourite authors 
 Liu Cixin: The Three Body Problem  
