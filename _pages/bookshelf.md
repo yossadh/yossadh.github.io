@@ -14,7 +14,7 @@ author_profile: true
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **Malice \| Keigo Higashino**  
 **The better angels of our nature : why violence has declined \| Steven Pinker**  
-**The true history of tea \| Victor H. Mair & Erling Hoh** 
+**The true history of tea \| Victor H. Mair & Erling Hoh**  
 **Curiosity \| Alberto Manguel**  
 **I am a strange loop \| Douglas Hofstadter**  
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
@@ -46,7 +46,7 @@ I picked some tricks. But I think this book is better suited for more serious Py
 **2312 \| Kim Stanley Robinson ⭑⭑⭑**  
 I think he can't outdo the epic Mars trilogy. But still a good read. Continuing the theme of interplanetary travel and human diaspora in the Solar system (the protagonist's hometown is in Mercury). What to say, humans will be humans, whether they venture to new lands or new planets -- I think this is the running thread in Robinson's novels.
 
-**Westminster Shorter Catechism \| G I Williamson ⭑⭑⭑**  
+**Westminster Shorter Catechism \| G I Williamson**  
 
 ## All-time favourites
 I contain multitudes \| Ed Yong  
