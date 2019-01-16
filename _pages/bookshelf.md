@@ -12,14 +12,13 @@ author_profile: true
 ## Reading queue
 **The emperor of all maladies \| Siddhartha Mukherjee**  
 **Easy & Not So Easy Pieces \| Richard Feynman**   
-**Malice \| Keigo Higashino**  
+**On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
 **The better angels of our nature : why violence has declined \| Steven Pinker**  
 **The true history of tea \| Victor H. Mair & Erling Hoh**  
 **Curiosity \| Alberto Manguel**  
 **I am a strange loop \| Douglas Hofstadter**  
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
-**Solaris \| Stanislaw Lem**  
-**On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
+**Solaris \| Stanislaw Lem**   
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **Cantik itu luka / Beauty is a wound \| Eka Kurniawan.**  
 **Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks**  
