@@ -33,7 +33,7 @@ tbu
 A good popular science book. It is true that the jokes can be a bit too much (this is pointed out in many online reviews). What I want to point out is how the illustrations and the text meld so well together, corny jokes aside.
 
 **Foreign Studies \| Shusaku Endo ⭑⭑⭑**  
-This book was actually a farewell gift when I departed for Singapore 15 years ago (I guess the title is apt for the ocassion). Only recently I rediscovered it in my parents' house (my level of English 15 years ago was not enough) and decided to read it. I found some sentences indeed mirror my own experience studying in foreign land. This book is not an easy reading since there hangs a certain gloomy heaviness to it. The titular "foreign studies" are not a joyful thing, but a source of discomfort, sadness, illness, and the like.   
+This book was actually a farewell gift when I departed for Singapore 15 years ago (I guess the title is apt for the occasion). Only recently I rediscovered it in my parents' house (my level of English 15 years ago was not enough) and decided to read it. I found some sentences indeed mirror my own experience studying in foreign land. This book is not an easy reading since there hangs a certain gloomy heaviness to it. The titular "foreign studies" are not a joyful thing, but a source of discomfort, sadness, illness, and the like.   
 I was also pleasantly surprised to find that he is also the author of _Silence_, which was in my to-read list. The topic, Jesuit missionaries and Christians enduring persecution in Japan circa 17th century, is even heavier.
 
 ## 2018
