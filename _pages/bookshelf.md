@@ -59,7 +59,6 @@ Midnight Children \| Salman Rushdie
 The Glass Bead Game \| Herman Hesse  
 Zen and the art of motorcycle maintenance \| Robert M. Pirsig   
 
-## Favourite authors 
 Liu Cixin: The Three Body Problem  
 Kim Stanley Robinson: Mars trilogy  
 Haruki Murakami: 1Q84  
