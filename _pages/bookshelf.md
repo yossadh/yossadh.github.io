@@ -59,6 +59,7 @@ A lesson in quantum mechanics packaged in Alice's fantastical journey (or its Qu
 **Westminster Shorter Catechism \| GI Williamson**  
 
 ## All-time favourites
+When breath becomes air \| Paul Kalanithi  
 Thinking, Fast and Slow \| Daniel Kahneman  
 I contain multitudes \| Ed Yong  
 Harry Potter and the Methods of Rationality \| Eliezer Yudkowsky  
