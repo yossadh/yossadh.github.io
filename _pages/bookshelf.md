@@ -63,6 +63,7 @@ Midnight Children \| Salman Rushdie
 1984 \| George Orwell  
 The Glass Bead Game \| Herman Hesse  
 Zen and the art of motorcycle maintenance \| Robert M. Pirsig   
+Sophie's world \| Jostein Gaarder  
 
 Liu Cixin: The Three Body Problem  
 Kim Stanley Robinson: Mars trilogy  
