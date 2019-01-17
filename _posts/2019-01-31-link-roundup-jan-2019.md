@@ -9,6 +9,8 @@ tags:
 ---
 
 **Science**  
+[Watch: Robot reveals how ancient reptile ancestor moved](https://www.nature.com/articles/d41586-019-00186-x) It's cool that they even make interactive demo   
+[Nature \| Cryptic DNA sequences may help cells survive starvation](https://www.nature.com/articles/d41586-019-00183-0)  
 [In the Pipeline \| Nivien’s Shot](http://blogs.sciencemag.org/pipeline/archives/2019/01/15/niviens-shot) Drug research is hard  
 [In the Pipeline \| Come One, Come All to These Kinases](https://blogs.sciencemag.org/pipeline/archives/2019/01/11/come-one-come-all-to-these-kinases).      
 [Is Sunscreen the New Margarine?](https://www.outsideonline.com/2380751/sunscreen-sun-exposure-skin-cancer-science)  
