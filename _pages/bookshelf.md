@@ -13,6 +13,7 @@ author_profile: true
 **The emperor of all maladies \| Siddhartha Mukherjee**  
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
+**Bad blood : secrets and lies in a Silicon Valley startup \| John Carreyrou**  
 **The dispossessed \| Ursula Le Guin**  
 **The better angels of our nature : why violence has declined \| Steven Pinker**  
 **The true history of tea \| Victor H. Mair & Erling Hoh**  
