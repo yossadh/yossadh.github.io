@@ -29,6 +29,8 @@ author_profile: true
 
 **Never Let Me Go \| Kazuo Ishiguro**  
 **Solaris \| Stanislaw Lem**  
+**The traveler, the tower, and the worm: the reader as metaphor \| Alberto Manguel**  
+**The two cultures \| CP Snow**  
 
 ## 2019
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**  
