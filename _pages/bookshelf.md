@@ -58,7 +58,7 @@ A lesson in quantum mechanics packaged in Alice's fantastical journey (or its Qu
 
 **Westminster Shorter Catechism \| GI Williamson**  
 
-## All-time favourites
+## Books and authors I like
 When breath becomes air \| Paul Kalanithi  
 Thinking, Fast and Slow \| Daniel Kahneman  
 I contain multitudes \| Ed Yong  
