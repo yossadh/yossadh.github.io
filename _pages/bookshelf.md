@@ -29,6 +29,8 @@ author_profile: true
 
 **Never Let Me Go \| Kazuo Ishiguro**  
 **Solaris \| Stanislaw Lem**  
+Two words: _sentient ocean_. Need I say more?
+
 **The traveler, the tower, and the worm: the reader as metaphor \| Alberto Manguel**  
 **The two cultures \| CP Snow**  
 
