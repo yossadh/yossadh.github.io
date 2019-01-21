@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[The Smithsonian \| The Statistician Who Debunked Sexist Myths About Skull Size and Intelligence](https://www.smithsonianmag.com/science-nature/alice-lee-statistician-debunked-sexist-myths-skull-size-intelligence-180971241/)  
 [PopSci \| Saturn is ancient, but its rings are only as old as the dinosaurs](https://www.popsci.com/saturn-rings-origin-dinosaurs)  
 [Nature \| Watch: Robot reveals how ancient reptile ancestor moved](https://www.nature.com/articles/d41586-019-00186-x) It's cool that they even make interactive demo   
 [Nature \| Cryptic DNA sequences may help cells survive starvation](https://www.nature.com/articles/d41586-019-00183-0)  
