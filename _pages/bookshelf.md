@@ -32,14 +32,25 @@ author_profile: true
 
 **Never Let Me Go \| Kazuo Ishiguro**  
 **Solaris \| Stanislaw Lem**  
-Two words: _sentient ocean_. Need I say more?
-
-**The traveler, the tower, and the worm: the reader as metaphor \| Alberto Manguel**  
+Two words: _sentient ocean_. Need I say more?  
 **The two cultures \| CP Snow**  
-
-## 2019
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**  
 Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness.
+
+## 2019
+**The traveler, the tower, and the worm: the reader as metaphor \| Alberto Manguel**  
+A slender volume with self-explanatory title: Manguel expounds upon the three metaphors regarding the reader. It is an interesting to read about the act of reading itself. Manguel draws upon from a wealth of references from the Western literature canon, many works of which I haven't read, so it's not fair for me to give a rating.
+
+My snippets:  
+>Augustine had noted: “our spirit has two feet—one of the intellect and one of the affect, or of cognition and love—and we must move both so that we may walk in the right way.”<br> 
+-- Saint Augustine, Sermon 36, 413, “Corpus Christanorum.”
+
+>There is, lurking at the core of every reader’s engagement with the text, a double bind: the wish that what is told on the page be true, and the belief that it is not. In this tension between both, readers set up their tenuous encampment. Bruno Bettelheim long ago noted that children do not believe in the Big Bad Wolf or in Little Red-Riding Hood as such: they believe in their narrative existence, which, as we all know, can have a greater hold on us than many characters of blood and bone. For most readers,
+however, engagement with a text does not go beyond passionate daydreaming or wishful thinking.
+
+>...in that moment known to every true reader, in which a verse, a line of prose, an idea or a story, suddenly touches us, unexpectedly and profoundly, revealing something dark, half-intuited, unavowed, something that belongs exclusively to that reader to whom it has been secretly destined. That verse, sentence, or story will always interest us more than the material thing itself, because we are creatures of feeble perceptions, like moles in the sun, betrayed by our senses, and even though literary language is an uncertain, unreliable instrument, it is, however, capable, in in a few miraculous moments, of helping us see the world.
+
+>Being a bookworm need not always carry a negative connotation. We are reading creatures, we ingest words, we are made of words, we know that words are our means of being in the world, and it is through words that we identify our reality and by means of words that we are ourselves identified.
 
 **Silence \| Shusaku Endo ⭑⭑⭑⭑**   
 Very heavy topic, especially since it is a historical fiction, so the depictions are real. Endo captures best the tugging and struggles in the missionary's heart. Can Christianity really take roots in Japan? Are all the deaths during the persecution meaningful?   
