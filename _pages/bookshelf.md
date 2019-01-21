@@ -8,6 +8,7 @@ author_profile: true
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
 **Giants series \| James P Hogan**  
 **Story of your life \| Ted Chiang**  
+**Madam Bovary \| Gustave Flaubert**  
 
 ## Reading queue
 **The emperor of all maladies \| Siddhartha Mukherjee**  
