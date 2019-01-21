@@ -13,6 +13,7 @@ author_profile: true
 **The emperor of all maladies \| Siddhartha Mukherjee**  
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
+**Don Quixote \| Miguel de Cervantes**  
 **Under the Volcano \| Malcom Lowery**  
 **A house for Mr. Biswas \| V.S. Naipaul**  
 **The meaning of human existence \| Edward O. Wilson**  
