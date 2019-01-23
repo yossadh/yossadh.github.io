@@ -26,4 +26,4 @@ The whole enterprise of rational drug design is also built on this tenet: that t
 
 Now, we have to remember that this tenet is of course a _reductionism_, specifically trying to reduce biology to chemistry. This is why biology is biology and chemistry is chemistry, still. Sure, we can show that a drug binds a protein _outside the body_. How about in cell culture? In mice? In dogs? In monkeys? In humans? Just because we know a drug has a complementary structure to a protein is not enough. Inside the body, many things can happen. Is it soluble enough, is it circulating long enough, is it stable enough, is it not so toxic enough, is it also binding to unintended targets -- there is the whole field of pharmacokinetics dedicated to this. 
 
-So, you know, don't denigrate the tenet of someone's vocation at a dinner party?
+So, you know, don't denigrate the fundamental tenet of someone's vocation at a dinner party, maybe?
