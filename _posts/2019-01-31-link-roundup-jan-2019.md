@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[In the Pipeline \| Quinine’s Target](https://blogs.sciencemag.org/pipeline/archives/2019/01/22/quinines-target) Quinine's target has been identified. This is significant step in malaria resaerch.  
 [BBC \| A bit of meat, a lot of veg - the flexitarian diet to feed 10bn](https://www.bbc.com/news/health-46865204)  
 [The Smithsonian \| The Statistician Who Debunked Sexist Myths About Skull Size and Intelligence](https://www.smithsonianmag.com/science-nature/alice-lee-statistician-debunked-sexist-myths-skull-size-intelligence-180971241/)  
 [PopSci \| Saturn is ancient, but its rings are only as old as the dinosaurs](https://www.popsci.com/saturn-rings-origin-dinosaurs)  
