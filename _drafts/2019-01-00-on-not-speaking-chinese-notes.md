@@ -7,7 +7,7 @@ categories:
 tags:
   - others
 ---
-This book is quite different from my usual reading, which is mostly fiction, science-fiction, and popular science. This book is categorically a humanities book. In fact, some chapters were previously published in humanities journal. Nevertheless, I persevered through, since the subject is close to my heart (and my identity). Also, Ien Ang's writing is not boring academic prose. It is certainly not easy reading, but it is very readable and her personal stake in the subject also helps the process. The book is an academic, yet also personal, essay. 
+This book is quite different from my usual reading, which is mostly fiction, science-fiction, and popular science. This book is categorically a humanities book. In fact, some chapters were previously published in humanities journal. Nevertheless, I persevered through, since the subject is close to my heart (and my identity). Also, Ien Ang's writing is not boring academic prose. It is certainly not easy reading, but it is very readable and her personal stake in the subject also helps. The book is an academic, yet also personal, essay. 
 
 ### Introduction: between Asia and the West (in complicated entanglement)
 >I must warn the reader that the spirit of the diasporic intellectual’s tactical interventionism runs throughout this book: the space from which these chapters were written was precisely the space of hybridity, between Asia and the West. At the same time, I hope to contribute to a reappreciation of the politics of hybridity – and its emphasis on multiplicity, uncertainty and ambivalence – which always seems to be at the heart of criticisms of the diasporic intellectual’s discourse.
