@@ -28,6 +28,42 @@ This book is quite different from my usual reading, which is mostly fiction, sci
 
 ### PART I Beyond Asia: deconstructing diaspora
 #### 1 On not speaking Chinese: diasporic identifications and postmodern ethnicity
+>‘China’, of course, usually refers to the People’s Republic of China, or more generically, ‘mainland China’. This China continues to speak to the world’s imagination – for its sheer vastness, its huge population, its relative inaccessibility, its fascinating history and culture, its idiosyncratic embrace of communism, all of which amounts to its awesome difference. This China also irritates, precisely because its stubborn difference cannot be disregarded, if only because the forces of transnational capitalism are only too keen to finally exploit this enormous market of more than a billion people.
+
+>In this respect, I would like to consider autobiography as a more or less deliberate,
+rhetorical construction of a ‘self’ for public, not private purposes: the displayed
+self is a strategically fabricated performance, one which stages a useful identity,
+an identity which can be put to work. It is the quality of that usefulness which
+determines the politics of autobiographical discourse. In other words, what is the
+identity being put forward for?
+
+>Thus, what I hope to substantiate in staging my ‘Chineseness’ here – or better, my (troubled) relationship to Chineseness – is precisely the notion of _precariousness_ of identity which has preoccupied cultural studies for some time now. As Gayatri Chakravorty Spivak (1990: 60) has noted, the practice of ‘speaking as’ (e.g. as a woman, an Indian, a Chinese) always involves a distancing from oneself, as one’s subjectivity is never fully steeped in the modality of the speaking position one inhabits at any one moment. My autobiographic tales of Chineseness are meant to illuminate the very _difficulty_ of constructing a position from which I can speak _as_ an (Overseas) Chinese, and therefore the _indeterminacy_ of Chineseness as a signifier for identity.
+
+>What I would like to propose is that
+Chineseness is a category whose meanings are not fixed and pregiven, but constantly
+renegotiated and rearticulated, both inside and outside China.
+
+>As the editors of Public Culture have put it, ‘diasporas always leave a trail of collective memory about another place and time and create new maps of desire and of attachment’ (1989: 1). It is the myth of the (lost or idealized) homeland, the object of both collective memory and of desire and attachment, which is constitutive to diasporas, and which ultimately confines and constrains the nomadism of the diasporic subject.
+
+>However, so the history books tell me, even among the peranakans a sense of separateness prevailed throughout the centuries. A sense of ‘ethnic naturalism’ seems to have been at work here, for which I have not found a satisfactory explana- tion so far: why is it that these early Chinese traders and merchants still maintained their sense of Chineseness? This is something that the history books do nottell me. But it does seem clear that the construction of the _peranakan_ Chinese as a separate ethnic group was reinforced considerably by the divide-and-rule policies of Dutch colonialism.
+
+>As Salman Rushdie (1991: 12) has remarked, those who have experienced cultural displacement are forced to accept the provisional nature of all truths, all certainties.
+
+>Thus, ‘Chinese’ identity becomes confined to essentialist and absolute notions of ‘Chineseness’, the source of which can only originate from ‘China’, to which the ethnicized ‘Chinese’ subject must adhere to acquire the stamp of ‘authenticity’. So it was one day that a self- assured, Dutch, white, middle-class, Marxist leftist, asked me, ‘Do you speak Chinese?’ I said no. ‘What a fake Chinese you are!’, was his only mildly kidding response, thereby unwittingly but aggressively adopting the disdainful position of judge to sift ‘real’ from ‘fake’ Chinese. In other words, in being defined and categorized diasporically, I was found wanting.
+
+>What is particular to the Chinese diaspora, however, is the extraordinarily strong originary pull of the ‘homeland’ as a result of the prominent place of ‘China’ in the Western imagination. The West’s fascination with China as a great, ‘other’ civilization began with Marco Polo and remains to this day (see e.g. MacKerras 1991). In the Western imagination China cannot be an ordinary country, as a consequence, everything happening in that country is invested with more than ‘normal’ significance, as testified by the intense and extreme dramatization of events such as the ‘Tiananmen massacre’ and the ‘Hong Kong handover’ in the Western media (Chow 1993; 1998a). There is, in other words, an excess of meaningfulness accorded to ‘China’; ‘China’ has often been useful for Western thinkers as a symbol, negative or positive, for that which the West was not. As Zhang Longxi (1988: 127) has noted, even Jacques Derrida, the great debunker of binary oppositions, was seduced into treating the non-phonetic character of the Chinese language as ‘testimony of a powerful movement of civilization developing outside of all logocentrism’, that is, as the sign of a culture totally different from what he conceives as Western culture. Worse still, this powerful othering is mirrored by an equally strong and persistent tendency within Chinese culture itself to consider itself as central to the world, what Song Xianlin and Gary Sigley (2000) call China’s ‘Middle Kingdom mentality’, exemplified by the age-old Chinese habit to designate all non-Chinese as ‘barbarians’, ‘foreign devils’ or ‘ghosts’. 
+
+>>...Today we are described by one English writer as belonging to ‘the sad band of English-educated who cannot speak their own language’. This seems rather unfair to me. Must we know the language of our forefathers when we have lived in another country (Malaysia) for many years? Are the descendants of German, Norwegian and Swedish emigrants to the USA, for instance, expected to know German or Norwegian or Swedish? Are the descendants of Italian and Greek emigrants to Australia expected to study Italian and Greek? Of course not, and yet overseas Chinese are always expected to know Chinese or else they are despised not only by their fellow Chinese but also by non- Chinese!... <br>(Ho 1975: 97–99)
+
+>Khachig Tölölyan (1991) is right to define diasporas as transnational formations which interrogate the privileged homogeneity of the nation–state. At the same time, however, the very fact that ethnic minorities within nation–states are defining themselves increasingly in diasporic terms, as Tölölyan indicates, raises some troubling questions about the state of intercultural relations in the world today.
+
+>But the productivity I am referring to precisely fills that space up with new forms of culture at the collision of the two: hybrid cultural forms born out of a productive, creative syncretism. This is a practice and spirit of turning necessity into oppor- tunity, the promise of which is perhaps most eloquently expressed by Salman Rushdie (1991: 17): ‘It is normally supposed that something always gets lost in translation; I cling, obstinately, to the notion that something can also be gained.’
+
+>‘China’, the mythic homeland, will then stop being the absolute norm for ‘Chineseness’ against which all other Chinese cultures of the diaspora are measured. Instead, Chineseness becomes an open signifier, which acquires its peculiar form and content in dialectical junction with the diverse local conditions in which ethnic Chinese people, wherever they are, construct new, hybrid identities and communities.
+
+>In short, if I am inescapably Chinese by descent, I am only sometimes Chinese
+by consent.11 When and how is a matter of politics.
+
 #### 2 Can one say no to Chineseness?: Pushing the limits of the diasporic paradigm
 #### 3 Indonesia on my mind: diaspora, the Internet and the struggle for hybridity
 #### 4 Undoing diaspora: questioning global Chineseness in the era of globalization
