@@ -35,7 +35,8 @@ author_profile: true
 **Solaris \| Stanislaw Lem**  
 Two words: _sentient ocean_. Need I say more?  
 **The two cultures \| CP Snow**  
-**On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**  
+**On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
+[[book notes](link)] (in progress)  
 Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness.
 
 ## 2019
@@ -64,7 +65,8 @@ This book was actually a farewell gift when I departed for Singapore 15 years ag
 
 ## 2018
 **Gödel, Escher, Bach: an Eternal Golden Braid \| Douglas R. Hofstadter ⭑⭑⭑⭑⭑**  
-Fascinating journey to comprehend Gödel's incompleteness theorem and meanderings to consciousness and artificial intelligence. Here is [my first impression](https://yossadh.github.io/posts/2018/12/revisiting-godel/) of sorts, and [my notes and highlights](link) (working on it; link will be updated)
+[[book notes](link)] (in progress)   
+Fascinating journey to comprehend Gödel's incompleteness theorem and meanderings to consciousness and artificial intelligence. Here is [my first impression](https://yossadh.github.io/posts/2018/12/revisiting-godel/) of sorts.
 
 **Python tricks: the book \| Dan Bader ⭑⭑⭑**  
 I picked some tricks. But I think this book is better suited for more serious Python users, not a casual user like me.   
