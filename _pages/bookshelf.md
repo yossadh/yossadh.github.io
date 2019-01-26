@@ -32,14 +32,15 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 
 **Never Let Me Go \| Kazuo Ishiguro**  
-**Solaris \| Stanislaw Lem**  
-Two words: _sentient ocean_. Need I say more?  
 **The two cultures \| CP Snow**  
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
 [[book notes](link)] (in progress)  
 Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness.
 
 ## 2019
+**Solaris \| Stanislaw Lem ⭑⭑⭑**  
+Two words: _sentient ocean_. Need I say more? I guess I need. Indeed, the premise is very interesting. Lem decided to keep the ocean as impenetrably mysterious entity, though, which gives the book more of a thriller rather than sci-fi vibe. Good read but I am left wanting. 
+
 **The traveler, the tower, and the worm: the reader as metaphor \| Alberto Manguel**  
 A slender volume with self-explanatory title: Manguel expounds upon each of the three metaphors regarding the reader. It is an interesting to read about the act of reading itself. Manguel draws upon from a wealth of references from the Western literature canon, many works of which I haven't read, so it's not fair for me to give a rating.
 
