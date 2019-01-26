@@ -8,10 +8,9 @@ tags:
   - science
   - science education
 ---
-## The Two Cultures \| CP Snow
- 
+## The Two Cultures \| CP Snow 
 The stuff Snow was talking about in this lecture feels antiquated now. Probably it was the peculiar time and place that polarised the "two cultures". Or perhaps it was Snow's caricaturisation. (Snow himself looked retrospectively at his 1959 lecture in Part II.) 
-
+ 
 Nevertheless we can always learn something -- some of the points are interesting and and applicable. The divide of the current age though is between scientists and non-scientists -- hopefully it is something we will overcome.  The introduction by Stefan Collini also proves to be a commentary that is also worth reading. 
 
 ### Introduction (by Stefan Collini)
