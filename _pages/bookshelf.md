@@ -32,12 +32,14 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 
 **Never Let Me Go \| Kazuo Ishiguro**  
-**The two cultures \| CP Snow**  
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
 [[book notes](link)] (in progress)  
 Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness.
 
 ## 2019
+**The two cultures \| CP Snow ⭑⭑⭑**  
+[[book notes](https://yossadh.github.io/posts/2019/01/two-cultures-notes/)]
+
 **Solaris \| Stanislaw Lem ⭑⭑⭑**  
 Two words: _sentient ocean_. Need I say more? I guess I need. Indeed, the premise is very interesting. Lem decided to keep the ocean as impenetrably mysterious entity, though, which gives the book more of a thriller rather than sci-fi vibe. Good read but I am left wanting. 
 
