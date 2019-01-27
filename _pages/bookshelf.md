@@ -22,7 +22,6 @@ author_profile: true
 **Bad blood : secrets and lies in a Silicon Valley startup \| John Carreyrou**  
 **The dispossessed \| Ursula Le Guin**  
 **The better angels of our nature : why violence has declined \| Steven Pinker**  
-**The true history of tea \| Victor H. Mair & Erling Hoh**  
 **Curiosity \| Alberto Manguel**  
 **I am a strange loop \| Douglas Hofstadter**  
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
@@ -31,6 +30,7 @@ author_profile: true
 **Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks**  
 **The firmament of time \| Loren Eiseley**  
 
+**The true history of tea \| Victor H. Mair & Erling Hoh**  
 **Never Let Me Go \| Kazuo Ishiguro**  
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
 [[book notes](link)] (in progress)  
