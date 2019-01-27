@@ -41,7 +41,8 @@ Only by reading first few chapters, I can already recommend every Chinese Indone
 [[book notes](https://yossadh.github.io/posts/2019/01/two-cultures-notes/)]
 
 **Solaris \| Stanislaw Lem ⭑⭑⭑**  
-Two words: _sentient ocean_. Need I say more? I guess I need. Indeed, the premise is very interesting. Lem decided to keep the ocean as impenetrably mysterious entity, though, which gives the book more of a thriller rather than sci-fi vibe. Good read but I am left wanting. 
+Two words: _sentient ocean_. Need I say more?   
+I guess I need. Indeed, the premise is very interesting. Lem decided to keep the ocean as impenetrably mysterious entity, though, which gives the book more of a thriller rather than sci-fi vibe. Good read but I am left wanting. 
 
 **The traveler, the tower, and the worm: the reader as metaphor \| Alberto Manguel**  
 A slender volume with self-explanatory title: Manguel expounds upon each of the three metaphors regarding the reader. It is an interesting to read about the act of reading itself. Manguel draws upon from a wealth of references from the Western literature canon, many works of which I haven't read, so it's not fair for me to give a rating.
