@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Harvard Business Review \| Time for Happiness](https://hbr.org/cover-story/2019/01/time-for-happiness)  
 [In the Pipeline \| Exercise And Its Signaling](https://blogs.sciencemag.org/pipeline/archives/2019/01/24/exercise-and-its-signaling)  
 [In the Pipeline \| Quinine’s Target](https://blogs.sciencemag.org/pipeline/archives/2019/01/22/quinines-target) Quinine's target has been identified. This is significant step in malaria research.  
 [BBC \| A bit of meat, a lot of veg - the flexitarian diet to feed 10bn](https://www.bbc.com/news/health-46865204)  
