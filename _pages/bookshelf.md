@@ -38,7 +38,7 @@ Only by reading first few chapters, I can already recommend every Chinese Indone
 
 ## 2019
 **Never Let Me Go \| Kazuo Ishiguro ⭑⭑⭑⭑**  
-This is one of those where things are not what they seem and everything is only clear in the last 50 pages. If you find it a lull in the beginning like I do, just keep reading. The slow revelation is not dramatic like _A Clockwork Orange_ but still will leave one with retrospective reflection after things are fully revealed. 
+This is one of those where things are not what they seem and everything is only clear in the last 50 pages. If you find it a lull in the beginning like I did, just keep reading. The slow revelation is not dramatic like _A Clockwork Orange_ but will still leave one with retrospective reflection after things are fully revealed. 
 
 **The two cultures \| CP Snow ⭑⭑⭑**  
 [[book notes](https://yossadh.github.io/posts/2019/01/two-cultures-notes/)]
