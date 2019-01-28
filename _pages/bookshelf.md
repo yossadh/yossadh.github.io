@@ -14,6 +14,7 @@ author_profile: true
 **The emperor of all maladies \| Siddhartha Mukherjee**  
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
+**Harvard Square : a novel \| André Aciman**  
 **Seveneves \| Neal Stephenson**  
 **Don Quixote \| Miguel de Cervantes**  
 **Under the Volcano \| Malcom Lowery**  
