@@ -31,12 +31,14 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 
 **The true history of tea \| Victor H. Mair & Erling Hoh**  
-**Never Let Me Go \| Kazuo Ishiguro**  
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
 [[book notes](link)] (in progress)  
 Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness.
 
 ## 2019
+**Never Let Me Go \| Kazuo Ishiguro ⭑⭑⭑⭑**  
+This is one of those where things are not what they seem and everything is only clear in the last 50 pages. If you find it a lull in the beginning like I do, just keep reading. The slow revelation is not dramatic like _A Clockwork Orange_ but still will leave one with retrospective reflection after things are fully revealed. 
+
 **The two cultures \| CP Snow ⭑⭑⭑**  
 [[book notes](https://yossadh.github.io/posts/2019/01/two-cultures-notes/)]
 
