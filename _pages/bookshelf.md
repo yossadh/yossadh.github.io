@@ -5,7 +5,8 @@ permalink: /bookshelf/
 author_profile: true
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
+<head>
+  <style>
 .collapsible {
   background-color: #777;
   color: white;
@@ -29,7 +30,8 @@ author_profile: true
   background-color: #f1f1f1;
 }
 </style>
-
+</head>
+<body>
 ## Wishlist
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
 **Giants series \| James P Hogan**  
@@ -160,3 +162,4 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+</body>
