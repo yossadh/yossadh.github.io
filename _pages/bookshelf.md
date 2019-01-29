@@ -11,11 +11,11 @@ author_profile: true
   color: white;
   cursor: pointer;
   padding: 18px;
-  width: 100%;
+  width: 25%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 17px;
 }
 
 .active, .collapsible:hover {
@@ -29,24 +29,6 @@ author_profile: true
   background-color: #f1f1f1;
 }
 </style>
-</head>
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
 
 ## Wishlist
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
@@ -94,7 +76,7 @@ I guess I need. Indeed, the premise is very interesting. Lem decided to keep the
 **The traveler, the tower, and the worm: the reader as metaphor \| Alberto Manguel**  
 A slender volume with self-explanatory title: Manguel expounds upon each of the three metaphors regarding the reader. It is an interesting to read about the act of reading itself. Manguel draws upon from a wealth of references from the Western literature canon, many works of which I haven't read, so it's not fair for me to give a rating.
 
-<button class="collapsible">Snippets</button>
+<button class="collapsible">Snippets (click to open)</button>
 <div class="content">
   
 <blockquote>Augustine had noted: “our spirit has two feet—one of the intellect and one of the affect, or of cognition and love—and we must move both so that we may walk in the right way.”<br> 
@@ -161,3 +143,20 @@ JRR Tolkien: The Hobbit, Lord of the Rings trilogy
 FW Boreham: A Handful of Stars, Mushrooms on the Moor  
 Viktor Frankl: Man's Search for Ultimate Meaning  
 Søren Kierkegaard: Fear and Trembling  
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
