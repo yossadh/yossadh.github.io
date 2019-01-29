@@ -77,7 +77,7 @@ I guess I need. Indeed, the premise is very interesting. Lem decided to keep the
 
 **The traveler, the tower, and the worm: the reader as metaphor \| Alberto Manguel**  
 A slender volume with self-explanatory title: Manguel expounds upon each of the three metaphors regarding the reader. It is an interesting to read about the act of reading itself. Manguel draws upon from a wealth of references from the Western literature canon, many works of which I haven't read, so it's not fair for me to give a rating.
-
+<body>
 <button class="collapsible">Snippets</button>
 <div class="content">
   
@@ -90,6 +90,8 @@ however, engagement with a text does not go beyond passionate daydreaming or wis
 <blockquote>...in that moment known to every true reader, in which a verse, a line of prose, an idea or a story, suddenly touches us, unexpectedly and profoundly, revealing something dark, half-intuited, unavowed, something that belongs exclusively to that reader to whom it has been secretly destined. That verse, sentence, or story will always interest us more than the material thing itself, because we are creatures of feeble perceptions, like moles in the sun, betrayed by our senses, and even though literary language is an uncertain, unreliable instrument, it is, however, capable, in in a few miraculous moments, of helping us see the world.</blockquote>
 
 <blockquote>Being a bookworm need not always carry a negative connotation. We are reading creatures, we ingest words, we are made of words, we know that words are our means of being in the world, and it is through words that we identify our reality and by means of words that we are ourselves identified.</blockquote>
+
+</div>
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -106,7 +108,7 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-</div>
+</body>
 **Silence \| Shusaku Endo ⭑⭑⭑⭑**   
 Very heavy topic, especially since it is a historical fiction, so the depictions are real. Endo captures best the tugging and struggles in the missionary's heart. Can Christianity really take roots in Japan? Are all the deaths during the persecution meaningful?   
 
