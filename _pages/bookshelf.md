@@ -31,7 +31,7 @@ author_profile: true
 }
 </style>
 </head>
-<body>
+
 ## Wishlist
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
 **Giants series \| James P Hogan**  
@@ -162,4 +162,4 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-</body>
+
