@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Nature \| Flying squirrels are secretly pink](https://www.nature.com/articles/d41586-019-00307-6)  
 [Harvard Business Review \| Time for Happiness](https://hbr.org/cover-story/2019/01/time-for-happiness)  
 [In the Pipeline \| Exercise And Its Signaling](https://blogs.sciencemag.org/pipeline/archives/2019/01/24/exercise-and-its-signaling)  
 [In the Pipeline \| Quinine’s Target](https://blogs.sciencemag.org/pipeline/archives/2019/01/22/quinines-target) Quinine's target has been identified. This is significant step in malaria research.  
