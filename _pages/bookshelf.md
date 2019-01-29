@@ -4,6 +4,11 @@ title: "Bookshelf"
 permalink: /bookshelf/
 author_profile: true
 ---
+ <button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div> 
+
 ## Wishlist
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
 **Giants series \| James P Hogan**  
