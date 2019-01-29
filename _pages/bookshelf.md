@@ -4,8 +4,6 @@ title: "Bookshelf"
 permalink: /bookshelf/
 author_profile: true
 ---
-<html>
-<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
@@ -32,15 +30,6 @@ author_profile: true
 }
 </style>
 </head>
-<body>
-
-<h2>Collapsibles</h2>
-
-<p>A Collapsible:</p>
-<button class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
@@ -58,10 +47,6 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-
-</body>
-</html>
-
 
 ## Wishlist
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
@@ -109,15 +94,19 @@ I guess I need. Indeed, the premise is very interesting. Lem decided to keep the
 **The traveler, the tower, and the worm: the reader as metaphor \| Alberto Manguel**  
 A slender volume with self-explanatory title: Manguel expounds upon each of the three metaphors regarding the reader. It is an interesting to read about the act of reading itself. Manguel draws upon from a wealth of references from the Western literature canon, many works of which I haven't read, so it's not fair for me to give a rating.
 
->Augustine had noted: “our spirit has two feet—one of the intellect and one of the affect, or of cognition and love—and we must move both so that we may walk in the right way.”<br> 
--- Saint Augustine, Sermon 36, 413, “Corpus Christanorum.”
+<button class="collapsible">Snippets</button>
+<div class="content">
+  
+<blockquote>Augustine had noted: “our spirit has two feet—one of the intellect and one of the affect, or of cognition and love—and we must move both so that we may walk in the right way.”<br> 
+-- Saint Augustine, Sermon 36, 413, “Corpus Christanorum.”</blockquote>
 
->There is, lurking at the core of every reader’s engagement with the text, a double bind: the wish that what is told on the page be true, and the belief that it is not. In this tension between both, readers set up their tenuous encampment. Bruno Bettelheim long ago noted that children do not believe in the Big Bad Wolf or in Little Red-Riding Hood as such: they believe in their narrative existence, which, as we all know, can have a greater hold on us than many characters of blood and bone. For most readers,
-however, engagement with a text does not go beyond passionate daydreaming or wishful thinking.
+<blockquote>There is, lurking at the core of every reader’s engagement with the text, a double bind: the wish that what is told on the page be true, and the belief that it is not. In this tension between both, readers set up their tenuous encampment. Bruno Bettelheim long ago noted that children do not believe in the Big Bad Wolf or in Little Red-Riding Hood as such: they believe in their narrative existence, which, as we all know, can have a greater hold on us than many characters of blood and bone. For most readers,
+however, engagement with a text does not go beyond passionate daydreaming or wishful thinking.</blockquote>
 
->...in that moment known to every true reader, in which a verse, a line of prose, an idea or a story, suddenly touches us, unexpectedly and profoundly, revealing something dark, half-intuited, unavowed, something that belongs exclusively to that reader to whom it has been secretly destined. That verse, sentence, or story will always interest us more than the material thing itself, because we are creatures of feeble perceptions, like moles in the sun, betrayed by our senses, and even though literary language is an uncertain, unreliable instrument, it is, however, capable, in in a few miraculous moments, of helping us see the world.
+<blockquote>...in that moment known to every true reader, in which a verse, a line of prose, an idea or a story, suddenly touches us, unexpectedly and profoundly, revealing something dark, half-intuited, unavowed, something that belongs exclusively to that reader to whom it has been secretly destined. That verse, sentence, or story will always interest us more than the material thing itself, because we are creatures of feeble perceptions, like moles in the sun, betrayed by our senses, and even though literary language is an uncertain, unreliable instrument, it is, however, capable, in in a few miraculous moments, of helping us see the world.</blockquote>
 
->Being a bookworm need not always carry a negative connotation. We are reading creatures, we ingest words, we are made of words, we know that words are our means of being in the world, and it is through words that we identify our reality and by means of words that we are ourselves identified.
+<blockquote>Being a bookworm need not always carry a negative connotation. We are reading creatures, we ingest words, we are made of words, we know that words are our means of being in the world, and it is through words that we identify our reality and by means of words that we are ourselves identified.</blockquote>
+</div>
 
 **Silence \| Shusaku Endo ⭑⭑⭑⭑**   
 Very heavy topic, especially since it is a historical fiction, so the depictions are real. Endo captures best the tugging and struggles in the missionary's heart. Can Christianity really take roots in Japan? Are all the deaths during the persecution meaningful?   
