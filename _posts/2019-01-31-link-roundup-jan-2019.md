@@ -9,6 +9,9 @@ tags:
 ---
 
 **Science**  
+[Nature \| Extreme chemistry: experiments at the edge of the periodic table](https://www.nature.com/articles/d41586-019-00285-9)  
+>This is somewhat as expected: the strength of chemical bonding tends to decrease down a periodic group, as atoms get larger. But to fully explain superheavies’ chemistry, Pershina’s calculations must also take into account relativistic effects. In very heavy atoms, which have super-strong interactions between the innermost electrons and the highly charged nuclei, the electrons are travelling so fast (potentially at more than 80% of the speed of light) that their mass increases, as special relativity predicts. This pulls them farther in towards the nucleus, which can mean that they screen the outer electrons from the nuclear charge more effectively. That alters the outer electrons’ energies and, consequently, their chemical reactivity.
+
 [Nature \| Flying squirrels are secretly pink](https://www.nature.com/articles/d41586-019-00307-6)  
 [Harvard Business Review \| Time for Happiness](https://hbr.org/cover-story/2019/01/time-for-happiness)  
 [In the Pipeline \| Exercise And Its Signaling](https://blogs.sciencemag.org/pipeline/archives/2019/01/24/exercise-and-its-signaling)  
