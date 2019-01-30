@@ -65,15 +65,67 @@ renegotiated and rearticulated, both inside and outside China.
 by consent.11 When and how is a matter of politics.
 
 #### 2 Can one say no to Chineseness?: Pushing the limits of the diasporic paradigm
+>‘Chineseness’ here is the marker of that status, imparting an externally imposed identity given meaning, literally, by a practice of discrimination. It is the dominant culture’s classificatory practice, operating as a territorializing power highly effective in marginalizing the other, which shapes the meaning of Chineseness here as a curse, as something to ‘get used to’.
+
+>Scholars have always been bewildered about China. The intricate empirical multifariousness and historical complexity of this enormous country are hardly containable in the sophisticated (inter)disciplinary apparatus and theoretical armoury of Western researchers. Language, culture, civilization, people, nation, polity – how does one describe, interpret, and understand ‘China’, that awesome other country which has never ceased to both fascinate and infuriate its dedicated scholar? The difficulty has grown exponentially with the emergence of a so-called diasporic paradigm in the study of ‘Chineseness’. The booming interest in what is loosely termed the Chinese diaspora has unsettled the very demarcation of ‘China’ as an immensely complex yet ontologically stable object of study. The diasporic paradigm has shattered the convenient certainty with which Chinese Studies has been equated, quite simply, with the study of China. ‘China’ can no longer be limited to the more or less fixed area of its official spatial and cultural boundaries, nor can it be held up as providing the authentic, authoritative, and uncontested standard for all things Chinese. Instead, how to determine what is and what is not Chinese has become the necessary preliminary question to ask, and an increasingly urgent one at that. This, at least, is one of the key outcomes of the emergent diasporic paradigm.
+
+>...central to the diasporic paradigm is the theoretical axiom that Chineseness is not a category with a fixed content – be it racial, cultural or geographical – but operates as an open and indeterminate signifier whose meanings are constantly renegotiated and rearticulated in different sections of the Chinese diaspora.
+
+>As Stuart Hall (1996b) has remarked, the fact that ‘race’ is not a valid scientific category does not undermine its symbolic and social effectuality. The same could be said about Chineseness.
+
+>...the diasporic paradigm is necessarily unstable. After all, the very spirit of the idea of diaspora, motivated as it is by notions of dispersal, mobility and disappearance, works against its consolida- tion as a ‘paradigm’ proper. Contained in the diasporic perspective itself, therefore, are the seeds of its own deconstruction, which provides us with an opportunity to interrogate, not just the different meanings Chineseness takes on in different local contexts – a limited anti-essentialism which still takes the category of Chinese itself for granted – but, more radically, the very significance and validity of Chineseness as such as a category of identification and analysis.
+
+>On the other hand, there is also the reverse question of how to sinicize modernity; how, that is, to create a modern world that is truly Chinese and not simply an imitation of the West. 
+
+>According to Leo Ou-fan Lee (1994), who came from Taiwan to the United States as a graduate student more than thirty years ago and who describes himself as ‘a voluntary exile situated forever on the fringes of China’, the ‘excessive obsession with their homeland has deprived Chinese writers abroad of their rare privilege of being truly on the periphery’. For Lee, it is only by being truly on the periphery that one can create a distance ‘sufficiently removed from the center of the obsession’, allowing one to ‘subject the obsession itself to artistic treatment’ (1994: 226).
+
+>Race, in other words, provides a reductionist, essentializing discursive shortcut, in which, to paraphrase Stuart Hall, the signifier ‘Chinese’ is ‘torn from its historical, cultural and political embedding and lodged in a biologically constituted racial category’ (Hall 1996e: 472). In the imagining of ‘the Chinese race’, differences which have been constructed by heterogeneous diasporic conditions and experiences are suppressed in favour of illusory modes of bonding and belonging.
+ 
+>Recently I had a taxi ride in Sydney with a driver who was from mainland China. We mutually recognized each other as ‘Chinese’, but I had to tell him that, unfortunately, I couldn’t speak Chinese. ‘Well,’ he said, ‘it will be easy for you to learn. After all, you have Chinese blood.’ As if my imputed racial identity would automatically and naturally give me access to some enormous reservoir of cultural capital!
+
 #### 3 Indonesia on my mind: diaspora, the Internet and the struggle for hybridity
+>Let me put it clearly at the outset: coming from a family of Chinese descent, my relationship to Indonesia is necessarily a profoundly troubled one. Not having forgotten my early years of growing up in that mind-boggling country, it is still an ambivalent site of identification and disidentification for me. It is precisely this ambivalence that will point me towards the necessity for an intellectual and cultural politics of hybridity.
+
+>The Indonesian nation–state is not only postcolonial but also multi-ethnic – an ambitiously synthetic and syncretic, irrevocably modern and modernist project. Being constructed out of a complex and conflictive colonial history, Indonesia has to negotiate massive economic, political and cultural challenges and immense internal and external contradictions to keep the nation together. 
+
+>In retrospect, I know that my own childhood dedication to the nation, my deep and heartfelt investment in national belonging and nationalist commitment, was doomed from the start: modern Indonesian nationalism has never managed to accommodate successfully the presence of the Chinese minority in its construction of an imagined community.3 While the Indonesian nation was from its inception imagined as a multi-ethnic entity – something which was necessary to unify the hundreds of ethnic and linguistic groupings making up the country whose spatial boundaries were determined by the imposition of Dutch colonialism – the place of those marked as ‘Chinese’ in this ‘unity-in-diversity’ has always been resolutely ambiguous and uncertain.4
+
+>In an attempt to control what came to be called ‘the Chinese problem’ in postcolonial Indonesia, the Suharto regime demanded that ethnic Chinese assimilate into mainstream Indonesian society through name-changing policies, bans on the public display of Chinese cultural expression such as the use of Chinese language and Chinese New Year celebrations, and so on. At the same time, those of Chinese descent were prevented from forgetting their categorical difference as the government continued to differentiate between indigenous and non-indigenous groups, for example, by using special identity cards for ethnic Chinese. 
+
+>Thus, for those who call themselves ‘Chinese Indonesian’ or ‘Indonesian Chinese’: the interchangeable use of the two reveals the uncertainty and ambivalence many have in identifying themselves – the imaginary belonging to a vast and powerful ‘Chinese diaspora’ can never provide a satisfactory solution to the question of ‘home’.
+
+>It misses the point here to suggest, as more Marxist-inclined analysts would do, that the ‘Chinese problem’ in Indonesia is not one of ‘race’, but one of ‘class’. The problem is that in this context, ‘class’ is lived in the modality of ‘race’: Indonesia is an intensely racialized social formation, in which the Chinese/_pribumi_ distinction is generally read in terms of economic advantage/disadvantage. In other words, ‘Chineseness’ in contemporary Indonesia does not connote primarily cultural identities, but economic identities. It is this real and perceived economic divide that determines, in the first instance, the manner in which real and perceived cultural differences are transformed into social incompatibilities and antagonisms, both ideologically and in practice.10
+
+>Chinese merchants and traders in South-East Asia have often been dubbed ‘the Jews of the Orient’, an antipathetic term of abuse first used by King Vajiravudth of Thailand in 1920s (Tejapira 1997). This designation refers to the crucial role the Chinese ‘enterpreneurial minority’ has for centuries played in the commercial practices throughout the region.
+
+>Indeed, as Ariel Heryanto has argued, the very emphasis on the need to assimilate the Chinese tends to reinforce ‘the active and conscious othering of the Chinese’ in ‘the reproduction of the native Self’ (1998a: 101).
+
+>In an important sense, hybridity is the politics of those ‘who do not have claims to territorial propriety or cultural centrality’ (Chow 1993: 25). This is particularly pertinent for groups such as Chinese Indonesians, who are ‘stuck’ in a country they have not been allowed to call their own despite the fact that they have lived there for generations.
+
+>As Garcia Canclini (2000: 48) rightly remarks, ‘hybridisation is not synonymous with reconciliation among ethnicities and nations, nor does it guarantee democratic interactions’. Hybridity is not a superior form of transformative resistance, nor the only mode of politics available, but, rather more humbly, a limited but crucial, life-sustaining tactic of everyday survival and practice in a world overwhelmingly dominated by large-scale historical forces whose effects are beyond the control of those affected by them.
+
+>Which leads me to conclude that if I _am_ a diasporic intellectual – and I am certainly not always one – then my diasporic reference point, my imaginary ‘home’, cannot be ‘China’; it has to be ‘Indonesia’. But my position as an Indonesian diasporic intellectual is necessarily ambivalent and double-edged, always already steeped in hybridity. 
+
 #### 4 Undoing diaspora: questioning global Chineseness in the era of globalization
+>It is clear, then, that the discourse of diaspora owes much of its contemporary currency to the economic, political and cultural erosion of the modern nation–state as a result of postmodern capitalist globalization – what Tölölyan calls ‘the transnational moment’. Tölölyan even nominates diasporas as the paradigmatic Others of the nation–state: the increasing assertiveness of diasporic groups in representing and organizing themselves _as_ transnational communities forces nation–states to ‘confront the extent to which their boundaries are porous and their ostensible homogeneity a multicultural heterogeneity’ (1991: 5).
+
+>In many cases, as in Malaysia and Indonesia, the Chinese found themselves relegated to being second-class citizens, economically well-off but socially and politically discriminated against. ‘Being Chinese’, under all these circumstances, has meant being locked into an unenviable, paralysingly disempowered position _vis-à-vis_ the dominant national culture and the state undergirding it.
+
+>I would contend that much of the current popularity of ‘Chinese diaspora’ among ethnic Chinese around the world is fuelled precisely by this emotive desire not just to belong, but to belong to a respectable imagined community, one that instils pride in one’s identity precisely because it is so much larger and more encompassing, in geographical terms at least, than any territorially bounded nation. Global diaspora, in this context, signifies deliverance and release from territorialized national identity, triumph over the shackles of the nation–state.
+
+>...a general reification of the very idea of Chinese identity as something fixed and indisputable. As Prasenjit Duara has argued, before the intervention of the Chinese nationalist activists, the majority of Chinese outside China lived with a flexible and ambiguous sense of Chineseness which had relatively open and soft, permeable boundaries. The activists, in Duara’s words, ‘sought to transform these multiple, mobile identifications into a Chineseness that eliminated or reduced internal boundaries, on the one hand, and hardened the boundaries between Chinese and non-Chinese, on the other’ (1997: 41).
+
+>>the single word, Chinese, will be less and less able to convey a reality that continues to become more pluralistic. We need more words, each with the necessary adjectives to qualify and identify who exactly we are describing. We need them all to capture the richness and variety of the hundreds of Chinese communities that can now be found.<br>
+(Wang 1999: 16)
+
+>The hybridizing context of the global city brings out the intrinsic contradiction locked into the concept of diaspora, which, logically, depends on the maintenance of an apparently natural, essential identity to secure its imagined status as a coherent community. The global city is the space of diaspora’s undoing.
+
 ### PART II Beyond the West: negotiating multiculturalism
-#### 5 Multiculturalism in crisis: the new politics of race and national identity in Australia With Jon Stratton
+#### 5 Multiculturalism in crisis: the new politics of race and national identity in Australia / With Jon Stratton
+>In drawing the line of acceptable cultural difference by using the term ‘Asian’, however, she exemplifies what James Donald and Ali Rattansi (1992: 2), in discussing 1980s’ Britain, have called ‘a new racism, based not on ideas of innate biological superiority but on the supposed incompatibility of cultural traditions’.
+
 #### 6 Asians in Australia: a contradiction in terms?
+>As a geographical entity, ‘Asia’ is an artificial construct with uncertain boundaries, especially on its western front where its border with ‘Europe’ has never been firmly established by European geographers from whose meta-geographical imagination the very idea of ‘continents’ had sprung (Lewis and Wigen 1997). 
+
 #### 7 Racial/spatial anxiety: ‘Asia’ in the psycho-geography of Australian whiteness
 #### 8 The curse of the smile: ambivalence and the ‘Asian’ woman in Australian multiculturalism
-#### 9 Identity blues: rescuing cosmopolitanism in the era of globalization
-### PART III Beyond identity: living hybridities
-#### 10 Local/global negotiations: doing cultural studies at the crossroads
-#### 11 I’m a feminist but . . .: ‘other’ women and postnational identities
-#### 12 Conclusion: together-in-difference (the uses and abuses of hybridity)
