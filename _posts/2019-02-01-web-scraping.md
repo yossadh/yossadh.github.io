@@ -104,7 +104,7 @@ $ sed 's/[[:space:]]//g; /^$/d' output > output_clean
 ```
 You can confirm that each product number corresponds to a chemical identifier, then extracts just the identifiers like in Step 1:
 ```bash
-$ paste - - < output_clean | awk '{print $4}' > chem_id.txt # list B
+$ paste - - < output_clean | awk '{print $2}' > chem_id.txt # list B
 ```
 
 ### Step 3
