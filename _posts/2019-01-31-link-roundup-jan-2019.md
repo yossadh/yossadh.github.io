@@ -35,6 +35,7 @@ tags:
 [Wired \| How a Reclusive Lizard Became a Prize Find for Wildlife Smugglers](https://www.wired.com/story/wildlife-smugglers-poached-rachel-nuwer-reclusive-lizard/)  
 [3 Quarks Daily \| The vast and mysterious real numbers](https://www.3quarksdaily.com/3quarksdaily/2018/12/the-vast-and-mysterious-real-numbers.html)  
 **Paper**  
+[PLOS Comp Bio \| Inherent versus induced protein flexibility: Comparisons within and between apo and holo structures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006705)  
 [Science \| An enantioconvergent halogenophilic nucleophilic substitution (SN2X) reaction](http://science.sciencemag.org/content/363/6425/400)  
 [Science \| _Porphyromonas gingivalis_ in Alzheimer’s disease brains: Evidence for disease causation and treatment with small-molecule inhibitors](http://advances.sciencemag.org/content/5/1/eaau3333)  
 [PLOS Comp Biol \| Ten simple rules on how to create open access and reproducible molecular simulations of biological systems](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006649)  
