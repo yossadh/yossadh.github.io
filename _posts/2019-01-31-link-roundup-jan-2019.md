@@ -46,6 +46,7 @@ tags:
 It's nice to see that even though Frances Arnold just received the Nobel Prize, she is still actively publishing papers. Or maybe I notice just because I am on the lookout for publications on protein design ¯\\\_(ツ)\_/¯  
 [PNAS \| Dietary sugar silences a colonization factor in a mammalian gut symbiont](https://www.pnas.org/content/early/2018/12/12/1813780115) [via [Scientific American](https://www.scientificamerican.com/podcast/episode/simple-sugars-wipe-out-beneficial-gut-bugs/)]  
 **Others**   
+[What Was It About Animorphs?](https://www.theparisreview.org/blog/2019/01/23/what-was-it-about-animorphs/) I never finished reading Animorphs when I was a teenager because the library didn't have the complete collection. Reread everything last year and glad that I did.   
 [Language Log \| Slavs and slaves](http://languagelog.ldc.upenn.edu/nll/?p=41445)  
 [NYT \| Virginia Woolf? Snob! Richard Wright? Sexist! Dostoyevsky? Anti-Semite!](https://www.nytimes.com/2019/01/08/books/review/edith-wharton-house-of-mirth-anti-semitism.html)  
 >I think we’d all be better readers if we realized that it isn’t the writer who’s the time traveler. It’s the reader. When we pick up an old novel, we’re not bringing the novelist into our world and deciding whether he or she is enlightened enough to belong here; we’re journeying into the novelist’s world and taking a look around.  
