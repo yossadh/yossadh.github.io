@@ -37,6 +37,8 @@ author_profile: true
 **Giants series \| James P Hogan**  
 **Story of your life \| Ted Chiang**  
 **Madam Bovary \| Gustave Flaubert**  
+**The Long Walk: The True Story Of A Trek To Freedom \| Slavomir Rawicz**  
+**Lament for a Son \| Nicholas Wolterstorff**  
 
 ## Reading queue
 **The emperor of all maladies \| Siddhartha Mukherjee**  
