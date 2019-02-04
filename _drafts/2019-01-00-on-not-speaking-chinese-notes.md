@@ -129,3 +129,16 @@ by consent.11 When and how is a matter of politics.
 
 #### 7 Racial/spatial anxiety: ‘Asia’ in the psycho-geography of Australian whiteness
 #### 8 The curse of the smile: ambivalence and the ‘Asian’ woman in Australian multiculturalism
+<blockquote>
+<blockquote>‘Where are you from?’ <br>
+‘I was born in Indonesia.’<br>
+‘Oh, I really like it there; it’s such a spiritual country!’<br>
+</blockquote>  
+This snippet of conversation reminds me of Ruth Frankenberg’s observation in White Women, Race Matters (1993) that while American white women mainly see nonwhite ‘cultures’ as lesser, deviant or pathological, they sometimes see these ‘cultures’ as somehow better than their own, for example, as more ‘interesting’, more ‘natural’, or indeed more ‘spiritual’. But these ‘positive’ evaluations, as Frankenberg (1993: 199) rightly notes, are still based on dualistic conceptions of self and other.
+</blockquote>
+  
+>Trinh (1991) also enunciates the productivity of liminal in-betweenness as a place from where the minority subject can become an unsettling agent:
+>>Not quite the Same, not quite the Other, she stands in that undetermined threshold place where she constantly drifts in and out. Undercutting the ‘inside/outside’ opposition, her intervention is necessarily that of both a deceptive insider and a deceptive outsider. She is this Inappropriate Other/Same who moves about with always at least two/four gestures: that of affirming ‘I am like you’ while persisting in her difference; and that of reminding ‘I am different’ while unsettling every definition of otherness arrived at.
+
+#### 9 Identity blues: rescuing cosmopolitanism in the era of globalization
+>What such mundane local interactions can contribute to, I believe, is the incremental and dialogic construction of lived identities which slowly dissolve the boundaries between the past and the future, between ‘where we come from’ and ‘what we might become’, between being and becoming. Being is enhanced by becoming, and becoming is never possible without a solid grounding in being. As subjects from multiple backgrounds negotiate their social co-existence and their mutual entanglement, the contradictory necessity and impossibility of identities are played out in the messiness of everyday life, as the global and the local interpenetrate each other.
