@@ -17,9 +17,10 @@ tags:
 [For science, or the ‘motherland’? The dilemma facing China’s brightest minds](https://supchina.com/2019/01/30/for-science-or-the-motherland-chinas-brightest-minds/)  
 [Sci Am \| Hollywood: Can You Get Climate Change Right for Once?](https://blogs.scientificamerican.com/hot-planet/hollywood-can-you-get-climate-change-right-for-once/)  
 > “Twelve years until we all die” is catchier than “under some reasonable but debatable assumptions about economic growth, policy choices, and the physical climate sensitivity, the carbon budget to stay below the arbitrary threshold of a 1.5 degree C temperature increase relative to pre-industrial conditions appears to be exceeded by 2030”.
-
-<!-- 
+  
 **Paper**  
+[Chem Comm \| Enantioenrichment of racemic BINOL by way of excited state proton transfer](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CC/C8CC07949H#!divAbstract)  
+<!-- 
 **Others**   
 -->
 
