@@ -61,12 +61,14 @@ author_profile: true
 **Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks**  
 **The firmament of time \| Loren Eiseley**  
 
-**The true history of tea \| Victor H. Mair & Erling Hoh**  
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
 [[book notes](link)] (in progress)  
 Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness.
 
 ## 2019
+**The true history of tea \| Victor H. Mair & Erling Hoh ⭑⭑⭑⭑**  
+Very educative. I was first attracted to this book by Victor Mair's linguistic discourse on the Chinese characters _tu_ (bitter vegetable) and _cha_ (tea) which have a difference of a single stroke. Thus virtually the word for tea in every language derives from the Chinese. Read more in this book, Appendix C.
+
 **Never Let Me Go \| Kazuo Ishiguro ⭑⭑⭑⭑**  
 This is one of those where things are not what they seem and everything is only clear in the last 50 pages. If you find it a lull in the beginning like I did, just keep reading. The slow revelation is not dramatic like _A Clockwork Orange_ but will still leave one with retrospective reflection after things are fully revealed. 
 
