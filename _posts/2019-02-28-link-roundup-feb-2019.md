@@ -9,6 +9,8 @@ tags:
 ---
 
 **Science**  
+[In the Pipeline \| Targets Versus Drugs](https://blogs.sciencemag.org/pipeline/archives/2019/02/05/targets-versus-drugs)  
+[The Atlantic \| Feed a Cold, Don’t Starve It](https://www.theatlantic.com/science/archive/2016/09/glucose-inflammation/498965/)  
 [Nautilus \| The Real Secret of Youth Is Complexity](http://nautil.us/issue/68/context/the-real-secret-of-youth-is-complexity-rp)  
 [Nature \| Forget everything you know about 3D printing — the ‘replicator’ is here](https://www.nature.com/articles/d41586-018-07798-9)  
 [Promises, promises, and precision medicine](https://www.jci.org/articles/view/126119)  
