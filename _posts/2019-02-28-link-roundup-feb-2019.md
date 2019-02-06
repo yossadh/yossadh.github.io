@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[3QD \| A Truly Amazing And Beautiful Connection Between Math And Physics](https://www.3quarksdaily.com/3quarksdaily/2019/02/a-truly-amazing-and-beautiful-connection-between-math-and-physics.html)  
 [In the Pipeline \| Targets Versus Drugs](https://blogs.sciencemag.org/pipeline/archives/2019/02/05/targets-versus-drugs)  
 [The Atlantic \| Feed a Cold, Don’t Starve It](https://www.theatlantic.com/science/archive/2016/09/glucose-inflammation/498965/)  
 [Nautilus \| The Real Secret of Youth Is Complexity](http://nautil.us/issue/68/context/the-real-secret-of-youth-is-complexity-rp)  
