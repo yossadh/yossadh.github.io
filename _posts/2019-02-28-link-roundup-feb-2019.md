@@ -9,6 +9,9 @@ tags:
 ---
 
 **Science**  
+[Nature \| The science of tea’s mood-altering magic](https://www.nature.com/articles/d41586-019-00398-1)  
+>Borgwardt says the Korean study shows that tea has “a relatively strong effect”, on a par with that of 2.5 hours of exercise per week. Epidemiological studies suggest that long-term habitual consumption of green tea might reduce the risk of dementia. One study of people aged over 55 in Singapore, for example, found that those who drank as little as one cup of tea per week performed better at memory and information-processing tasks than did non-tea-drinkers2.
+
 [3QD \| A Truly Amazing And Beautiful Connection Between Math And Physics](https://www.3quarksdaily.com/3quarksdaily/2019/02/a-truly-amazing-and-beautiful-connection-between-math-and-physics.html)  
 [In the Pipeline \| Targets Versus Drugs](https://blogs.sciencemag.org/pipeline/archives/2019/02/05/targets-versus-drugs)  
 [The Atlantic \| Feed a Cold, Don’t Starve It](https://www.theatlantic.com/science/archive/2016/09/glucose-inflammation/498965/)  
