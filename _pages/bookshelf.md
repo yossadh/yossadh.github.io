@@ -46,7 +46,6 @@ author_profile: true
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
 **John Crow's devil \| Marlon James**  
 **Harvard Square : a novel \| André Aciman**  
-**Seveneves \| Neal Stephenson**  
 **Don Quixote \| Miguel de Cervantes**  
 **Under the Volcano \| Malcom Lowery**  
 **A house for Mr. Biswas \| V.S. Naipaul**  
@@ -62,6 +61,8 @@ author_profile: true
 **Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks**  
 **The firmament of time \| Loren Eiseley**  
 
+**White Teeth \| Zadie Smith**  
+**Seveneves \| Neal Stephenson**  
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
 [[book notes](link)] (in progress)  
 Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness.
