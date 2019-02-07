@@ -22,6 +22,8 @@ tags:
 > “Twelve years until we all die” is catchier than “under some reasonable but debatable assumptions about economic growth, policy choices, and the physical climate sensitivity, the carbon budget to stay below the arbitrary threshold of a 1.5 degree C temperature increase relative to pre-industrial conditions appears to be exceeded by 2030”.
   
 **Paper**  
+[PLOS Comp Bio \| DeepDrug3D: Classification of ligand-binding pockets in proteins with a convolutional neural network](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006718)  
+[Nature \| Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9)   
 [Chem Comm \| Enantioenrichment of racemic BINOL by way of excited state proton transfer](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CC/C8CC07949H#!divAbstract)  
 <!-- 
 **Others**   
