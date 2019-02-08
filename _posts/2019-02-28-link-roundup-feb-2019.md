@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Wired \| This Jagged Little Pill Could Make Diabetes Easier to Treat](https://www.wired.com/story/needle-carrying-pill-to-replace-injections-for-diabetes/)    
 [Nature \| The science of tea’s mood-altering magic](https://www.nature.com/articles/d41586-019-00398-1)  
 >Borgwardt says the Korean study shows that tea has “a relatively strong effect”, on a par with that of 2.5 hours of exercise per week. Epidemiological studies suggest that long-term habitual consumption of green tea might reduce the risk of dementia. One study of people aged over 55 in Singapore, for example, found that those who drank as little as one cup of tea per week performed better at memory and information-processing tasks than did non-tea-drinkers2.
   
