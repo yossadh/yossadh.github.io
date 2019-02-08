@@ -28,9 +28,8 @@ tags:
 [PLOS Comp Bio \| DeepDrug3D: Classification of ligand-binding pockets in proteins with a convolutional neural network](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006718)  
 [Nature \| Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9)   
 [Chem Comm \| Enantioenrichment of racemic BINOL by way of excited state proton transfer](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CC/C8CC07949H#!divAbstract)  
-<!-- 
 **Others**   
--->
+[Indonesia and the West: From Debussy to Lou Harrison](https://theamericanscholar.org/indonesia-and-the-west/#.XFzducYRWV6)  
 
 
 
