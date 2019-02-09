@@ -142,3 +142,12 @@ This snippet of conversation reminds me of Ruth Frankenberg’s observation in W
 
 #### 9 Identity blues: rescuing cosmopolitanism in the era of globalization
 >What such mundane local interactions can contribute to, I believe, is the incremental and dialogic construction of lived identities which slowly dissolve the boundaries between the past and the future, between ‘where we come from’ and ‘what we might become’, between being and becoming. Being is enhanced by becoming, and becoming is never possible without a solid grounding in being. As subjects from multiple backgrounds negotiate their social co-existence and their mutual entanglement, the contradictory necessity and impossibility of identities are played out in the messiness of everyday life, as the global and the local interpenetrate each other.
+
+### PART III Beyond identity: living hybridities
+#### 10 Local/global negotiations: doing cultural studies at the crossroads
+>After all, as Gayatri Spivak (1990: 139) once pointedly remarked, ‘crisis management is [just] another name for life’ – an observation of particular resonance within the stressful societies of advanced postmodern capitalism.
+
+>>Instead . . . of thinking of places as areas with boundaries around, they can be imagined as articulated moments in networks of social relations and understandings, but where a large proportion of those relations, experiences and understandings are constructed on a far larger scale than what we happen to define for that moment as the place itself, whether that be a street, or a region, or even a continent.<br>
+(Massey 1994: 154)
+
+>In short, it is at moments when comprehending my local-specific narrative becomes problematic to you, my reader, when such comprehension seems muted because I do not seem to speak in familiar discourse, that the malleability of general theoretical concepts such as ‘race’, ‘nation’ and ‘identity’, not to mention metaphors such as the ‘borderlands’ and the ‘crossroads’, becomes evident. It is the ways in which we both do and do _not_ share these (and many other) concepts and metaphors across local/particular/specific boundaries that we should begin to interrogate and highlight.
