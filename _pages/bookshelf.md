@@ -69,7 +69,7 @@ Only by reading first few chapters, I can already recommend every Chinese Indone
 
 ## 2019
 **The true history of tea \| Victor H. Mair & Erling Hoh ⭑⭑⭑⭑**  
-Very educative. I was first attracted to this book by Victor Mair's linguistic discourse on the Chinese characters _tu_ (bitter vegetable) and _cha_ (tea) which have a difference of a single stroke. Thus virtually the word for tea in every language derives from the Chinese. Read more in this book, Appendix C.
+Very educative. I was first attracted to this book by Victor Mair's linguistic discourse on the Chinese characters _tu_ (bitter vegetable) and _cha_ (tea) which have a difference of a single stroke. Thus virtually the word for tea in every language derives from the Chinese. You can read more about this in the book (Appendix C).
 
 **Never Let Me Go \| Kazuo Ishiguro ⭑⭑⭑⭑**  
 This is one of those where things are not what they seem and everything is only clear in the last 50 pages. If you find it a lull in the beginning like I did, just keep reading. The slow revelation is not dramatic like _A Clockwork Orange_ but will still leave one with retrospective reflection after things are fully revealed. 
