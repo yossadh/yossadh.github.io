@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Wired \| Monkeys With Superpower Eyes Could Help Cure Color Blindness](https://www.wired.com/story/monkeys-with-superpower-eyes-could-help-cure-color-blindness/)  
 [Aeon \| Becoming: From zygote to tadpole, in six stunning minutes (video)](https://youtu.be/7Q9VyHJ1l2Q)  
 [Wired \| This Jagged Little Pill Could Make Diabetes Easier to Treat](https://www.wired.com/story/needle-carrying-pill-to-replace-injections-for-diabetes/)    
 [Nature \| The science of tea’s mood-altering magic](https://www.nature.com/articles/d41586-019-00398-1)  
