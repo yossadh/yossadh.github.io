@@ -1,6 +1,6 @@
 ---
 title:  "Book notes: _On not speaking Chinese_"
-date: 2019-01-00
+date: 2019-02-11
 permalink: /posts/2019/02/on-not-speaking-chinese-notes/
 categories: 
   - book notes
