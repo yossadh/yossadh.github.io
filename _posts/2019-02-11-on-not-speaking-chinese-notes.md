@@ -1,7 +1,7 @@
 ---
 title:  "Book notes: _On not speaking Chinese_"
 date: 2019-01-00
-permalink: /posts/2019/01/on-not-speaking-chinese-notes/
+permalink: /posts/2019/02/on-not-speaking-chinese-notes/
 categories: 
   - book notes
 tags:
@@ -151,3 +151,11 @@ This snippet of conversation reminds me of Ruth Frankenberg’s observation in W
 (Massey 1994: 154)
 
 >In short, it is at moments when comprehending my local-specific narrative becomes problematic to you, my reader, when such comprehension seems muted because I do not seem to speak in familiar discourse, that the malleability of general theoretical concepts such as ‘race’, ‘nation’ and ‘identity’, not to mention metaphors such as the ‘borderlands’ and the ‘crossroads’, becomes evident. It is the ways in which we both do and do _not_ share these (and many other) concepts and metaphors across local/particular/specific boundaries that we should begin to interrogate and highlight.
+
+#### 11 I’m a feminist but . . .: ‘other’ women and postnational identities
+>Some peoples have _become_ white over time as their status and power have risen (such as the Irish and the Jews in the USA) (Ignatiev 1996; Brodkin 1999), while others have been known for their _desire_ to be white or at least be treated as white (such as the Japanese in the early twentieth century, when they managed to be recognized by the European powers as ‘honorary whites’) (Tanaka 1993; Brawley 1995). These historical complexities suggest that we need to go beyond the generalizations of generic whiteness and undifferentiated Westernness if we are to understand the specific cultural dynamics in which these interrelation- ships are played out in any particular context.
+
+#### 12 Conclusion: together-in-difference (the uses and abuses of hybridity)
+>Can togetherness be more than a coincidental and involuntary aggregation of groups being thrust into the same time and space, an uneasy and reluctant juxtapositioning of different bodies and identities forced to share a single world even if their respective imaginative worlds are worlds apart? 
+
+>In other words, by recognizing the inescapable impurity of all cultures and the porousness of all cultural boundaries in an irrevocably globalized, interconnected and interdependent world, we may be able to conceive of our living together in terms of complicated entanglement, not in terms of the apartheid of insurmount- able differences. 
