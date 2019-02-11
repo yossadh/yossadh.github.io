@@ -63,11 +63,12 @@ author_profile: true
 
 **White Teeth \| Zadie Smith**  
 **Seveneves \| Neal Stephenson**  
-**On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
-[[book notes](link)] (in progress)  
-Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness.
 
 ## 2019
+**On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
+[[book notes](https://yossadh.github.io/posts/2019/02/on-not-speaking-chinese-notes/)]  
+Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness. That is Part 1. Part 2 is about Australia, so that is just a curiosity for me. In Part 3 she concludes.
+
 **The true history of tea \| Victor H. Mair & Erling Hoh ⭑⭑⭑⭑**  
 Very educative. I was first attracted to this book by Victor Mair's linguistic discourse on the Chinese characters _tu_ (bitter vegetable) and _cha_ (tea) which have a difference of a single stroke. Thus virtually the word for tea in every language derives from the Chinese. You can read more about this in the book (Appendix C).
 
