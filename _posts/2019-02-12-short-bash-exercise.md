@@ -59,4 +59,4 @@ paste -d ' ' file.smi <(seq -f "%08g" $(wc -l < file.smi) | sed 's/^/C/') | awk 
 #                                                                            first and last columns
 ```
 
-Hopefully this still makes sense in the future \\("▔□▔)\/ \*cross fingers\* 
+Hopefully this still makes sense in the future \\("▔□▔)/ \*cross fingers\* 
