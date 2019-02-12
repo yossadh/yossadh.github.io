@@ -1,5 +1,5 @@
 ---
-title:  "Short _bash_ scripting exercise"
+title:  "Short bash scripting exercise"
 date: 2019-02-12
 permalink: /posts/2019/02/short-bash-exercise/
 categories: 
