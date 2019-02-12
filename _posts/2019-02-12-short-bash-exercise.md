@@ -24,7 +24,7 @@ smiles2 C00000002
 This was my real-world need of converting a list of SMILES to a format that is accepted by a conversion programme. Looks easy right? 
 
 Here was what I did:
-- First I need to generate a sequence ending in total number of lines is `file.smi`:
+First I need to generate a sequence ending in total number of lines is `file.smi`:
 ```bash
 # count lines in file.smi
 wc -l < file.smi
@@ -35,7 +35,7 @@ seq -f "%08g" $(wc -l < file.smi)
 # Add 'C' in the beginning (C0000000x, C000000xx) 
 seq -f "%08g" $(wc -l < file.smi) | sed 's/^/C/' > new_ids_tempfile
 ```
-- Zero padding is the tricky part; the rest is just column manipulation:
+Zero padding is the tricky part; the rest is just column manipulation:
 ```bash
 # Put together smiles and new ids, change delimiter from tab to space
 paste -d ' ' file.smi new_ids_tempfile
@@ -43,11 +43,11 @@ paste -d ' ' file.smi new_ids_tempfile
 # to make sure only smiles and new ids are printed
 paste -d ' ' file.smi new_ids_tempfile | awk '{print $1, $NF}'
 ```
-- Finally we can eliminate the intermediary tempfile by generating it on the fly:
+Finally we can eliminate the intermediary tempfile by generating it on the fly:
 ```bash
 paste -d ' ' file.smi <(seq -f "%08g" $(wc -l < file.smi) | sed 's/^/C/') | awk '{print $1, $NF}'
 ```
-- As with many one-liner text manipulation scripts, this is is pretty unintelligible at first glance. To do my future self a favour, I add extensive comments:
+As with many one-liner text manipulation scripts, this is is pretty unintelligible at first glance. To do my future self a favour, I add extensive comments:
 ```bash
 paste -d ' ' file.smi <(seq -f "%08g" $(wc -l < file.smi) | sed 's/^/C/') | awk '{print $1, $NF}'
 #                                       |--count lines in file.smi         
