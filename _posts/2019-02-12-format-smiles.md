@@ -1,7 +1,7 @@
 ---
-title:  "Short bash scripting exercise"
+title:  "Formatting list of SMILES with bash scripting"
 date: 2019-02-12
-permalink: /posts/2019/02/short-bash-exercise/
+permalink: /posts/2019/02/format-smiles/
 categories: 
   - short
 tags:
