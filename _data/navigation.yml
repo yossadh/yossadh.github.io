@@ -6,8 +6,8 @@ main:
   - title: "Bookshelf"
     url: /bookshelf/  
   
-  - title: "Link Roundup"
-    url: /link_roundup/
+  #- title: "Link Roundup"
+  #  url: /link_roundup/
 
   #- title: "Talks"
   #  url: /talks/    
