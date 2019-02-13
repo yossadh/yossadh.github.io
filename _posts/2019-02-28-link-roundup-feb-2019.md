@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[NY Times \| Everywhere in the Animal Kingdom, Followers of the Milky Way](https://www.nytimes.com/2019/02/11/science/milk-animals-evolution.html)  
 [Chemistry World \| Molecular movie reveals how twisting methyl disturbs aspirin electrons](https://www.chemistryworld.com/news/molecular-movie-reveals-how-twisting-methyl-disturbs-aspirin-electrons/3010106.article)  
 [The Atlantic \| The Women Who Contributed to Science but Were Buried in Footnotes](https://www.theatlantic.com/science/archive/2019/02/womens-history-in-science-hidden-footnotes/582472/)  
 [Wired \| Monkeys With Superpower Eyes Could Help Cure Color Blindness](https://www.wired.com/story/monkeys-with-superpower-eyes-could-help-cure-color-blindness/)  
@@ -33,7 +34,8 @@ tags:
 [PLOS Comp Bio \| DeepDrug3D: Classification of ligand-binding pockets in proteins with a convolutional neural network](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006718)  
 [Nature \| Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9)   
 [Chem Comm \| Enantioenrichment of racemic BINOL by way of excited state proton transfer](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CC/C8CC07949H#!divAbstract)  
-**Others**   
+**Others**  
+[SMBC \| Robot Love](https://www.smbc-comics.com/comic/robot-love-2)  
 [xkcd \| Error Bars](https://xkcd.com/2110/)  
 [Indonesia and the West: From Debussy to Lou Harrison](https://theamericanscholar.org/indonesia-and-the-west/#.XFzducYRWV6)  
 
