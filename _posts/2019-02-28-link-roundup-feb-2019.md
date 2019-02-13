@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Nature \| What 50 principal investigators taught me about my failure to land tenure](https://www.nature.com/articles/d41586-019-00560-9)  
 [Nature \| Three secrets of survival in science advice](https://www.nature.com/articles/d41586-019-00518-x)  
 >All LSTABs face a dilemma. Politicians generally prefer direct answers to their questions. In other words, they want policy recommendations. They have been known to ask for ‘one-handed scientists’, so that they don’t have to hear ‘on the other hand’. 
   
