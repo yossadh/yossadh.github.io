@@ -9,6 +9,9 @@ tags:
 ---
 
 **Science**  
+[Nature \| Three secrets of survival in science advice](https://www.nature.com/articles/d41586-019-00518-x)  
+>All LSTABs face a dilemma. Politicians generally prefer direct answers to their questions. In other words, they want policy recommendations. They have been known to ask for ‘one-handed scientists’, so that they don’t have to hear ‘on the other hand’. 
+  
 [NY Times \| Everywhere in the Animal Kingdom, Followers of the Milky Way](https://www.nytimes.com/2019/02/11/science/milk-animals-evolution.html)  
 [Chemistry World \| Molecular movie reveals how twisting methyl disturbs aspirin electrons](https://www.chemistryworld.com/news/molecular-movie-reveals-how-twisting-methyl-disturbs-aspirin-electrons/3010106.article)  
 [The Atlantic \| The Women Who Contributed to Science but Were Buried in Footnotes](https://www.theatlantic.com/science/archive/2019/02/womens-history-in-science-hidden-footnotes/582472/)  
