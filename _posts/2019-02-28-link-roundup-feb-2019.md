@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Chemistry World \| Molecular movie reveals how twisting methyl disturbs aspirin electrons](https://www.chemistryworld.com/news/molecular-movie-reveals-how-twisting-methyl-disturbs-aspirin-electrons/3010106.article)  
 [The Atlantic \| The Women Who Contributed to Science but Were Buried in Footnotes](https://www.theatlantic.com/science/archive/2019/02/womens-history-in-science-hidden-footnotes/582472/)  
 [Wired \| Monkeys With Superpower Eyes Could Help Cure Color Blindness](https://www.wired.com/story/monkeys-with-superpower-eyes-could-help-cure-color-blindness/)  
 [Aeon \| Becoming: From zygote to tadpole, in six stunning minutes (video)](https://youtu.be/7Q9VyHJ1l2Q)  
