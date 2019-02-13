@@ -211,7 +211,7 @@ defaults:
   # _link_roundup
   - scope:
       path: ""
-      type: posts
+      type: link_roundup
     values:
       layout: single
       author_profile: true
