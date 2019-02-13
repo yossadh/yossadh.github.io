@@ -171,6 +171,9 @@ kramdown:
 
 # Collections
 collections:
+  link_roundup:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: false
     permalink: /:collection/:path/
@@ -205,6 +208,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _link_roundup
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
   # _teaching
   - scope:
       path: ""
