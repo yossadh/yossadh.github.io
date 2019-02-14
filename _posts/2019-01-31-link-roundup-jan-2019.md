@@ -9,6 +9,8 @@ tags:
 ---
 
 **Science**  
+[Sci Am \| Why Do the Northern and Southern Lights Differ?](https://www.scientificamerican.com/article/why-do-the-northern-and-southern-lights-differ/)  
+[Professor's ‘grave misconduct’ in UMN lab leads to discipline](https://www.mndaily.com/article/2019/02/n-professors-grave-misconduct-in-umn-lab-leads-to-discipline)  
 [Nature \| Can quantum ideas explain chemistry’s greatest icon?](https://www.nature.com/articles/d41586-019-00286-8)  
 [Quizzes from Harvard's The Music Lab](https://beta.themusiclab.org/) If you have always suspected that you are tone deaf, have I got a quiz for you.  
 [Nature \| Extreme chemistry: experiments at the edge of the periodic table](https://www.nature.com/articles/d41586-019-00285-9)  
