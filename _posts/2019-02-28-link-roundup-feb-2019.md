@@ -9,6 +9,9 @@ tags:
 ---
 
 **Science**  
+[Nature \| Quantum 'spookiness' explained (video)](https://www.nature.com/articles/d41586-019-00312-9)  
+[Sci Am \| Why Do the Northern and Southern Lights Differ?](https://www.scientificamerican.com/article/why-do-the-northern-and-southern-lights-differ/)  
+[Professor's ‘grave misconduct’ in UMN lab leads to discipline](https://www.mndaily.com/article/2019/02/n-professors-grave-misconduct-in-umn-lab-leads-to-discipline)  
 [Nature \| What 50 principal investigators taught me about my failure to land tenure](https://www.nature.com/articles/d41586-019-00560-9)  
 [Nature \| Three secrets of survival in science advice](https://www.nature.com/articles/d41586-019-00518-x)  
 >All LSTABs face a dilemma. Politicians generally prefer direct answers to their questions. In other words, they want policy recommendations. They have been known to ask for ‘one-handed scientists’, so that they don’t have to hear ‘on the other hand’. 
