@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Phys.org \| Working proteins make good use of frustration](https://phys.org/news/2019-02-proteins-good-frustration.html)  
 [Nature \| Quantum 'spookiness' explained (video)](https://www.nature.com/articles/d41586-019-00312-9)  
 [Sci Am \| Why Do the Northern and Southern Lights Differ?](https://www.scientificamerican.com/article/why-do-the-northern-and-southern-lights-differ/)  
 [Professor's ‘grave misconduct’ in UMN lab leads to discipline](https://www.mndaily.com/article/2019/02/n-professors-grave-misconduct-in-umn-lab-leads-to-discipline)  
