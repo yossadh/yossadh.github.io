@@ -42,6 +42,7 @@ tags:
 [Nature \| Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9)   
 [Chem Comm \| Enantioenrichment of racemic BINOL by way of excited state proton transfer](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CC/C8CC07949H#!divAbstract)  
 **Others**  
+[Mc Sweeney's \| How to Finish Your Dissertation Before the Heat Death and Gradual Extinction of the Universe](https://www.mcsweeneys.net/articles/how-to-finish-your-dissertation-before-the-heat-death-and-gradual-extinction-of-the-universe)  
 [SMBC \| Robot Love](https://www.smbc-comics.com/comic/robot-love-2)  
 [xkcd \| Error Bars](https://xkcd.com/2110/)  
 [Indonesia and the West: From Debussy to Lou Harrison](https://theamericanscholar.org/indonesia-and-the-west/#.XFzducYRWV6)  
