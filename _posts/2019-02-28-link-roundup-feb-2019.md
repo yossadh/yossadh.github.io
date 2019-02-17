@@ -9,6 +9,8 @@ tags:
 ---
 
 **Science**  
+[Vox \| How one scientist coped when AI beat him at his life’s work](https://www.vox.com/future-perfect/2019/2/15/18226493/deepmind-alphafold-artificial-intelligence-protein-folding) AlphaFold    
+[NatGeo \| Life probably exists beyond Earth. So how do we find it?](https://www.nationalgeographic.com/magazine/2019/03/extraterrestrial-life-probably-exists-how-do-we-search-for-aliens/)  
 [Phys.org \| Working proteins make good use of frustration](https://phys.org/news/2019-02-proteins-good-frustration.html)  
 [Nature \| Quantum 'spookiness' explained (video)](https://www.nature.com/articles/d41586-019-00312-9)  
 [Sci Am \| Why Do the Northern and Southern Lights Differ?](https://www.scientificamerican.com/article/why-do-the-northern-and-southern-lights-differ/)  
@@ -39,6 +41,7 @@ tags:
 > “Twelve years until we all die” is catchier than “under some reasonable but debatable assumptions about economic growth, policy choices, and the physical climate sensitivity, the carbon budget to stay below the arbitrary threshold of a 1.5 degree C temperature increase relative to pre-industrial conditions appears to be exceeded by 2030”.
   
 **Paper**  
+[ChemRxiv \| Click, Zoom, Explore: Interactive 3D (i-3D) Figures in Standard Manuscript PDFs](https://chemrxiv.org/articles/Click_Zoom_Explore_Interactive_3D_i-3D_Figures_in_Standard_Manuscript_PDFs/7701695/1) [via [Chemistry World](https://www.chemistryworld.com/news/pdfs-dragged-into-digital-age-with-3d-interactive-chemical-structures/3010126.article)] Quite cool. But not everyone uses Adobe Acrobat reader...  
 [PLOS Comp Bio \| DeepDrug3D: Classification of ligand-binding pockets in proteins with a convolutional neural network](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006718)  
 [Nature \| Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9)   
 [Chem Comm \| Enantioenrichment of racemic BINOL by way of excited state proton transfer](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CC/C8CC07949H#!divAbstract)  
