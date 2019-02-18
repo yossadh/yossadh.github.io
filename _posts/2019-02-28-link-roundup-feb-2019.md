@@ -9,6 +9,10 @@ tags:
 ---
 
 **Science**  
+[Eat Meat. Not Too Much. Mostly Monogastrics.](https://thebreakthrough.org/issues/food/eat-meat-not-too-much)  
+>...a diet including chicken and pork, but no dairy or beef, has lower greenhouse gas emissions than a vegetarian diet that includes milk and cheese, and almost gets within spitting distance of a vegan diet.
+
+[The Scientist \| Tiny, Motorized Pill Delivers Vaccine to Mouse Intestine](https://www.the-scientist.com/news-opinion/tiny--motorized-pill-delivers-vaccine-to-mouse-intestine-65482)  
 [Vox \| How one scientist coped when AI beat him at his life’s work](https://www.vox.com/future-perfect/2019/2/15/18226493/deepmind-alphafold-artificial-intelligence-protein-folding) AlphaFold    
 [NatGeo \| Life probably exists beyond Earth. So how do we find it?](https://www.nationalgeographic.com/magazine/2019/03/extraterrestrial-life-probably-exists-how-do-we-search-for-aliens/)  
 [Phys.org \| Working proteins make good use of frustration](https://phys.org/news/2019-02-proteins-good-frustration.html)  
