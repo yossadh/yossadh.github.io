@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Nautius \| Why Misinformation Is About Who You Trust, Not What You Think](http://nautil.us/issue/69/patterns/why-misinformation-is-about-who-you-trust-not-what-you-think)  
 [NY Times \| Why Do South Asians Have Such High Rates of Heart Disease?](https://www.nytimes.com/2019/02/12/well/live/why-do-south-asians-have-such-high-rates-of-heart-disease.html)  
 >Studies show that at a normal body weight — generally considered a body mass index, or B.M.I., below 25 — people of any Asian ancestry, including those who are Chinese, Filipino and Japanese, have a greater likelihood of carrying this dangerous type of fat.
 
