@@ -9,6 +9,9 @@ tags:
 ---
 
 **Science**  
+[NY Times \| Why Do South Asians Have Such High Rates of Heart Disease?](https://www.nytimes.com/2019/02/12/well/live/why-do-south-asians-have-such-high-rates-of-heart-disease.html)  
+>Studies show that at a normal body weight — generally considered a body mass index, or B.M.I., below 25 — people of any Asian ancestry, including those who are Chinese, Filipino and Japanese, have a greater likelihood of carrying this dangerous type of fat.
+
 [Eat Meat. Not Too Much. Mostly Monogastrics.](https://thebreakthrough.org/issues/food/eat-meat-not-too-much)  
 >...a diet including chicken and pork, but no dairy or beef, has lower greenhouse gas emissions than a vegetarian diet that includes milk and cheese, and almost gets within spitting distance of a vegan diet.
 
