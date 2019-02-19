@@ -9,6 +9,8 @@ tags:
 ---
 
 **Science**  
+[Nautilus \| How the Biggest Fabricator in Science Got Caught](http://nautil.us/issue/24/Error/how-the-biggest-fabricator-in-science-got-caught)  
+On one hand, it is good to pre-screen data with a statistical tool, but on the other, is it that hard to generate data that appears to be experimentally derived? I can imagine, instead of coming up with the numbers oneself, one could sample from a random number generator with specified distribution. How would one detect this sort of fraud?  
 [Nautius \| Why Misinformation Is About Who You Trust, Not What You Think](http://nautil.us/issue/69/patterns/why-misinformation-is-about-who-you-trust-not-what-you-think)  
 [NY Times \| Why Do South Asians Have Such High Rates of Heart Disease?](https://www.nytimes.com/2019/02/12/well/live/why-do-south-asians-have-such-high-rates-of-heart-disease.html)  
 >Studies show that at a normal body weight — generally considered a body mass index, or B.M.I., below 25 — people of any Asian ancestry, including those who are Chinese, Filipino and Japanese, have a greater likelihood of carrying this dangerous type of fat.
