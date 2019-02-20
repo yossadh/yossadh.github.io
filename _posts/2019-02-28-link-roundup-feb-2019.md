@@ -51,6 +51,7 @@ On one hand, it is good to pre-screen data with a statistical tool, but on the o
 > “Twelve years until we all die” is catchier than “under some reasonable but debatable assumptions about economic growth, policy choices, and the physical climate sensitivity, the carbon budget to stay below the arbitrary threshold of a 1.5 degree C temperature increase relative to pre-industrial conditions appears to be exceeded by 2030”.
   
 **Paper**  
+[PNAS \| Mobile platform for rapid sub–picogram-per-milliliter, multiplexed, digital droplet detection of proteins](https://www.pnas.org/content/early/2019/02/13/1814110116)  
 [ChemRxiv \| Click, Zoom, Explore: Interactive 3D (i-3D) Figures in Standard Manuscript PDFs](https://chemrxiv.org/articles/Click_Zoom_Explore_Interactive_3D_i-3D_Figures_in_Standard_Manuscript_PDFs/7701695/1) [via [Chemistry World](https://www.chemistryworld.com/news/pdfs-dragged-into-digital-age-with-3d-interactive-chemical-structures/3010126.article)] Quite cool. But not everyone uses Adobe Acrobat reader...  
 [PLOS Comp Bio \| DeepDrug3D: Classification of ligand-binding pockets in proteins with a convolutional neural network](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006718)  
 [Nature \| Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9)   
