@@ -86,10 +86,10 @@ pm.load("start.gro", "traj")
 ```
 Note the quote marks, which means they are Python strings. So one can think of it as if `pm.load` just passes the two strings to the real `load` command. That's what 'interface' in API means.
 
-I am aware that I'm violating PEP8 by putting stuff before `import` statements. Well, I don't give a, you know. But this is not caprice:
-- This is a short script not a big software project
-- This an API call, the `import` statements and initial settings will not change, mostly
-- I often have to do remote ssh connection and it's not always smooth, so it's important that I can open the script and get to the the meat quickly
+I am aware that I'm violating PEP8 by putting stuff before `import` statements. Well, I don't give a, you know. But this is not mere caprice:
+- This is a short script not a big software project.
+- This an API call, the `import` statements and initial settings will not change, mostly, so I will not touch this part of the script again.
+- I often have to do remote ssh connection and it's not always smooth, so it's important that I can open the script and get to the main logic quickly.
 
 
 capture output
