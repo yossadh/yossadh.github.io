@@ -57,6 +57,7 @@ On one hand, it is good to pre-screen data with a statistical tool, but on the o
 [Nature \| Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9)   
 [Chem Comm \| Enantioenrichment of racemic BINOL by way of excited state proton transfer](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CC/C8CC07949H#!divAbstract)  
 **Others**  
+[Awesome Python](https://github.com/vinta/awesome-python) Python resources list  
 [The Proverbial Murder Mystery](https://slatestarcodex.com/2019/02/13/the-proverbial-murder-mystery/)  
 [Mc Sweeney's \| How to Finish Your Dissertation Before the Heat Death and Gradual Extinction of the Universe](https://www.mcsweeneys.net/articles/how-to-finish-your-dissertation-before-the-heat-death-and-gradual-extinction-of-the-universe)  
 [SMBC \| Robot Love](https://www.smbc-comics.com/comic/robot-love-2)  
