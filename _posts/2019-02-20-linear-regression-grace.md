@@ -42,6 +42,7 @@ for i in {1..10}; do echo $i $(expr $RANDOM % 100); done > data.dat
 ```
 Simply call Grace to plot it:
 ```bash
+# Grace with GUI
 xmgrace data.dat
 ```
 And you will see a meh-looking plot. But the power of Grace is in the script automation. Save this plot as `data.agr`. Here is `fit.par` which will do linear regression and plot the regression plot:
@@ -71,6 +72,7 @@ autoscale
 ```
 Apply `fit.par`:
 ```bash
+# Grace with command-line interface
 grace data.agr -param fit.par -saveall data.fit.agr -hardcopy -noprint > data.fit.log
 ```
 You will be glad when you have 15 plots to do linear regression on like I do. I guess you can do the clicking around on the GUI 15 times but what will you do if you have 100 plots?
