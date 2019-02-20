@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[The Atlantic \| Scientists Are Totally Rethinking Animal Cognition](https://www.theatlantic.com/magazine/archive/2019/03/what-the-crow-knows/580726/)  
 [Nautilus \| How the Biggest Fabricator in Science Got Caught](http://nautil.us/issue/24/Error/how-the-biggest-fabricator-in-science-got-caught)  
 On one hand, it is good to pre-screen data with a statistical tool, but on the other, is it that hard to generate data that appears to be experimentally derived? I can imagine, instead of coming up with the numbers oneself, one could sample from a random number generator with specified distribution. How would one detect this sort of fraud?  
 [Nautius \| Why Misinformation Is About Who You Trust, Not What You Think](http://nautil.us/issue/69/patterns/why-misinformation-is-about-who-you-trust-not-what-you-think)  
