@@ -41,8 +41,35 @@ Simply call Grace to plot it:
 ```bash
 xmgrace data.dat
 ```
-
-
+And you will see a meh-looking plot. But the power of Grace is in the script automation. Save this plot as `data.agr`. Here is `fit.par` which will do linear regression and plot the regression plot:
+```
+# cat fit.par
+with g0
+view ymin 0.45
+view ymax 0.85
+s0 symbol 3
+s0 symbol size 0.400000
+s0 line type 0
+# regression formula
+fit formula "y = a0 + a1*x"
+fit with 2 parameters
+fit prec 1e-5
+# run regression, 100 iterations
+nonlfit(s0,100)
+# duplicate data from original data (s0) to s1
+copy s0 to s1
+s1 symbol 0
+s1 line type 1
+s1 line color 7
+s1 type xy
+# overwrite y to make regression line
+s1.y = a0 + a1*x
+autoscale
+```
+Apply `fit.par`:
+```bash
+grace data.agr -param fit.par -saveall data.fit.agr -hardcopy -noprint > data.fit.log
+```
 A comment about Google Sheets: one would expect it will be similar to Excel, but I'm pleasantly surprised that it is easy to use and yields pretty graphs. I use this for simple charts that do not need heavy customisation/annotations, e.g. histogram.
 
 For me, these are the ones I have used:
