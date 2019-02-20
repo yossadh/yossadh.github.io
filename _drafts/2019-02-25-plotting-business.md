@@ -19,7 +19,28 @@ So, I found myself keep going back to Grace, an ancient(?) and arcane plotting s
 
 I can think of a few reasons why Grace sticks. First, you can get a plot very quickly from a plain-text file. In matplotlib, you have to import the data first into pandas dataframe and whatnot. Second, the plot file itself is a plain-text file containing the parameters and the data. Plain text means that it can be modified with the bash arsenal of text manipulation. Arguably, matplotlib is the same in this regard but it is a little different. The matplotlib `.py` script would be the _instructions_ to construct the graph, while the Grace `.agr` file have the parameters and their values there. For holoviews for example, I found myself looking up for the correct commands/instructions to set some parameters, while in Grace I can just go to to the parameter in question and change its value.
 
-Here I will demonsrate how I use Grace and some tips and tricks.
+Here I will demonsrate how I use Grace and some tips and tricks. Suppose you have `data.dat` that you want to plot:
+```bash
+# if you don't have some data handy, use this random number generator
+# generates 10 numbers less than 100
+for i in {1..10}; do echo $i $(expr $RANDOM % 100); done > data.dat
+
+# cat data.dat
+1 11
+2 3
+3 29
+4 87
+5 15
+6 38
+7 6
+8 55
+9 7
+10 32
+```
+Simply call Grace to plot it:
+```bash
+xmgrace data.dat
+```
 
 
 A comment about Google Sheets: one would expect it will be similar to Excel, but I'm pleasantly surprised that it is easy to use and yields pretty graphs. I use this for simple charts that do not need heavy customisation/annotations, e.g. histogram.
