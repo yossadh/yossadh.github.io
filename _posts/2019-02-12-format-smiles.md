@@ -60,3 +60,5 @@ paste -d ' ' file.smi <(seq -f "%08g" $(wc -l < file.smi) | sed 's/^/C/') | awk 
 ```
 
 Hopefully this still makes sense in the future \\("▔□▔)/ \*cross fingers\* 
+
+_Update_: I found a nice website ([explainshell.com](https://explainshell.com)) which can parse complicated one-liner shell commands like the above. Here is the [parsing](https://explainshell.com/explain?cmd=paste+-d+%27+%27+file.smi+%3C%28seq+-f+%22%2508g%22+%24%28wc+-l+%3C+file.smi%29+%7C+sed+%27s%2F%5E%2FC%2F%27%29+%7C+awk+%27%7Bprint+%241%2C+%24NF%7D%27) of the above.
