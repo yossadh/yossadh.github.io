@@ -9,6 +9,9 @@ tags:
 ---
 
 **Science**  
+[Edge \| Biological and Cultural Evolution](https://www.edge.org/conversation/freeman_dyson-biological-and-cultural-evolution) Essay by Freeman Dyson  
+>Our double task is now to preserve and foster both biological evolution as Nature designed it and cultural evolution as we invented it, trying to achieve the benefits of both, and exercising a wise restraint to limit the damage when they come into conflict. With biological evolution, we should continue playing the risky game that nature taught us to play. With cultural evolution, we should use our unique gifts of language and art and science to understand each other, and finally achieve a human society that is manageable if not always peaceful, with wildlife that is endlessly creative if not always permanent.
+  
 [Nature \| The ten commandments for learning how to code](https://www.nature.com/articles/d41586-019-00653-5)  
 [The Atlantic \| Scientists Are Totally Rethinking Animal Cognition](https://www.theatlantic.com/magazine/archive/2019/03/what-the-crow-knows/580726/)  
 [Nautilus \| How the Biggest Fabricator in Science Got Caught](http://nautil.us/issue/24/Error/how-the-biggest-fabricator-in-science-got-caught)  
