@@ -62,6 +62,7 @@ On one hand, it is good to pre-screen data with a statistical tool, but on the o
 [Nature \| Ultra-large library docking for discovering new chemotypes](https://www.nature.com/articles/s41586-019-0917-9)   
 [Chem Comm \| Enantioenrichment of racemic BINOL by way of excited state proton transfer](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CC/C8CC07949H#!divAbstract)  
 **Others**  
+[Nature \| Gifts of Prometheus](https://www.nature.com/articles/d41586-019-00618-8) A sci-fi short story  
 [How Chinese novelists are reimagining science fiction](https://www.newstatesman.com/chinese-science-fiction-dystopia-liu-cixin-triology)  
 [Awesome Python](https://github.com/vinta/awesome-python) Python resources list  
 [Beware Isolated Demands For Rigor](https://slatestarcodex.com/2014/08/14/beware-isolated-demands-for-rigor/)  
