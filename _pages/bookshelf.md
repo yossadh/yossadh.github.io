@@ -44,6 +44,8 @@ author_profile: true
 **The emperor of all maladies \| Siddhartha Mukherjee**  
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
+
+**One hundred years of solitude \| Gabriel García Márquez**  
 **First bite : how we learn to eat \| Bee Wilson**  
 **Gulp : adventures on the alimentary canal \| Mary Roach**  
 **John Crow's devil \| Marlon James**  
