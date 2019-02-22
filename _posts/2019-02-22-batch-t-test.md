@@ -8,7 +8,7 @@ tags:
   - python
   - coding
 ---
-Situation: I want to do t-test between two sets of experiment A and B. Each A and B were run in triplicates: 
+Situation: I want to do t-test between two sets of experiment A and B. Each A and B were run in triplicates, so we have: 
 ```
 data_A_1.dat
 data_A_2.dat
