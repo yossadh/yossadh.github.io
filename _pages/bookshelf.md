@@ -60,15 +60,17 @@ author_profile: true
 **Curiosity \| Alberto Manguel**  
 **I am a strange loop \| Douglas Hofstadter**  
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
- **The structure of scientific revolutions \| Thomas S. Kuhn**  
+**The structure of scientific revolutions \| Thomas S. Kuhn**  
 **Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
-**Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks**  
 **The firmament of time \| Loren Eiseley**  
 
 **White Teeth \| Zadie Smith**  
-**Seveneves \| Neal Stephenson**  
+**Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks**  
 
 ## 2019
+**Seveneves \| Neal Stephenson ⭑⭑⭑⭑**  
+Beginning is a bit slow but I enjoyed this book very much, especially Part 3. I can't say too much without giving spoilers but suffice to say, in the beginning of the book the moon broke into pieces. Don't you think it's a perfect bait premise? If you enjoy Kim Stanley Robinson, you will like this book.
+
 **On not speaking Chinese \| Ien Ang ⭑⭑⭑⭑⭑**      
 [[book notes](https://yossadh.github.io/posts/2019/02/on-not-speaking-chinese-notes/)]  
 Only by reading first few chapters, I can already recommend every Chinese Indonesian, or anyone who identifies as part of a diaspora, to read it. Ien Ang's own life is in many ways parallel to mine and she put many things that I identify with into words. As a sociologist, her words are eloquent and her narrative fits into the larger sociologist context. Yet, she viewed her own life narrative not with distance, contrary to that, with personal vulnerableness. That is Part 1. Part 2 is about Australia, so that is just a curiosity for me. In Part 3 she concludes.
