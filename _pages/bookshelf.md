@@ -44,7 +44,10 @@ author_profile: true
 **The emperor of all maladies \| Siddhartha Mukherjee**  
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
+**Complications \| Atul Gawande**  
+**This is what inequality looks like \| Teo You Yenn**
 
+**A third testament | Malcolm Muggeridge**  
 **One hundred years of solitude \| Gabriel García Márquez**  
 **First bite : how we learn to eat \| Bee Wilson**  
 **Gulp : adventures on the alimentary canal \| Mary Roach**  
