@@ -7,6 +7,8 @@ categories:
 tags:
   - links
 ---
+**Science**  
+[The professional advisers who can help you to move from academia to industry](https://www.nature.com/articles/d41586-019-00747-0)  
 **Papers**  
 [Nature \| Complete biosynthesis of cannabinoids and their unnatural analogues in yeast](https://www.nature.com/articles/s41586-019-0978-9)  
 [PLoS Comp Bio \| Script of scripts: A pragmatic workflow system for daily computational research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006843)  
