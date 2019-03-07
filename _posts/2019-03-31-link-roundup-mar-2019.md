@@ -8,7 +8,7 @@ tags:
   - links
 ---
 **Science**  
-[In the pipeline \| A New FDA Commissioner, Suddenly](https://blogs.sciencemag.org/pipeline/archives/2019/03/06/a-new-fda-commissioner-suddenly)  
+[In the Pipeline \| A New FDA Commissioner, Suddenly](https://blogs.sciencemag.org/pipeline/archives/2019/03/06/a-new-fda-commissioner-suddenly)  
 >... See, just get the government out of the way and everything starts to flourish! But as I’ve said many times, the FDA is not the real roadblock in this business. It’s biology. More specifically, it’s our lack of understanding of biology. Lowering standards will do nothing to help that at all.  
   
 [The professional advisers who can help you to move from academia to industry](https://www.nature.com/articles/d41586-019-00747-0)  
