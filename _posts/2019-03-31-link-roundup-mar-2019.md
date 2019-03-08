@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Merchants of Hype ](https://backreaction.blogspot.com/2019/03/merchants-of-hype.html)  
 [A Stanford psychologist on the art of avoiding assholes](https://www.vox.com/conversations/2017/9/26/16345476/stanford-psychologist-art-of-avoiding-assholes)  
 >I would make a distinction between temporary and certified assholes, because all of us under the wrong conditions can be temporary assholes. I'm talking about somebody who is consistently this way, who consistently treats other people this way. I think it’s more complicated than simply saying an asshole is someone who doesn’t care about other people. In fact, some of them really do care — they want to make you feel hurt and upset, they take pleasure in it. 
   
