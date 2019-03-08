@@ -16,7 +16,7 @@ This is basically first (and maybe last) time I ever used the `until` loop. It i
 ```bash
 until grep "All runs succeeded" $log; do
     sleep $time_delay
-    $RUN_PROGRAM $inp 
+    $RUN_PROGRAM_IN_RESTART_MODE $inp 
 done
 ```
 
@@ -26,7 +26,7 @@ Then the rest is just cosmetic. I add default `$time_delay` of 15 mins if none i
 # rerun.sh
 # usage: ./rerun.sh input_file log_file [time_delay, def. 15mins]
 
-RUN_PROGRAM=your_program
+RUN_PROGRAM_IN_RESTART_MODE=your_program
 inp=$1
 log=$2
 [ "$3" = "" ] && time_delay="15m" || time_delay=$3
@@ -35,7 +35,7 @@ counter=0
 until grep "All runs succeeded" $log; do
     [ $counter -gt 0 ] && sleep $time_delay
     echo "Retry #$counter | time delay is $time_delay"
-    $RUN_PROGRAM $inp 
+    $RUN_PROGRAM_IN_RESTART_MODE $inp 
     ((counter+=1))
 done
 
