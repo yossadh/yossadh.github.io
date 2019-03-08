@@ -24,7 +24,7 @@ Then the rest is just cosmetic. I add default `$time_delay` of 15 mins if none i
 
 ```bash
 # rerun.sh
-# usage: ./rerun.sh [input_file] [log_file] [time_delay (opt.), default is 15mins]
+# usage: ./rerun.sh input_file] log_file [time_delay, def. 15mins]
 
 RUN_PROGRAM=your_program
 inp=$1
