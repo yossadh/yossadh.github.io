@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Why Do We Need Sleep? Israeli Scientists Solve the Mystery ](https://www.haaretz.com/world-news/why-do-we-need-sleep-israeli-scientists-solve-the-mystery-1.6995426)  
 [In the Pipeline \| A New FDA Commissioner, Suddenly](https://blogs.sciencemag.org/pipeline/archives/2019/03/06/a-new-fda-commissioner-suddenly)  
 >... See, just get the government out of the way and everything starts to flourish! But as I’ve said many times, the FDA is not the real roadblock in this business. It’s biology. More specifically, it’s our lack of understanding of biology. Lowering standards will do nothing to help that at all.  
   
