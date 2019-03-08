@@ -23,6 +23,9 @@ done
 Then the rest is just cosmetic. I add default `$time_delay` of 15 mins if none is specified; I avoid time delay for the first loop iteration; I echo some (encouraging) messages to `stdout`; and finally add a pop-out `zenity` window once the whole shebang is done. 
 
 ```bash
+# rerun.sh
+# usage: ./rerun.sh [input_file] [log_file] [time_delay (opt.), default is 15mins]
+
 RUN_PROGRAM=your_program
 inp=$1
 log=$2
