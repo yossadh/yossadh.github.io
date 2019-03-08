@@ -17,6 +17,7 @@ tags:
   
 [The professional advisers who can help you to move from academia to industry](https://www.nature.com/articles/d41586-019-00747-0)  
 **Papers**  
+[Q Rev Biophys \| Frustration in Biomolecules](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256721/) 2014 paper, but I only read it recently. Besides providing a nice mental model of _frustration_ in thinking about protein physics, the text is written in decidedly unacademic prose.  
 [Nature \| Complete biosynthesis of cannabinoids and their unnatural analogues in yeast](https://www.nature.com/articles/s41586-019-0978-9)  
 [PLoS Comp Bio \| Script of scripts: A pragmatic workflow system for daily computational research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006843)  
 This is like Makefile, but more user-friendly, you can switch languages easily, and is hosted in Jupyter notebook. If you constantly switch between bash, Python, R, and others; this is good to keep your workflow in one file. I think I don't need it at the moment.   
