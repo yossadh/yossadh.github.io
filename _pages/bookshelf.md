@@ -69,9 +69,11 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 
 **White Teeth \| Zadie Smith**  
-**Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks**  
 
 ## 2019
+**Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks ⭑⭑⭑⭑**  
+Half autobiography, half chemistry textbook. As a chemist myself, I wished I learned chemistry with such wondrous beginning. I have memories of purchasing various salts and metals as a boy myself, although I didn't do much experimenting as Sacks did with his little lab.
+
 **Seveneves \| Neal Stephenson ⭑⭑⭑⭑**  
 Beginning is a bit slow but I enjoyed this book very much, especially Part 3. I can't say too much without giving spoilers but suffice to say, in the beginning of the book the moon broke into pieces. Don't you think it's a perfect bait premise? If you enjoy Kim Stanley Robinson, you will like this book.
 
