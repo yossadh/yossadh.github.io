@@ -46,7 +46,7 @@ done
 Indeed this was the first version of my script. And it works for the PDB file I was working with. But lo and behold it broke when I used it for a colleague's PDB file. The problem is some PDB files have alternative conformation and the residue names become `AMET`, `BMET` and the like, so the dictionary lookup broke. This is easily fixed by replacing `awk` column extraction with `cut` character extraction instead. (PDB format is an ancient format and it is strict with column character. This works in our favour)
 
 ```bash
-grep ^ATOM pdb_file | grep CA | cut -c 18-20'
+grep ^ATOM pdb_file | grep CA | cut -c 18-20
 ```
 
 This incident also got me revising my script to be more defensive. I also print out the three-letter to one-letter conversion with the residue numbers for the user to check. This way it is easy to see if there is any missing residue numbers or other anomalies. And I also add a few other cosmetic touches:
