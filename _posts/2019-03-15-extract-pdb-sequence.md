@@ -7,13 +7,13 @@ categories:
 tags:
   - bash
 ---
-There are times that you need the sequence of the _resolved_ amino acids in an X-ray crystal structure, not the full sequence of the construct. If you download the FASTA sequence or check the `SEQRES` record in the PDB file, you would find the full sequence.
+There are times that you need the sequence of only the _resolved_ amino acids in an X-ray crystal structure, not the full sequence of the construct. If you download the FASTA sequence or check the `SEQRES` record in the PDB file, you would only find the full sequence.
 
 Of course, extracting sequence is easy, one just need to extract all the C-alpha from the `ATOM` record, then look at 4th column right?
 ```bash
 grep ^ATOM pdb_file | grep CA | awk '{print $4}'
 ```
-Then you can use the three-letter name as a dictionary lookup (the bash name is associative array -- fancy!) to produce one-letter name, so voilà we have a FASTA sequence?
+Then you can use the three-letter name as a dictionary lookup (the bash name is associative array -- fancy!) to produce one-letter name, so voilà we have a FASTA sequence right?
 
 ```bash
 declare -A aa_dict=(
@@ -43,7 +43,7 @@ for resid in $(grep ^ATOM $1 | grep CA | awk '{print $4}'); do
 done 
 ```
 
-Indeed this was the first version of my script. And it works for the PDB file I was working with. But lo and behold it broke when I used it for a colleague's PDB file. The problem is some PDB files have alternative conformation and the residue names become `AMET`, `BMET` and the like, so the dictionary lookup broke. This is easily fixed by replacing `awk` column extraction with `cut` character extraction instead. (PDB format is an ancient format and it is strict with column character. This works in our favour)
+Indeed this was the first version of my script. And it works for the PDB file I was working with. But lo and behold it broke when I used it for a colleague's PDB file. The problem is some PDB files have alternative conformation and the residue names become `AMET`, `BMET` and the like, so the dictionary lookup broke. This is easily fixed by replacing `awk` column extraction with `cut` character extraction instead. (PDB format is an ancient format and it is strict with column character count. This works in our favour)
 
 ```bash
 grep ^ATOM pdb_file | grep CA | cut -c 18-20
