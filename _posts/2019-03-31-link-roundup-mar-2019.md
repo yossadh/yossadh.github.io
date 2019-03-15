@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Nature \| How I was almost mistaken for a chocolatier](https://www.nature.com/articles/d41586-019-00853-z)  
 [Nature \| Enzymes trapped and zapped for use outside cells](https://www.nature.com/articles/d41586-019-00761-2) (Paper in [Angewandte Chemie](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201814370))  
 [Merchants of Hype ](https://backreaction.blogspot.com/2019/03/merchants-of-hype.html)  
 [A Stanford psychologist on the art of avoiding assholes](https://www.vox.com/conversations/2017/9/26/16345476/stanford-psychologist-art-of-avoiding-assholes)  
