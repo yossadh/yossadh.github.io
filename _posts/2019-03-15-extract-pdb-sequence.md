@@ -49,7 +49,7 @@ Indeed this was the first version of my script. And it works for the PDB file I 
 grep ^ATOM pdb_file | grep CA | cut -c 18-20'
 ```
 
-This incident also got me revising my script to be more defensive. I also put the three-letter to one-letter conversion with the residue numbers for the user to check. This way it is easy to see if there is any missing residue numbers or other anomalies. And I also add a few other cosmetic touches:
+This incident also got me revising my script to be more defensive. I also print out the three-letter to one-letter conversion with the residue numbers for the user to check. This way it is easy to see if there is any missing residue numbers or other anomalies. And I also add a few other cosmetic touches:
 ```bash
 #extract_sequence_from_pdb_file.sh
 declare -A aa_dict=(
