@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Surgical stitch-up: meet the placebo surgeon](https://www.newstatesman.com/politics/health/2019/02/surgical-stitch-meet-placebo-surgeon)  
 [Quanta \| How Artificial Intelligence Is Changing Science](https://www.quantamagazine.org/how-artificial-intelligence-is-changing-science-20190311/)  
 [Nature \| How I was almost mistaken for a chocolatier](https://www.nature.com/articles/d41586-019-00853-z)  
 [Nature \| Enzymes trapped and zapped for use outside cells](https://www.nature.com/articles/d41586-019-00761-2) (Paper in [Angewandte Chemie](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201814370))  
