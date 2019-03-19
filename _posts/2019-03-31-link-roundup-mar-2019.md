@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[How UMAP Works](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html) UMAP is dimension reduction algorithm like PCA analysis. Paper is available in arXiv.  
 [Death of the calorie ](https://www.1843magazine.com/features/death-of-the-calorie)  
 [Surgical stitch-up: meet the placebo surgeon](https://www.newstatesman.com/politics/health/2019/02/surgical-stitch-meet-placebo-surgeon)  
 [Quanta \| How Artificial Intelligence Is Changing Science](https://www.quantamagazine.org/how-artificial-intelligence-is-changing-science-20190311/)  
