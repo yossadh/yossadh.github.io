@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Draw molecular network on Jupyter notebook with rdkit and cytoscape.js-2 #RDKit #cytoscape](https://iwatobipen.wordpress.com/2019/03/20/draw-molecular-network-on-jupyter-notebook-with-rdkit-and-cytoscape-js-2-rdkit-cytoscape/)  
 [How UMAP Works](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html) UMAP is dimension reduction algorithm like PCA analysis. Paper is available in arXiv.  
 [Death of the calorie ](https://www.1843magazine.com/features/death-of-the-calorie)  
 [Surgical stitch-up: meet the placebo surgeon](https://www.newstatesman.com/politics/health/2019/02/surgical-stitch-meet-placebo-surgeon)  
