@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Nature \| Protein-slaying drugs could be the next blockbuster therapies](https://www.nature.com/articles/d41586-019-00879-3)  
 [Aeon \| Why is simpler better?](https://aeon.co/essays/are-scientific-theories-really-better-when-they-are-simpler)  
 [Draw molecular network on Jupyter notebook with rdkit and cytoscape.js-2 #RDKit #cytoscape](https://iwatobipen.wordpress.com/2019/03/20/draw-molecular-network-on-jupyter-notebook-with-rdkit-and-cytoscape-js-2-rdkit-cytoscape/)  
 [How UMAP Works](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html) UMAP is dimension reduction algorithm like PCA analysis. Paper is available in arXiv.  
