@@ -8,6 +8,8 @@ tags:
   - links
 ---
 **Science**  
+[Nature \| ‘Particle’ robot swarm moves without computer control (video)](https://www.nature.com/articles/d41586-019-00954-9)  
+[Wired \| The Read/Write Metaphor Is a Flawed Way to Talk About DNA](https://www.wired.com/story/the-read-write-metaphor-is-a-flawed-way-to-talk-about-dna/)  
 [Nature \| Protein-slaying drugs could be the next blockbuster therapies](https://www.nature.com/articles/d41586-019-00879-3)  
 [Aeon \| Why is simpler better?](https://aeon.co/essays/are-scientific-theories-really-better-when-they-are-simpler)  
 [Draw molecular network on Jupyter notebook with rdkit and cytoscape.js-2 #RDKit #cytoscape](https://iwatobipen.wordpress.com/2019/03/20/draw-molecular-network-on-jupyter-notebook-with-rdkit-and-cytoscape-js-2-rdkit-cytoscape/)  
