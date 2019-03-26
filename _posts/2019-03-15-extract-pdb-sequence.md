@@ -76,6 +76,10 @@ declare -A aa_dict=(
 )
 
 for resid_chain_resnum in $(grep ^ATOM $1 | grep CA | cut -c 18-26 | sed 's/ /_/g'); do
+    if [[ "${aa_dict[${resid_chain_resnum:0:3}]}" == "" ]]; then
+        printf "%s>%s\n" "$resid_chain_resnum" "???"
+        continue
+    fi
     printf "%s>%s\n" "$resid_chain_resnum" "${aa_dict[${resid_chain_resnum:0:3}]}"
 done | sed 's/_/ /g' | pr --output-tabs=' 1' -5 -t
 echo
