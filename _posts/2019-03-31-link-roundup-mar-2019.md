@@ -36,6 +36,7 @@ tags:
 [PLoS Comp Bio \| Script of scripts: A pragmatic workflow system for daily computational research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006843)  
 This is like Makefile, but more user-friendly, you can switch languages easily, and is hosted in Jupyter notebook. If you constantly switch between bash, Python, R, and others; this is good to keep your workflow in one file. I think I don't need it at the moment.   
 **Others**  
+I find these Ruben Bolling's illustrations amusing: [1](https://thenib.com/richard-scarrys-21st-century-busy-town-jobs-7bc6ee6700b4) \| [2](https://www.dailykos.com/stories/2018/10/11/1803174/-Cartoon-More-Richard-Scarry-s-21st-century-Busy-Town-jobs?)  
 [GQ \| The Secrets of the World's Greatest Art Thief](https://www.gq.com/story/secrets-of-the-worlds-greatest-art-thief)  
 [What We Owe a Rabbit](https://www.nybooks.com/articles/2019/03/21/christine-korsgaard-what-we-owe-a-rabbit/)  
 [Regarding the Em Dash](https://themillions.com/2018/01/regarding-the-em-dash.html)  
