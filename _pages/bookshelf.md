@@ -46,7 +46,6 @@ author_profile: true
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
 **Complications \| Atul Gawande**  
-**This is what inequality looks like \| Teo You Yenn**
 
 **A third testament | Malcolm Muggeridge**  
 **One hundred years of solitude \| Gabriel García Márquez**  
@@ -58,7 +57,6 @@ author_profile: true
 **Under the Volcano \| Malcom Lowery**  
 **A house for Mr. Biswas \| V.S. Naipaul**  
 **The meaning of human existence \| Edward O. Wilson**  
-**Bad blood : secrets and lies in a Silicon Valley startup \| John Carreyrou**  
 **The dispossessed \| Ursula Le Guin**  
 **The better angels of our nature : why violence has declined \| Steven Pinker**  
 **Curiosity \| Alberto Manguel**  
@@ -69,6 +67,8 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 
 **White Teeth \| Zadie Smith**  
+**This is what inequality looks like \| Teo You Yenn**  
+**Bad blood : secrets and lies in a Silicon Valley startup \| John Carreyrou**  
 
 ## 2019
 **Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks ⭑⭑⭑⭑**  
