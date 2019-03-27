@@ -36,6 +36,11 @@ tags:
 [PLoS Comp Bio \| Script of scripts: A pragmatic workflow system for daily computational research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006843)  
 This is like Makefile, but more user-friendly, you can switch languages easily, and is hosted in Jupyter notebook. If you constantly switch between bash, Python, R, and others; this is good to keep your workflow in one file. I think I don't need it at the moment.   
 **Others**  
+[Choosing our religion](https://www.the-tls.co.uk/articles/public/choosing-our-religion-faith/)  
+>Creation is thus seen as a relationship of radical dependence. To cite an insight deriving from St Thomas Aquinas, God’s creation of the world should not be likened to a carpenter making a chest. A better analogy would be more intimate – a singer producing a song, for instance. The difference is profound. Carpenter and chest are discrete entities. Carpenters can pass on the articles they make, never seeing them again. But a song is by definition an emanation of a singer.
+    
+>A crucial difference between humans and other animals is equally plain. Genuinely fulfilled human lives involve further dimensions including dignity, which is connected with the exercise of choice; and virtue, implying the need to stretch or transcend ourselves. G. K. Chesterton wrote that it makes little sense to upbraid a lion for not being properly lion-like: lions are lions. The same is not true of human beings. People everywhere have a striking idea that they ought to behave in certain “humane” ways, but also an awareness that they do not in fact behave as they should. It is often noted that these two facts are the root of all clear thinking about ourselves and our world.
+  
 [Did You Know Pandas Can Do So Much?](https://medium.com/fintechexplained/did-you-know-pandas-can-do-so-much-f65dc7db3051)  
 I find these Ruben Bolling's illustrations amusing: [1](https://thenib.com/richard-scarrys-21st-century-busy-town-jobs-7bc6ee6700b4) \| [2](https://www.dailykos.com/stories/2018/10/11/1803174/-Cartoon-More-Richard-Scarry-s-21st-century-Busy-Town-jobs?)  
 [GQ \| The Secrets of the World's Greatest Art Thief](https://www.gq.com/story/secrets-of-the-worlds-greatest-art-thief)  
