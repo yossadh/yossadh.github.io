@@ -33,6 +33,7 @@ author_profile: true
 </head>
 
 ## Wishlist
+**Does Religion do More Harm than Good? \| Rupert Shortt**   
 **The Fifth Season \| N. K. Jemisin**  
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
 **Giants series \| James P Hogan**  
