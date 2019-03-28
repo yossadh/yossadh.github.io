@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Nature \| Why the sexes don’t feel pain the same way](https://www.nature.com/articles/d41586-019-00895-3)  
 [Quantum computing for the very curious](https://quantum.country/qcvc)  
 [All the Cannabinoids in Marijuana That Aren’t THC](http://blogs.discovermagazine.com/crux/2019/03/25/non-thc-cannabinoids-in-marijuana/#.XJrYzYURWV4)  
 [Nature \| ‘Particle’ robot swarm moves without computer control (video)](https://www.nature.com/articles/d41586-019-00954-9)  
