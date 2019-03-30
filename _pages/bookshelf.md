@@ -69,9 +69,11 @@ author_profile: true
 
 **White Teeth \| Zadie Smith**  
 **This is what inequality looks like \| Teo You Yenn**  
-**Bad blood : secrets and lies in a Silicon Valley startup \| John Carreyrou**  
 
 ## 2019
+**Bad blood : secrets and lies in a Silicon Valley startup \| John Carreyrou ⭑⭑⭑⭑**  
+Riveting. Reads like a novel though one already knows the ending. The chilling thing is that one knows this is not fiction.
+
 **Uncle Tungsten : memories of a chemical boyhood \| Oliver Sacks ⭑⭑⭑⭑**  
 Half autobiography, half chemistry textbook. As a chemist myself, I wished I learned chemistry with such wondrous beginning. I have memories of purchasing various salts and metals as a boy myself, although I didn't do much experimenting as Sacks did with his little lab.
 
