@@ -68,9 +68,11 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 
 **White Teeth \| Zadie Smith**  
-**This is what inequality looks like \| Teo You Yenn**  
 
 ## 2019
+**This is what inequality looks like \| Teo You Yenn ⭑⭑⭑⭑⭑**  
+This collection of essays highlight a side of Singapore often overlooked. I confess that for someone who has spent half of his (sheltered) life here, I have no idea about rental flats and other aspects that the lives of those with low income. This is indeed one of the central problems that the author highlights, that often these people are invisible, even though they are among us. Another point that struck me is when she details how the data was collected. As a natural scientist I am used to neat numbers, but to a sociologist, there are conversations, 'anecdotes', and other things that cannot be summarily packed into numbers. We have to be wary of just looking at numbers and not looking at the people behind those figures.
+
 **Bad blood : secrets and lies in a Silicon Valley startup \| John Carreyrou ⭑⭑⭑⭑**  
 Riveting. Reads like a novel though one already knows the ending. The chilling thing is that one knows this is not fiction.
 
