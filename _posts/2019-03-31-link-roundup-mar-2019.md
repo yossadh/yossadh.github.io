@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Science \| Mine your mind for the data to drive your career](https://www.sciencemag.org/careers/2019/03/mine-your-mind-data-drive-your-career)  
 [Nautilus \| A Magician Explains Why We See What’s Not There](http://nautil.us/issue/70/variables/a-magician-explains-why-we-see-whats-not-there)  
 [Nature \| Why the sexes don’t feel pain the same way](https://www.nature.com/articles/d41586-019-00895-3)  
 [Quantum computing for the very curious](https://quantum.country/qcvc)  
