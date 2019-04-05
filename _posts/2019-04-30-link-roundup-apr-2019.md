@@ -16,3 +16,6 @@ tags:
   
 **Paper**   
 [Nature \| Foundations for engineering biology](https://www.nature.com/articles/nature04342)  
+  
+**Other**  
+[The Atlantic \| They Had It Coming](https://www.theatlantic.com/ideas/archive/2019/04/what-college-admissions-scandal-reveals/586468/)  
