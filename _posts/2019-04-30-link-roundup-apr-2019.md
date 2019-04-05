@@ -8,6 +8,10 @@ tags:
   - links
 ---
 **Science**  
+[The Economist \| The engineering of living organisms could soon start changing everything](https://www.economist.com/technology-quarterly/2019/04/04/the-engineering-of-living-organisms-could-soon-start-changing-everything)  
 [Nature \| Genetic paradox explained by nonsense](https://www.nature.com/articles/d41586-019-00823-5)  
 [Sci Am \| Shocking Secrets of the Electric Eel](https://www.scientificamerican.com/article/shocking-secrets-of-the-electric-eel/)  
 [Nature \| Border-wall dollars would double US cancer-research budget](https://www.nature.com/articles/d41586-019-01056-2)  
+  
+**Paper**   
+[Nature \| Foundations for engineering biology](https://www.nature.com/articles/nature04342)  
