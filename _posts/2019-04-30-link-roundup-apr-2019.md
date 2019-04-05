@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Nature \| How white blood cells choose the quickest path through your body](https://www.nature.com/articles/d41586-019-01065-1)  
 [Pop Sci \| These charts will help you visualize just how unhealthy diets are around the world](https://www.popsci.com/diet-kills-more-people-worldwide-than-any-other-risk-factor)  
 [The Economist \| The engineering of living organisms could soon start changing everything](https://www.economist.com/technology-quarterly/2019/04/04/the-engineering-of-living-organisms-could-soon-start-changing-everything)  
 [Nature \| Genetic paradox explained by nonsense](https://www.nature.com/articles/d41586-019-00823-5)  
