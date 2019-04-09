@@ -24,7 +24,7 @@ For this scenario, let's say that this website lets you create projects. Upon lo
 - Contact info (text)
 - "Add Project" button
 
-First you need to spend time on the website inspecting the elements and finding out the CSS identifiers of these fields. Then, you just have to tell the webdriver (this is the remote-controlled browser) that upon finding each input field, do an appropriate action correspondingly, whether to fill with text `send_keys()` or select `select_by_value()` or click `click()`. Of course before that you would have loaded your input data, packaged it in a dictionary, ready to be called (if you have numbers to be inputted don't forget to convert them to strings). In this example I have 72 projects to be added, that's why you see my `for loop` is running from index 0 to 71.
+First you need to spend time on the website inspecting the elements and finding out the CSS identifiers of these fields. Then, you just have to tell the webdriver (this is the remote-controlled browser) that upon finding each input field, do an appropriate action correspondingly, whether to fill with text `send_keys()` or select `select_by_value()` or click `click()`. Of course before that you would have loaded your input data, packaged it in a dictionary, ready to be called (if you have numbers to be inputted don't forget to convert them to strings). 
 
 If I may say so myself, I think the code is very readable and almost reads like English. The logic is also quite straightforward since all we are doing is emulating a person logging in to a website and inputting projects one by one. Of course, to the computer, inputting 10 or 1000 don't make that much of a difference, while to a person it would be tedious and error-prone. I would definitely descend to an existential crisis by project 30 or thereabouts.   
 
@@ -52,8 +52,8 @@ driver.find_element_by_xpath("//input[@value='Login']").click()
 # go to dashboard
 driver.get('https://www.website.com/dashboard.php')
 
-# loop for all 72 projects
-for i in range(0,72):
+# loop for all projects
+for i in range(len(data_dict['no])):
     Select(driver.find_element_by_css_selector('select#project_group_id')).select_by_value('1')
     driver.find_element_by_css_selector('input#project_name.text').send_keys(data_dict['project_name'][i])
     driver.find_element_by_css_selector('textarea#description').send_keys(data_dict['description'][i])
