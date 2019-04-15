@@ -67,9 +67,11 @@ author_profile: true
 **Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
 **The firmament of time \| Loren Eiseley**  
 
+**Blindsight \| Peter Watts**  
+
 ## 2019 -- 13 books read
 **White Teeth \| Zadie Smith ⭑⭑⭑⭑**  
-I actually dropped this for a few months before picking it up again. It is heavy in its topic. It is mostly centred around immigrants ling in England in the 1980-1990s. The prose is humorous, scathingly satirical, and remarkably fluid. The social commentaries underneath are sharp and broad, ranging from to typical immigrant displacement to transgenic mice.
+I actually dropped this for a few months before picking it up again. It is heavy in its topic. It is mostly centred around immigrants living in England in the 1980-1990s. The prose is humorous, scathingly satirical, and remarkably fluid. The social commentaries underneath are sharp and broad, ranging from to typical immigrant displacement to transgenic mice.
 
 **This is what inequality looks like \| Teo You Yenn ⭑⭑⭑⭑⭑**  
 This collection of essays highlight a side of Singapore often overlooked. I confess that for someone who has spent half of his (sheltered) life here, I have no idea about rental flats and other aspects that the lives of those with low income. This is indeed one of the central problems that the author highlights, that often these people are invisible, even though they are among us. Another point that struck me is when she details how the data was collected. As a natural scientist I am used to neat numbers, but to a sociologist, there are conversations, 'anecdotes', and other things that cannot be summarily packed into numbers. We have to be wary of just looking at numbers and not looking at the people behind those figures.
