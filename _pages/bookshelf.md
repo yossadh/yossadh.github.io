@@ -67,7 +67,7 @@ author_profile: true
 **Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2019
+## 2019 -- 13 books read
 **White Teeth \| Zadie Smith ⭑⭑⭑⭑**  
 I actually dropped this for a few months before picking it up again. It is heavy in its topic. It is mostly centred around immigrants ling in England in the 1980-1990s. The prose is humorous, scathingly satirical, and remarkably fluid. The social commentaries underneath are sharp and broad, ranging from to typical immigrant displacement to transgenic mice.
 
