@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[PLoS Comp Bio \| Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914) Gandalf quote inside!  
 [Science \| Meet the scientist painter who turns deadly viruses into beautiful works of art](https://www.sciencemag.org/news/2019/04/meet-scientist-painter-who-turns-deadly-viruses-beautiful-works-art)  
 [A Non-Expert’s Guide to a Black Hole’s Silhouette](https://profmattstrassler.com/2019/04/09/a-non-experts-guide-to-a-black-holes-silhouette/)  
 [Duke University’s Homme Hellinga Scandal: The Untold Story of How Students Risked their Careers to Fight a Cover-Up](https://medium.com/@caffeinatedchemist/hellinga-66449cf4699e)  
