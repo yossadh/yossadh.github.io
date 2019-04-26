@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[The New Natural Histories of Mushrooms](https://sydneyreviewofbooks.com/the-new-natural-histories-of-mushrooms/)  
 [In the Pipeline \| Who Cares About Making Ammonia? You Do.](https://blogs.sciencemag.org/pipeline/archives/2019/04/25/who-cares-about-making-ammonia-you-do)  
 [1843 \| DeepMind and Google: the battle to control artificial intelligence ](https://www.1843magazine.com/features/deepmind-and-google-the-battle-to-control-artificial-intelligence)   
 [Science \| Elemental Haiku](https://vis.sciencemag.org/chemhaiku/)    
