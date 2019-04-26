@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[In the Pipeline \| Who Cares About Making Ammonia? You Do.](https://blogs.sciencemag.org/pipeline/archives/2019/04/25/who-cares-about-making-ammonia-you-do)  
 [1843 \| DeepMind and Google: the battle to control artificial intelligence ](https://www.1843magazine.com/features/deepmind-and-google-the-battle-to-control-artificial-intelligence)   
 [Science \| Elemental Haiku](https://vis.sciencemag.org/chemhaiku/)    
 [PLoS Comp Bio \| Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914) Gandalf quote inside!  
