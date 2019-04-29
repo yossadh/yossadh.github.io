@@ -67,9 +67,10 @@ author_profile: true
 **Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
 **The firmament of time \| Loren Eiseley**  
 
-**Blindsight \| Peter Watts**  
+## 2019 -- 14 books read
+**Blindsight \| Peter Watts ⭑⭑⭑**  
+Quite confusing, which I suspect is what the author intended. The reader is plunged into the middle of action without much context and we only gradually comprehend stuff. The subject matter -- the nature of consciousness, philosophical zombies -- are very interesting to me and cleverly displayed. That said, I think only certain kind of people will enjoy this book.
 
-## 2019 -- 13 books read
 **White Teeth \| Zadie Smith ⭑⭑⭑⭑**  
 I actually dropped this for a few months before picking it up again. It is heavy in its topic. It is mostly centred around immigrants living in England in the 1980-1990s. The prose is humorous, scathingly satirical, and remarkably fluid. The social commentaries underneath are sharp and broad, ranging from to typical immigrant displacement to transgenic mice.
 
