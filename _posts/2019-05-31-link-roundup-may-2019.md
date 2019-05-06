@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Vox \| Why you shouldn't exercise to lose weight, explained with 60+ studies](https://getpocket.com/explore/item/why-you-shouldn-t-exercise-to-lose-weight-explained-with-60-studies)  
 [Nautilus \| How the Western Diet Has Derailed Our Evolution](https://getpocket.com/explore/item/how-the-western-diet-has-derailed-our-evolution)   
 [Science \| Want to become a better mentor? Ask for anonymous feedback](https://www.sciencemag.org/careers/2019/04/want-become-better-mentor-ask-anonymous-feedback)  
 [Nature \| How small changes to a paper can help to smooth the review process](https://www.nature.com/articles/d41586-019-01431-z)  
