@@ -9,6 +9,8 @@ tags:
 ---
 
 **Science**  
+[CBD: a marijuana miracle or just another health fad? ](https://www.theguardian.com/society/2019/may/05/cbd-a-marijuana-miracle-or-another-health-fad-cannabidiol-anxiety-epilepsy)  
+[CNN \| The most effective ways to curb climate change might surprise you](https://edition.cnn.com/interactive/2019/04/specials/climate-change-solutions-quiz/)  
 [Vox \| Why you shouldn't exercise to lose weight, explained with 60+ studies](https://getpocket.com/explore/item/why-you-shouldn-t-exercise-to-lose-weight-explained-with-60-studies)  
 [Nautilus \| How the Western Diet Has Derailed Our Evolution](https://getpocket.com/explore/item/how-the-western-diet-has-derailed-our-evolution)   
 [Science \| Want to become a better mentor? Ask for anonymous feedback](https://www.sciencemag.org/careers/2019/04/want-become-better-mentor-ask-anonymous-feedback)  
