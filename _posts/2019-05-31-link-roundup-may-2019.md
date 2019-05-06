@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Nautilus \| How the Western Diet Has Derailed Our Evolution](https://getpocket.com/explore/item/how-the-western-diet-has-derailed-our-evolution)   
 [Science \| Want to become a better mentor? Ask for anonymous feedback](https://www.sciencemag.org/careers/2019/04/want-become-better-mentor-ask-anonymous-feedback)  
 [Nature \| How small changes to a paper can help to smooth the review process](https://www.nature.com/articles/d41586-019-01431-z)  
 [10 Things No One Told Me About Applying for Tenure](https://www.chronicle.com/article/10-Things-No-One-Told-Me-About/246187)  
