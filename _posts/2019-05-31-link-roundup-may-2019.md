@@ -24,5 +24,8 @@ tags:
 [Nat Geo \| See the world’s oldest trees by starlight](https://www.nationalgeographic.com/science/2019/04/diamond-nights_beth-moon/)  
 [In the Pipeline \| Muting Mutations](https://blogs.sciencemag.org/pipeline/archives/2019/04/30/muting-mutations)  
   
+**Papers**  
+[Ann Intern Med \| Association Among Dietary Supplement Use, Nutrient Intake, and Mortality Among U.S. Adults: A Cohort Study](https://annals.org/aim/article-abstract/2730525/association-among-dietary-supplement-use-nutrient-intake-mortality-among-u)  
+  
 **Others**  
 [Want to Fall Asleep Faster? Military Pilots Use This Hack to Sleep Anywhere in 2 Minutes or Less](https://www.inc.com/melanie-curtin/want-to-fall-asleep-faster-combat-pilots-use-this-hack-to-get-to-sleep-in-2-minutes-or-less.html)  
