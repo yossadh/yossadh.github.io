@@ -9,6 +9,8 @@ tags:
 ---
 
 **Science**  
+[Let your cat submit your grant application](https://twitter.com/JSchleiderPhD/status/1123949012028203008)  
+[CONIECT researcher wins big on TV show, will use cash to fund cancer project](http://batimes.com.ar/news/argentina/researcher-wins-big-on-millionaire-plans-to-use-funds-for-underfunded-cancer-project.phtml)  
 [The Scientist \| Genetically Modified Viral Cocktail Treats Deadly Bacteria in Teen](https://www.the-scientist.com/news/genetically-modified-viral-cocktail-treats-deadly-bacteria-in-teen-65849)  
 [Nautilus \| Nurture Alone Can’t Explain Male Aggression](http://nautil.us/blog/nurture-alone-cant-explain-male-aggression)  
 [New approach for solving protein structures from tiny crystals](https://phys.org/news/2019-05-approach-protein-tiny-crystals.html)  
