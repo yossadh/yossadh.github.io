@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[5-HTTLPR: A POINTED REVIEW](https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/)  
 [Science \| Meet the blue crew, scientists trying to give food, flowers, and more a color rarely found in nature](https://www.sciencemag.org/news/2019/05/meet-blue-crew-scientists-trying-give-food-flowers-and-more-color-rarely-found-nature)  
 [Let your cat submit your grant application](https://twitter.com/JSchleiderPhD/status/1123949012028203008)  
 [CONIECT researcher wins big on TV show, will use cash to fund cancer project](http://batimes.com.ar/news/argentina/researcher-wins-big-on-millionaire-plans-to-use-funds-for-underfunded-cancer-project.phtml)  
