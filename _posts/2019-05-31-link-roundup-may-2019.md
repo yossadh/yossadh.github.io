@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[There Is Such a Thing as Too Much Coffee, Scientists Say](https://www.vice.com/en_us/article/evypdn/there-is-such-a-thing-as-too-much-coffee-scientists-say) tl;dr Drinking no or too much coffee is associated with higher incidence of CVD/CAD/stroke so drink 1-2 cups/day.  
 [5-HTTLPR: A POINTED REVIEW](https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/)  
 [Science \| Meet the blue crew, scientists trying to give food, flowers, and more a color rarely found in nature](https://www.sciencemag.org/news/2019/05/meet-blue-crew-scientists-trying-give-food-flowers-and-more-color-rarely-found-nature)  
 [Let your cat submit your grant application](https://twitter.com/JSchleiderPhD/status/1123949012028203008)  
