@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Nautilus \| Yes, Determinists, There Is Free Will](http://nautil.us/issue/72/quandary/yes-determinists-there-is-free-will)  
 [Nature \| Total synthesis of Escherichia coli with a recoded genome](https://www.nature.com/articles/s41586-019-1192-5)  
 [Nature \| Indonesia tops open-access publishing charts](https://www.nature.com/articles/d41586-019-01536-5)  
 [There Is Such a Thing as Too Much Coffee, Scientists Say](https://www.vice.com/en_us/article/evypdn/there-is-such-a-thing-as-too-much-coffee-scientists-say) tl;dr Drinking no or too much coffee is associated with higher incidence of CVD/CAD/stroke so drink 1-2 cups/day.  
