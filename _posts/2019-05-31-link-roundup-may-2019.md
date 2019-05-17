@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[8 Simple Tips to Live Longer and Healthier](https://getpocket.com/explore/item/8-simple-tips-to-live-longer-and-healthier)  
 [Sci Am \| Can You Prevent Pregnancy with the Pullout Method?](https://www.scientificamerican.com/article/can-you-prevent-pregnancy-with-the-pullout-method/)  
 [Nautilus \| Yes, Determinists, There Is Free Will](http://nautil.us/issue/72/quandary/yes-determinists-there-is-free-will)  
 [Nature \| Indonesia tops open-access publishing charts](https://www.nature.com/articles/d41586-019-01536-5)  
