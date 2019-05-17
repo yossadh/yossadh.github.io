@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Sci Am \| Can You Prevent Pregnancy with the Pullout Method?](https://www.scientificamerican.com/article/can-you-prevent-pregnancy-with-the-pullout-method/)  
 [Nautilus \| Yes, Determinists, There Is Free Will](http://nautil.us/issue/72/quandary/yes-determinists-there-is-free-will)  
 [Nature \| Total synthesis of Escherichia coli with a recoded genome](https://www.nature.com/articles/s41586-019-1192-5)  
 [Nature \| Indonesia tops open-access publishing charts](https://www.nature.com/articles/d41586-019-01536-5)  
@@ -33,6 +34,7 @@ tags:
 [In the Pipeline \| Muting Mutations](https://blogs.sciencemag.org/pipeline/archives/2019/04/30/muting-mutations)  
   
 **Papers**  
+[PLoS Comp Bio \| Securing the future of research computing in the biosciences](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006958)  
 [Ann Intern Med \| Association Among Dietary Supplement Use, Nutrient Intake, and Mortality Among U.S. Adults: A Cohort Study](https://annals.org/aim/article-abstract/2730525/association-among-dietary-supplement-use-nutrient-intake-mortality-among-u)  
   
 **Others**  
