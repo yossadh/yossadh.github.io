@@ -46,7 +46,6 @@ author_profile: true
 **The emperor of all maladies \| Siddhartha Mukherjee**  
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
-**Complications \| Atul Gawande**  
 
 **A third testament | Malcolm Muggeridge**  
 **One hundred years of solitude \| Gabriel García Márquez**  
@@ -67,7 +66,13 @@ author_profile: true
 **Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2019 -- 14 books read
+## 2019 -- 16 books read
+**The Goddess Chronicles \| Natsuo Kirino ⭑⭑⭑**  
+A retelling of the mythology of Izanami. Dark and chilling, but not what you want if you are looking for something like _Out_ and _Grotesque_.
+
+**Complications \| Atul Gawande ⭑⭑⭑⭑**  
+Suprisingly readable. Surgeons are humans, too -- this is obvious but Gawande offers this perspective very candidly. 
+
 **Blindsight \| Peter Watts ⭑⭑⭑**  
 Quite confusing, which I suspect is what the author intended. The reader is plunged into the middle of action without much context and we only gradually comprehend stuff. The subject matter -- the nature of consciousness, philosophical zombies -- are very interesting to me and cleverly displayed. That said, I think only certain kind of people will enjoy this book.
 
