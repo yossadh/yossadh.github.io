@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[The New Yorker \| Can We Live Longer but Stay Younger?](https://www.newyorker.com/magazine/2019/05/20/can-we-live-longer-but-stay-younger)  
 [8 Simple Tips to Live Longer and Healthier](https://getpocket.com/explore/item/8-simple-tips-to-live-longer-and-healthier)  
 [Sci Am \| Can You Prevent Pregnancy with the Pullout Method?](https://www.scientificamerican.com/article/can-you-prevent-pregnancy-with-the-pullout-method/)  
 [Nautilus \| Yes, Determinists, There Is Free Will](http://nautil.us/issue/72/quandary/yes-determinists-there-is-free-will)  
