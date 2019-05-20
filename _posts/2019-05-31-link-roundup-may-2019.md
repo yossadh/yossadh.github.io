@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[The Atlantic \| The Myth of 'Learning Styles'](https://getpocket.com/explore/item/the-myth-of-learning-styles)  
 [The New Yorker \| Can We Live Longer but Stay Younger?](https://www.newyorker.com/magazine/2019/05/20/can-we-live-longer-but-stay-younger)  
 [8 Simple Tips to Live Longer and Healthier](https://getpocket.com/explore/item/8-simple-tips-to-live-longer-and-healthier)  
 [Sci Am \| Can You Prevent Pregnancy with the Pullout Method?](https://www.scientificamerican.com/article/can-you-prevent-pregnancy-with-the-pullout-method/)  
