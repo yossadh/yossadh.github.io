@@ -9,6 +9,7 @@ tags:
 ---
 
 **Science**  
+[Nature \| A DIY approach to automating your lab](https://www.nature.com/articles/d41586-019-01590-z)  
 [The Atlantic \| The Myth of 'Learning Styles'](https://getpocket.com/explore/item/the-myth-of-learning-styles)  
 [The New Yorker \| Can We Live Longer but Stay Younger?](https://www.newyorker.com/magazine/2019/05/20/can-we-live-longer-but-stay-younger)  
 [8 Simple Tips to Live Longer and Healthier](https://getpocket.com/explore/item/8-simple-tips-to-live-longer-and-healthier)  
