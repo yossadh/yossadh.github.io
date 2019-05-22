@@ -42,6 +42,7 @@ tags:
 [Ann Intern Med \| Association Among Dietary Supplement Use, Nutrient Intake, and Mortality Among U.S. Adults: A Cohort Study](https://annals.org/aim/article-abstract/2730525/association-among-dietary-supplement-use-nutrient-intake-mortality-among-u)  
   
 **Others**  
+[SMBC \| Thin Ice](https://www.smbc-comics.com/comic/thin-ice)  
 [HBR \| The Hard Truth About Innovative Cultures](https://hbr.org/2019/01/the-hard-truth-about-innovative-cultures)  
 [The Politics of Humor](https://www.commonwealmagazine.org/whose-laughter-which-comedy)  
 [Darwinian existentialism: The history — and evolution — of the meaning of life](https://www.alternet.org/2019/04/darwinian-existentialism-the-history-and-evolution-of-the-meaning-of-life/)  
