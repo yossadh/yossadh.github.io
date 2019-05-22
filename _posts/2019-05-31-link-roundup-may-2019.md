@@ -37,6 +37,7 @@ tags:
 [In the Pipeline \| Muting Mutations](https://blogs.sciencemag.org/pipeline/archives/2019/04/30/muting-mutations)  
   
 **Papers**  
+[R Soc Open Sci \| Communicating uncertainty about facts, numbers and science](https://royalsocietypublishing.org/doi/10.1098/rsos.181870)  
 [PLoS Comp Bio \| Securing the future of research computing in the biosciences](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006958)  
 [Nature \| Total synthesis of Escherichia coli with a recoded genome](https://www.nature.com/articles/s41586-019-1192-5)  
 [Ann Intern Med \| Association Among Dietary Supplement Use, Nutrient Intake, and Mortality Among U.S. Adults: A Cohort Study](https://annals.org/aim/article-abstract/2730525/association-among-dietary-supplement-use-nutrient-intake-mortality-among-u)  
