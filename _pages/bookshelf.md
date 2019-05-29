@@ -43,7 +43,6 @@ author_profile: true
 **Lament for a Son \| Nicholas Wolterstorff**  
 
 ## Reading queue
-**The emperor of all maladies \| Siddhartha Mukherjee**  
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
 
@@ -65,6 +64,9 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
 **The firmament of time \| Loren Eiseley**  
+**Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil**  
+
+**The emperor of all maladies \| Siddhartha Mukherjee**  
 
 ## 2019 -- 16 books read
 **The Goddess Chronicles \| Natsuo Kirino ⭑⭑⭑**  
