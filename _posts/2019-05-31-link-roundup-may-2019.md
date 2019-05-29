@@ -38,6 +38,7 @@ tags:
 [In the Pipeline \| Muting Mutations](https://blogs.sciencemag.org/pipeline/archives/2019/04/30/muting-mutations)  
   
 **Papers**  
+[Nature \| Design and evolution of an enzyme with a non-canonical organocatalytic mechanism](https://www.nature.com/articles/s41586-019-1262-8)  
 [R Soc Open Sci \| Communicating uncertainty about facts, numbers and science](https://royalsocietypublishing.org/doi/10.1098/rsos.181870)  
 [PLoS Comp Bio \| Securing the future of research computing in the biosciences](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006958)  
 [Nature \| Total synthesis of Escherichia coli with a recoded genome](https://www.nature.com/articles/s41586-019-1192-5)  
