@@ -46,6 +46,7 @@ tags:
 [Ann Intern Med \| Association Among Dietary Supplement Use, Nutrient Intake, and Mortality Among U.S. Adults: A Cohort Study](https://annals.org/aim/article-abstract/2730525/association-among-dietary-supplement-use-nutrient-intake-mortality-among-u)  
   
 **Others**  
+[Wired \| The Glorious, Almost-Disconnected Boredom of My Walk in Japan](https://www.wired.com/story/six-weeks-100s-miles-hours-glorious-boredom-japan/)  
 [How to Grow Up: A Guide to Humans](https://getpocket.com/explore/item/how-to-grow-up-a-guide-to-humans)  
 [SMBC \| Thin Ice](https://www.smbc-comics.com/comic/thin-ice)  
 [HBR \| The Hard Truth About Innovative Cultures](https://hbr.org/2019/01/the-hard-truth-about-innovative-cultures)  
