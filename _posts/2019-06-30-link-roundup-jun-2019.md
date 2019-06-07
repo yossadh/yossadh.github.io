@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[Biotech Cockaigne of the Vegan Hopeful](https://hedgehogreview.com/issues/animals-and-us/articles/biotech-cockaigne-of-the-vegan-hopeful)  
 [Quanta \| Neuroscience Readies for a Showdown Over Consciousness Ideas](https://www.quantamagazine.org/neuroscience-readies-for-a-showdown-over-consciousness-ideas-20190306/)  
 [Physics Today \| The mysterious crystal that melts at two different temperatures](https://physicstoday.scitation.org/do/10.1063/PT.6.1.20190606a/full/)  
 [TLS \| Weighty matters](https://www.the-tls.co.uk/articles/public/weighty-matters-fat-obesity/)  
