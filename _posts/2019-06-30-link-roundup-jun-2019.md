@@ -20,6 +20,7 @@ tags:
 [Nature \| Reproducibility trial publishes two conclusions﻿ for one paper](https://www.nature.com/articles/d41586-019-01751-0)
   
 **Others**  
+[How to Pick a Career (That Actually Fits You)](https://getpocket.com/explore/item/how-to-pick-a-career-that-actually-fits-you)  
 [Book Review: The Secret Of Our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)  
 [The Pu-erh Brokers of Yunnan Province](https://getpocket.com/explore/item/the-pu-erh-brokers-of-yunnan-province)  
 [Aeon \| A Revolution in Time](https://aeon.co/essays/when-time-became-regular-and-universal-it-changed-history)  
