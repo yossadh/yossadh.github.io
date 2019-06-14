@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[Pop Sci \| The 10 worst insect stings in the wild](https://www.popsci.com/10-worst-stings-in-wild/)  
 [The Scientist \| Could Tolerating Disease Be Better than Fighting It?](https://www.the-scientist.com/features/could-tolerating-disease-be-better-than-fighting-it--65864)  
 [In the Pipeline \| A New Way For the Machines To Handle Reagents](https://blogs.sciencemag.org/pipeline/archives/2019/06/07/a-new-way-for-the-machines-to-handle-reagents)  
 >For those in the crowd who aren’t synthetic chemists, it cannot be emphasized enough that there is no way that you could have known about either of these choices beforehand – and that if you change the reaction to another bromo-heterocyclic system, the optimal base and solvent are likely to switch again to something else entirely. It’s as bad as cell culture or X-ray crystal growing, two other areas that are famously infested with evil spirits and voodoo rituals. You run into these systems that are just intrinsically very sensitive to initial conditions, with variables that are sometimes too small or obscure for you to even realize that they’re variables.  
