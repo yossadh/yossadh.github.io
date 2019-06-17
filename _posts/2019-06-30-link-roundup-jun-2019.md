@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[23 ‘facts’ you learned about healthy eating and nutrition as a kid that are no longer true](https://www.businessinsider.sg/nutrition-myths-facts-outdated-diet-advice-debunked-2019-6/)  
 [Pop Sci \| The 10 worst insect stings in the wild](https://www.popsci.com/10-worst-stings-in-wild/)  
 [The Scientist \| Could Tolerating Disease Be Better than Fighting It?](https://www.the-scientist.com/features/could-tolerating-disease-be-better-than-fighting-it--65864)  
 [In the Pipeline \| A New Way For the Machines To Handle Reagents](https://blogs.sciencemag.org/pipeline/archives/2019/06/07/a-new-way-for-the-machines-to-handle-reagents)  
