@@ -27,6 +27,7 @@ tags:
 [PLoS Comp Bio \| Open collaborative writing with Manubot](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007128)  
   
 **Others**  
+[The New Yorker \| Liu Cixin’s War of the Worlds](https://www.newyorker.com/magazine/2019/06/24/liu-cixins-war-of-the-worlds)  
 [How to Pick a Career (That Actually Fits You)](https://getpocket.com/explore/item/how-to-pick-a-career-that-actually-fits-you)  
 [Book Review: The Secret Of Our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)  
 [The Pu-erh Brokers of Yunnan Province](https://getpocket.com/explore/item/the-pu-erh-brokers-of-yunnan-province)  
