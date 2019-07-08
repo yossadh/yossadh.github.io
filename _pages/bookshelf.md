@@ -66,9 +66,12 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 **Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil**  
 
-**The emperor of all maladies \| Siddhartha Mukherjee**  
-
-## 2019 -- 16 books read
+**Seventeen \| Hideo Yokoyama**
+  
+## 2019 -- 17 books read
+**The emperor of all maladies \| Siddhartha Mukherjee ⭑⭑⭑⭑**  
+Overall a superb read. I do find some parts a bit overdramatised. Also some quibble about the presumed scientific literacy of the readers -- sometimes it goes a bit too basic for biochemistry (do you need to explain central dogma in great details?) but goes highly technical when it comes to medicine. Maybe this just reflects the different trainings of the author and myself? 
+  
 **The Goddess Chronicles \| Natsuo Kirino ⭑⭑⭑**  
 A retelling of the mythology of Izanami. Dark and chilling, but not what you want if you are looking for something like _Out_ and _Grotesque_.
 
