@@ -62,13 +62,16 @@ author_profile: true
 **I am a strange loop \| Douglas Hofstadter**  
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
-**Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
 **The firmament of time \| Loren Eiseley**  
 **Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil**  
 
-**Seventeen \| Hideo Yokoyama**
+**Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
+
   
-## 2019 -- 17 books read
+## 2019 -- 18 books read
+**Seventeen \| Hideo Yokoyama ⭑⭑⭑⭑**  
+Simple plot -- a journalist covering a tragic plane crash. But the exploration of the depths of human emotions is extensive. We also get a glimpse of inner workings of a Japanese regional newspaper and its politicking, which decidedly influence people's lives, almost as if on a whim.  
+
 **The emperor of all maladies \| Siddhartha Mukherjee ⭑⭑⭑⭑**  
 Overall a superb read. I do find some parts a bit overdramatised. Also some quibble about the presumed scientific literacy of the readers -- sometimes it goes a bit too basic for biochemistry (do you need to explain central dogma in great details?) but goes highly technical when it comes to medicine. Maybe this just reflects the different trainings of the author and myself? 
   
