@@ -14,4 +14,5 @@ tags:
 [NYT \| Scientists Are Giving Dead Brains New Life. What Could Go Wrong?](https://www.nytimes.com/2019/07/02/magazine/dead-pig-brains-reanimation.html)  
   
 **Others**  
+[The rise and fall of French cuisine ](https://www.theguardian.com/food/2019/jul/16/the-rise-and-fall-of-french-cuisine)  
 [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)  
