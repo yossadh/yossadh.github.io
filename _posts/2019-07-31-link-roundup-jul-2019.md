@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[Nature \| The computational protein designers](https://www.nature.com/articles/d41586-019-02251-x)  
 [Sci Am \| To Fix the Reproducibility Crisis, Rethink How We Do Experiments](https://blogs.scientificamerican.com/observations/to-fix-the-reproducibility-crisis-rethink-how-we-do-experiments/)  
 [The Atlantic \| What the Measles Epidemic Really Says About America](https://www.theatlantic.com/magazine/archive/2019/08/measles-as-metaphor/592756/)  
 [Science \| Courting controversy, scientists team with industry to tackle one of the world’s most destructive crops](https://www.sciencemag.org/news/2019/07/courting-controversy-scientists-team-industry-tackle-one-world-s-most-destructive-crops?rss=1)  
