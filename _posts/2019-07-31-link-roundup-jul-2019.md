@@ -17,6 +17,7 @@ tags:
 [NYT \| Scientists Are Giving Dead Brains New Life. What Could Go Wrong?](https://www.nytimes.com/2019/07/02/magazine/dead-pig-brains-reanimation.html)  
   
 **Others**  
+[Wired \| The Meaning of All Caps—in Texting and in Life](https://www.wired.com/story/all-caps-because-internet-gretchen-mcculloch/)  
 [SMBC \| Heroism](https://www.smbc-comics.com/comic/heroism)  
 [The rise and fall of French cuisine ](https://www.theguardian.com/food/2019/jul/16/the-rise-and-fall-of-french-cuisine)  
 [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)  
