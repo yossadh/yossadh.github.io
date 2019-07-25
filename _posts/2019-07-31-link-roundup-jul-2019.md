@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[Phys.org \| Designed protein switch allows unprecedented control over living cells](https://phys.org/news/2019-07-protein-unprecedented-cells.html)  
 [In the Pipeline \| Quality Control in the Nucleolus](https://blogs.sciencemag.org/pipeline/archives/2019/07/24/quality-control-in-the-nucleolus)  
 [Slate Star Codex \| Caution On Bias Arguments](https://slatestarcodex.com/2019/07/17/caution-on-bias-arguments/)  
 [Nature \| The computational protein designers](https://www.nature.com/articles/d41586-019-02251-x)  
