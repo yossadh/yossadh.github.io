@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[Edge.org \| Childhood's End](https://www.edge.org/conversation/george_dyson-childhoods-end)  
 [Nautilus \| How I Rewired My Brain to Become Fluent in Math](http://wise.nautil.us/feature/387/how-i-rewired-my-brain-to-become-fluent-in-math)  
 [Phys.org \| Designed protein switch allows unprecedented control over living cells](https://phys.org/news/2019-07-protein-unprecedented-cells.html)  
 [In the Pipeline \| Quality Control in the Nucleolus](https://blogs.sciencemag.org/pipeline/archives/2019/07/24/quality-control-in-the-nucleolus)  
