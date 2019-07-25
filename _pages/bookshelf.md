@@ -41,12 +41,18 @@ author_profile: true
 **Madam Bovary \| Gustave Flaubert**  
 **The Long Walk: The True Story Of A Trek To Freedom \| Slavomir Rawicz**  
 **Lament for a Son \| Nicholas Wolterstorff**  
+**Lent \| Jo Walton**  
 
 ## Reading queue
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
 
-**A third testament | Malcolm Muggeridge**  
+**Borderliners \| Peter Hoeg**
+**If this is a man ; and, The truce \| Primo Levi**   
+**Cancer ward \| Alexander Solzhenitsyn**  
+**Illness as a metaphor \| Susan Sontag**  
+**Childhood's end \| Arthur C. Clarke**  
+**A third testament \| Malcolm Muggeridge**  
 **One hundred years of solitude \| Gabriel García Márquez**  
 **First bite : how we learn to eat \| Bee Wilson**  
 **Gulp : adventures on the alimentary canal \| Mary Roach**  
