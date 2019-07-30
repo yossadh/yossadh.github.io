@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[Wired \| How Scientists Built a ‘Living Drug’ to Beat Cancer](https://www.wired.com/story/how-scientists-built-living-drug-to-beat-cancer/)  
 [iai \| Why Do We Resist Knowledge? An Interview with Åsa Wikforss ](https://iai.tv/articles/asa-wikforss-why-do-we-resist-knowledge-auid-1245)  
 [Edge.org \| Childhood's End](https://www.edge.org/conversation/george_dyson-childhoods-end)  
 [Nautilus \| How I Rewired My Brain to Become Fluent in Math](http://wise.nautil.us/feature/387/how-i-rewired-my-brain-to-become-fluent-in-math)  
