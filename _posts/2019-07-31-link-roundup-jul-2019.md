@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[Nature \| Three pitfalls to avoid in machine learning](https://www.nature.com/articles/d41586-019-02307-y)  
 [Wired \| How Scientists Built a ‘Living Drug’ to Beat Cancer](https://www.wired.com/story/how-scientists-built-living-drug-to-beat-cancer/)  
 [iai \| Why Do We Resist Knowledge? An Interview with Åsa Wikforss ](https://iai.tv/articles/asa-wikforss-why-do-we-resist-knowledge-auid-1245)  
 [Edge.org \| Childhood's End](https://www.edge.org/conversation/george_dyson-childhoods-end)  
