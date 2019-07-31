@@ -72,7 +72,7 @@ author_profile: true
 **Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil**  
 
 **Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
-
+**Strangers Drowning: Voyages to the Brink of Moral Extremity \| Larissa MacFarquhar**  
   
 ## 2019 -- 18 books read
 **Seventeen \| Hideo Yokoyama ⭑⭑⭑⭑**  
