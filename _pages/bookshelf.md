@@ -47,8 +47,7 @@ author_profile: true
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
 
-**Borderliners \| Peter Hoeg**  
-**If this is a man ; and, The truce \| Primo Levi**   
+**Borderliners \| Peter Hoeg**   
 **Cancer ward \| Alexander Solzhenitsyn**  
 **Illness as a metaphor \| Susan Sontag**  
 **Childhood's end \| Arthur C. Clarke**  
