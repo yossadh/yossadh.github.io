@@ -71,7 +71,7 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 **Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil**  
 
-**If this is a man; The Truce \| Primo Levi**  
+**If this is a man; The truce \| Primo Levi**  
   
 ## 2019 -- 20 books read
 **Strangers Drowning: Voyages to the Brink of Moral Extremity \| Larissa MacFarquhar ⭑⭑⭑**  
