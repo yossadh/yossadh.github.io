@@ -71,10 +71,15 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 **Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil**  
 
-**Cantik itu luka / Beauty is a wound \| Eka Kurniawan**  
-**Strangers Drowning: Voyages to the Brink of Moral Extremity \| Larissa MacFarquhar**  
+**If this is a man; The Truce \| Primo Levi**  
   
-## 2019 -- 18 books read
+## 2019 -- 20 books read
+**Strangers Drowning: Voyages to the Brink of Moral Extremity \| Larissa MacFarquhar ⭑⭑⭑**  
+Strange book to read but the subject is important and must be contemplated by any person. What is altruism, and how far should it be done?
+
+**Cantik itu luka / Beauty is a wound \| Eka Kurniawan ⭑⭑⭑⭑**  
+Dark, tragic, and mystical. Reads like a Natsuo Kirino book. As I read it in its native language, I find myself often wondering how would certain parts be translated. Considering that the book does not portray Japanese soldiers during the occupation kindly, I also wonder what the Japanese translation would read like.
+
 **Seventeen \| Hideo Yokoyama ⭑⭑⭑⭑**  
 Simple plot -- a journalist covering a tragic plane crash. But the exploration of the depths of human emotions is extensive. We also get a glimpse of inner workings of a Japanese regional newspaper and its politicking, which decidedly influence people's lives, almost as if on a whim.  
 
