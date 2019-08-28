@@ -17,3 +17,6 @@ tags:
   
 **Paper**  
 [Parametrization of a specific free energy function for automated docking against RNA targets using neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0169743905001280)  
+  
+**Others**  
+[‘Circle of Life’, but it’s played as a circle of fifths](https://www.classicfm.com/discover-music/music-theory/circle-of-life-dominic-ferris/)  
