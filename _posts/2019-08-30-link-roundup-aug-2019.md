@@ -8,6 +8,7 @@ tags:
   - links
 ---
 **Science**  
+[Flamboyant animals: seven of nature’s most colourful show offs](https://www.sciencefocus.com/nature/flamboyant-animals-seven-of-natures-most-colourful-show-offs/)  
 [Nature \| Biochemistry in a conflict zone](https://www.nature.com/articles/d41586-019-02565-w)  
 [Quanta \| Foundations Built for a General Theory of Neural Networks](https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131/)  
 [Nature \| Chemists make first-ever ring of pure carbon](https://www.nature.com/articles/d41586-019-02473-z)   
