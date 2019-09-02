@@ -1,4 +1,3 @@
-
 ---
 title:  "Link roundup: Sep 2019"
 date: 2019-09-31
@@ -8,5 +7,6 @@ categories:
 tags:
   - links
 ---
-
-[The air conditioning trap: how cold air is heating the world ](https://www.theguardian.com/environment/2019/aug/29/the-air-conditioning-trap-how-cold-air-is-heating-the-world)
+  
+**Science**    
+[The air conditioning trap: how cold air is heating the world ](https://www.theguardian.com/environment/2019/aug/29/the-air-conditioning-trap-how-cold-air-is-heating-the-world)  
