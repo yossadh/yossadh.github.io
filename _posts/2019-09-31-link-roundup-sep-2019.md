@@ -15,4 +15,5 @@ tags:
 [The air conditioning trap: how cold air is heating the world ](https://www.theguardian.com/environment/2019/aug/29/the-air-conditioning-trap-how-cold-air-is-heating-the-world)  
   
 **Others**  
+[The Strange Persistence of First Languages](http://nautil.us/issue/76/language/the-strange-persistence-of-first-languages-rp)  
 [Reality: A Shopper’s Guide](https://hedgehogreview.com/issues/reality-and-its-alternatives/articles/reality-a-shoppers-guide)  
