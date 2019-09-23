@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**    
+[Fruits and Vegetables Are Trying to Kill You](https://getpocket.com/explore/item/fruits-and-vegetables-are-trying-to-kill-you)    
 [PLoS Comp Bio \| Perspective: Dimensions of the scientific method](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007279)  
 [Sci Am \| How to Get Better at Embracing Unknowns](https://www.scientificamerican.com/article/how-to-get-better-at-embracing-unknowns/)  
 [Wired \| A Molecule Designed By AI Exhibits 'Druglike' Qualities](https://www.wired.com/story/molecule-designed-ai-exhibits-druglike-qualities/)  
