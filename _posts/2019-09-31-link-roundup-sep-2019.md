@@ -15,7 +15,8 @@ tags:
 [Wired \| A Molecule Designed By AI Exhibits 'Druglike' Qualities](https://www.wired.com/story/molecule-designed-ai-exhibits-druglike-qualities/)  
 [The air conditioning trap: how cold air is heating the world ](https://www.theguardian.com/environment/2019/aug/29/the-air-conditioning-trap-how-cold-air-is-heating-the-world)  
   
-**Papers**
+**Papers**  
+[Nature \| Cryo-EM, XFELs and the structure conundrum in structural biology](https://www.nature.com/articles/s41592-019-0587-4)  
 [Nature \| Low-barrier hydrogen bonds in enzyme cooperativity](https://www.nature.com/articles/s41586-019-1581-9)  
   
 **Others**  
