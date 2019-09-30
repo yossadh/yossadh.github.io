@@ -20,5 +20,6 @@ tags:
 [Nature \| Low-barrier hydrogen bonds in enzyme cooperativity](https://www.nature.com/articles/s41586-019-1581-9)  
   
 **Others**  
+[Aeon \| English Is Not Normal](https://getpocket.com/explore/item/english-is-not-normal)   
 [The Strange Persistence of First Languages](http://nautil.us/issue/76/language/the-strange-persistence-of-first-languages-rp)  
 [Reality: A Shopper’s Guide](https://hedgehogreview.com/issues/reality-and-its-alternatives/articles/reality-a-shoppers-guide)  
