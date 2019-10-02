@@ -1,6 +1,6 @@
 ---
 title:  "Link roundup: Sep 2019"
-date: 2019-09-31
+date: 2019-09-30
 permalink: /posts/2019/09/link-roundup-sep-2019/
 categories: 
   - roundup
