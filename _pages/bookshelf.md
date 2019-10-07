@@ -53,7 +53,6 @@ author_profile: true
 **Childhood's end \| Arthur C. Clarke**  
 **A third testament \| Malcolm Muggeridge**  
 **One hundred years of solitude \| Gabriel García Márquez**  
-**First bite : how we learn to eat \| Bee Wilson**  
 **Gulp : adventures on the alimentary canal \| Mary Roach**  
 **John Crow's devil \| Marlon James**  
 **Harvard Square : a novel \| André Aciman**  
@@ -70,12 +69,14 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 **Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil**  
 
+**First bite : how we learn to eat \| Bee Wilson**  
+  
 ## 2019 -- 22 books read
 **Kiku's prayer \| Shusaku Endo ⭑⭑⭑⭑**  
 Set after the period of seclusion of Japan, where Christianity was still banned, it has echoes of *Silence*. Unlike the latter which is from the perspective of the padres, here the perspective is more of the secretly Christian peasants', which arguably makes it more heart-wrenching.
 
 **If this is a man; The truce \| Primo Levi ⭑⭑⭑⭑**  
-A must-read if only to remind us what wretchedness can humanity descend to, and what heights of persistence it can climb.
+A must-read if only to remind us what wretchedness can humanity descend to, and what heights of persistence can it climb.
   
 **Strangers Drowning: Voyages to the Brink of Moral Extremity \| Larissa MacFarquhar ⭑⭑⭑**  
 Strange book to read but the subject is important and must be contemplated by any person. What is altruism, and how far should it be done?
