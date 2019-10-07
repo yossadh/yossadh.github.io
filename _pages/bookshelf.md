@@ -71,7 +71,7 @@ author_profile: true
 
 **First bite : how we learn to eat \| Bee Wilson**  
   
-## 2019 -- 22 books read
+## 2019 -- 23 books read
 **Kiku's prayer \| Shusaku Endo ⭑⭑⭑⭑**  
 Set after the period of seclusion of Japan, where Christianity was still banned, it has echoes of *Silence*. Unlike the latter which is from the perspective of the padres, here the perspective is more of the secretly Christian peasants', which arguably makes it more heart-wrenching.
 
