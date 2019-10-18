@@ -12,6 +12,7 @@ tags:
 [Sci Am \| Latitude Adjustment: Distance from the Equator Shapes Our Thinking](https://www.scientificamerican.com/article/latitude-adjustment-distance-from-the-equator-shapes-our-thinking/)  
   
 **Paper**  
+[PLoS Comp Bio \| Detecting distant-homology protein structures by aligning deep neural-network based contact maps](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007411)  
 [Angew Chem \| Autonomous discovery in the chemical sciences part I: Progress](https://onlinelibrary.wiley.com/doi/10.1002/anie.201909987)  
 [Angew Chem \| Autonomous discovery in the chemical sciences part II: Outlook](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201909989) 
   
