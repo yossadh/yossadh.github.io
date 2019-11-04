@@ -50,12 +50,10 @@ author_profile: true
 **Borderliners \| Peter Hoeg**   
 **Cancer ward \| Alexander Solzhenitsyn**  
 **Illness as a metaphor \| Susan Sontag**  
-**Childhood's end \| Arthur C. Clarke**  
 **A third testament \| Malcolm Muggeridge**  
 **One hundred years of solitude \| Gabriel García Márquez**  
 **Gulp : adventures on the alimentary canal \| Mary Roach**  
 **John Crow's devil \| Marlon James**  
-**Harvard Square : a novel \| André Aciman**  
 **Don Quixote \| Miguel de Cervantes**  
 **Under the Volcano \| Malcom Lowery**  
 **A house for Mr. Biswas \| V.S. Naipaul**  
@@ -67,14 +65,19 @@ author_profile: true
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
-**Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil**  
-
-**First bite : how we learn to eat \| Bee Wilson**  
+**Childhood's end \| Arthur C. Clarke**  
+**Harvard Square : a novel \| André Aciman**  
   
-## 2019 -- 23 books read
+## 2019 -- 25 books read
+**Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil ⭑⭑⭑**  
+Timely warning. As algorithms encroach many aspects of our life, we have to carefully think about unintended consequences and such.
+
+**First bite : how we learn to eat \| Bee Wilson ⭑⭑⭑**  
+I like to keep up with nutrition science. The book talks a little bit about that, and more about food-related dysfunctions and how they are not lost causes.
+
 **Kiku's prayer \| Shusaku Endo ⭑⭑⭑⭑**  
 Set after the period of seclusion of Japan, where Christianity was still banned, it has echoes of *Silence*. Unlike the latter which is from the perspective of the padres, here the perspective is more of the secretly Christian peasants', which arguably makes it more heart-wrenching.
-
+  
 **If this is a man; The truce \| Primo Levi ⭑⭑⭑⭑**  
 A must-read if only to remind us what wretchedness can humanity descend to, and what heights of persistence can it climb.
   
