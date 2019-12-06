@@ -65,10 +65,16 @@ author_profile: true
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
-**Childhood's end \| Arthur C. Clarke**  
-**Harvard Square : a novel \| André Aciman**  
+**The Periodic Table \| Primo Levi**  
+ 
   
-## 2019 -- 25 books read
+## 2019 -- 27 books read
+**Childhood's end \| Arthur C. Clarke ⭑⭑⭑⭑**  
+Although written quite sometime ago, it reads like a recent modern sci-fi. It is a "first contact" story but it takes a strange turn. This is the first Arthur C. Clarke I read, and certainly it leaves me wanting more.  
+  
+**Harvard Square : a novel \| André Aciman ⭑⭑⭑**  
+Compared to his more popular works, this feels lacklustre. Is it the subject matter -- it's not about romance but friendship -- or is it the writing itself is less lyrical than, say, *Enigma Variations*.  
+  
 **Weapons of math destruction : how big data increases inequality and threatens democracy \| Cathy O'Neil ⭑⭑⭑**  
 Timely warning. As algorithms encroach many aspects of our life, we have to carefully think about unintended consequences and such.
 
