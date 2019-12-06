@@ -70,7 +70,7 @@ author_profile: true
   
 ## 2019 -- 27 books read
 **Childhood's end \| Arthur C. Clarke ⭑⭑⭑⭑**  
-Although written quite sometime ago, it reads like a recent modern sci-fi. It is a "first contact" story but it takes a strange turn. This is the first Arthur C. Clarke I read, and certainly it leaves me wanting more.  
+Although written quite sometime ago, it reads like a recent modern sci-fi. It is a "first contact" story but it takes a strange turn. This is the first Arthur C. Clarke book I read, and certainly it leaves me wanting to read more of his works.  
   
 **Harvard Square : a novel \| André Aciman ⭑⭑⭑**  
 Compared to his more popular works, this feels lacklustre. Is it the subject matter -- it's not about romance but friendship -- or is it the writing itself is less lyrical than, say, *Enigma Variations*.  
