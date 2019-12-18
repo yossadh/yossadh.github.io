@@ -65,10 +65,14 @@ author_profile: true
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
+  
 **The Periodic Table \| Primo Levi**  
  
   
-## 2019 -- 27 books read
+## 2019 -- 28 books read  
+**This Momentary Marriage \| John Piper ⭑⭑⭑⭑**  
+  
+  
 **Childhood's end \| Arthur C. Clarke ⭑⭑⭑⭑**  
 Although written quite sometime ago, it reads like a recent modern sci-fi. It is a "first contact" story but it takes a strange turn. This is the first Arthur C. Clarke book I read, and certainly it leaves me wanting to read more of his works.  
   
