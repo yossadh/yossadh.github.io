@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[Sci Am \| Why Your Brain Needs Exercise](https://www.scientificamerican.com/article/why-your-brain-needs-exercise/)  
 [Science \| Experi-mentoring: Where to turn when your PI can’t help](https://www.sciencemag.org/careers/2019/11/experi-mentoring-where-turn-when-your-pi-can-t-help)  
 [You Are What You (Don’t) Eat](https://hedgehogreview.com/issues/eating-and-being/articles/you-are-what-you-dont-eat)  
 [Nautilus \| Why Sex Is Mostly Binary but Gender Is a Spectrum](http://cshl.nautil.us/article/482/why-sex-is-mostly-binary-but-gender-is-a-spectrum)  
