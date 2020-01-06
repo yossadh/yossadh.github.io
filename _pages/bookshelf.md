@@ -74,11 +74,11 @@ author_profile: true
 ## [2019 -- 29 books read](https://yossadh.github.io/posts/2020/01/2019-books/)
 
 ## Books and authors I like
-Childhood's end \| Arthur C. Clarke
-If this is a man; The truce \| Primo Levi
-This is what inequality looks like \| Teo You Yenn
-Gödel, Escher, Bach: an Eternal Golden Braid \| Douglas R. Hofstadter
-On not speaking Chinese \| Ien Ang
+Childhood's end \| Arthur C. Clarke  
+If this is a man; The truce \| Primo Levi  
+This is what inequality looks like \| Teo You Yenn  
+Gödel, Escher, Bach: an Eternal Golden Braid \| Douglas R. Hofstadter  
+On not speaking Chinese \| Ien Ang  
 When breath becomes air \| Paul Kalanithi  
 Thinking, Fast and Slow \| Daniel Kahneman  
 I contain multitudes \| Ed Yong  
