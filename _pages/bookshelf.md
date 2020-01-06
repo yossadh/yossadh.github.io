@@ -71,6 +71,7 @@ author_profile: true
   
 ## 2020 -- 0 books read
 
+## [2019 -- 29 books read](https://yossadh.github.io/posts/2020/01/2019-books/)
 
 ## Books and authors I like
 Childhood's end \| Arthur C. Clarke
