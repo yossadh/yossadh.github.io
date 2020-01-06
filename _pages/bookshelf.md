@@ -92,8 +92,8 @@ The Glass Bead Game \| Herman Hesse
 Zen and the art of motorcycle maintenance \| Robert M. Pirsig   
 Sophie's world \| Jostein Gaarder  
 
-Neal Stephenson: Seveneves
-Shusaku Endo: Silence, Kiku's prayer
+Neal Stephenson: Seveneves  
+Shusaku Endo: Silence, Kiku's prayer  
 Liu Cixin: The Three Body Problem  
 Kim Stanley Robinson: Mars trilogy  
 Haruki Murakami: 1Q84  
