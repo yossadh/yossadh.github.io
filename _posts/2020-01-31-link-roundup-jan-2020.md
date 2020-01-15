@@ -10,3 +10,6 @@ tags:
   
 **Science**  
 [Nature Index \| Three ways to collaborate on writing](https://www.natureindex.com/news-blog/three-ways-to-collaborate-on-writing)  
+  
+**Others**  
+[Divine Medicine](https://inference-review.com/article/divine-medicine)  
