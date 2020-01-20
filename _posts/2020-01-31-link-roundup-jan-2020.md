@@ -9,6 +9,7 @@ tags:
 ---
   
 **Science**  
+[Has Science Journalism Helped Unmask a “Replication Crisis” in Biomedicine?](https://lareviewofbooks.org/article/has-science-journalism-helped-unmask-a-replication-crisis-in-biomedicine/)  
 [Nature Index \| Three ways to collaborate on writing](https://www.natureindex.com/news-blog/three-ways-to-collaborate-on-writing)  
 [Nature \| Thirteen tips for engaging with physicists, as told by a biologist](https://www.nature.com/articles/d41586-019-03960-z)  
 [Nature \| Twelve tips for engaging with biologists, as told by a physicist](https://www.nature.com/articles/d41586-019-03961-y)  
