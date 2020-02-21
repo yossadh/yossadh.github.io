@@ -34,7 +34,6 @@ author_profile: true
 
 ## Wishlist
 **Does Religion do More Harm than Good? \| Rupert Shortt**   
-**The Fifth Season \| N. K. Jemisin**  
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
 **Giants series \| James P Hogan**  
 **Story of your life \| Ted Chiang**  
@@ -66,10 +65,14 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
   
-**The Periodic Table \| Primo Levi**  
-**The meaning of marriage \| Timothy Keller**   
+**The Fifth Season \| N. K. Jemisin**   
   
-## 2020 -- 0 books read
+## 2020 -- 2 books read
+**The Periodic Table \| Primo Levi ⭑⭑⭑⭑**  
+Interestingly structured memoir of Primo Levi, appearing as essays under the headings of the elements. Levi is a rare scientist-writer hybrid and his description of chemistry is beautifully poetic. 
+  
+**The meaning of marriage \| Timothy Keller ⭑⭑⭑⭑⭑**  
+A must read for a Christian, married or not yet. The content is probably not eye-opening for those who are already married, but it would still be good reminder. It is an eye-opener for me.
 
 ## [2019 -- 29 books read](https://yossadh.github.io/posts/2020/01/2019-books/)
 
