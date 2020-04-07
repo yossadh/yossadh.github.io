@@ -70,7 +70,7 @@ author_profile: true
 **Story of your life and others \| Ted Chiang ⭑⭑⭑⭑**  
 I got ahold of this book coincidentally right after I watched _Arrival_. The titular short story is of course good and thought-provoking. Other stories in the collection are also gripping though. Ted Chiang definitely has a unique voice among sci-fi writers -- there is some sort of... mysticism, sometimes? Which makes the narrative multi-facetedly richer. 
   
-**The Fifth Season \| N. K. Jemisin ⭑⭑⭑⭑** 
+**The Fifth Season \| N. K. Jemisin ⭑⭑⭑⭑**   
 It is sci-fi and it is supernatural at the same time. "Earthbenders in climate-apocalyptic world" would be not so far off. Not a cheerful read for sure, especially when the erratic climate in the book could be one of the scenarios we are heading to. Looking forward to read the rest of the trilogy.
   
 **The Periodic Table \| Primo Levi ⭑⭑⭑⭑**  
