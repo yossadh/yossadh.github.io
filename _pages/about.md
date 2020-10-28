@@ -16,4 +16,4 @@ I received my PhD jointly from [Karolinska Institutet, Sweden](https://ki.se) an
 
 I constantly find myself at the interface of things, straddling between two worlds: chemistry and biology; Singapore and Sweden; experimental and computational. I strive to be a bridge, especially between experimental and computational practicioners — and it is easy to see the parallel to my interest in science communication, which is bridging the scientist and the layman.
 
-For more details, you may want to take a look at my [CV (pdf)](https://yossadh.github.io/files/cv_public.pdf) – _updated Jun 2019_.
+For more details, you may want to take a look at my [CV (pdf)](https://yossadh.github.io/files/cv_public.pdf) – _updated Oct 2020_.
