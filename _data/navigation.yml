@@ -2,9 +2,12 @@
 main:
   - title: "Blog"
     url: /blog/
-    
-  #- title: "Publications"
-  #  url: /publications/
+  
+  - title: "Bookshelf"
+    url: /bookshelf/  
+  
+  #- title: "Link Roundup"
+  #  url: /link_roundup/
 
   #- title: "Talks"
   #  url: /talks/    
