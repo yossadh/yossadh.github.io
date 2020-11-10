@@ -1,7 +1,7 @@
 ---
 title:  "Link roundup: Oct--Dec 2020"
-date: 2020-10-31
-permalink: /posts/2020/03/link-roundup-oct-2020/
+date: 2020-12-31
+permalink: /posts/2020/10/link-roundup-oct-2020/
 categories: 
   - roundup
 tags:
