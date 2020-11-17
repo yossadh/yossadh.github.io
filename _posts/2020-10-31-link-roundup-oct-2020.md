@@ -21,5 +21,6 @@ Trying to make it a habit again to post, after pandemic hiatus
   
 **Others**  
 [Twitter magic realism bot](https://twitter.com/MagicRealismBot)  
+[See a Stunningly Surreal Bookstore in China](https://www.smithsonianmag.com/smart-news/gorgeous-bookstore-china-creates-other-worldly-space-180976143/) 
+
 >Do you need a little darkness to get you going?” _--Mary Oliver_  
-[See a Stunningly Surreal Bookstore in China](https://www.smithsonianmag.com/smart-news/gorgeous-bookstore-china-creates-other-worldly-space-180976143/)  
