@@ -10,7 +10,11 @@ tags:
 
 Trying to make it a habit again to post, after pandemic hiatus  
   
-**Science**  
+**Science** 
+[COVID-19 Molecular Structure and Therapeutics Hub](https://covid.molssi.org/structures/)  
+[In the Pipeline \| Vaccine Possibilities](https://blogs.sciencemag.org/pipeline/archives/2020/11/18/vaccine-possibilities)  
+[SciAm \| Mysteries of COVID Smell Loss Finally Yield Some Answers](https://www.scientificamerican.com/article/mysteries-of-covid-smell-loss-finally-yield-some-answers1/)   
+[Nature \| Five rules for evidence communication](https://www.nature.com/articles/d41586-020-03189-1)  
 [meta, biomedical research search engine ](https://www.meta.org/)  
 [Nature \| Science search engine links papers to grants and patents](https://www.nature.com/articles/d41586-018-00688-0)  
 [C&EN \| Covalent drugs go from fringe field to fashionable endeavor](https://cen.acs.org/pharmaceuticals/drug-discovery/Covalent-drugs-fringe-field-fashionable/98/i43)  
@@ -22,5 +26,7 @@ Trying to make it a habit again to post, after pandemic hiatus
 **Others**  
 [Twitter magic realism bot](https://twitter.com/MagicRealismBot)  
 [See a Stunningly Surreal Bookstore in China](https://www.smithsonianmag.com/smart-news/gorgeous-bookstore-china-creates-other-worldly-space-180976143/) 
-
+  
 >Do you need a little darkness to get you going?” _--Mary Oliver_  
+
+>He adopted the following strategy: say what you know; what you don’t know; what you are doing to find out; what people can do in the meantime to be on the safe side; and that advice will change --[Nature article](https://www.nature.com/articles/d41586-020-03189-1)

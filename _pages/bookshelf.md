@@ -63,10 +63,21 @@ author_profile: true
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
-      
-**Quicksilver \| Neal Stephenson**  
   
-## 2020 -- 4 books read
+## 2020 -- 7 books read
+**The Plague \| Albert Camus**  
+Unfinished. Will borrow from the library again someday.
+
+**Newcomer \| Keigo Higashino ⭑⭑⭑⭑**  
+Quite a simple murder thriller case, actually, but the way it is written is very interesting. Higashino leads the reader through red herrings, which form self-contained stories themselves, before finally bringing us to the real clue that unravels the case. 
+
+**The Obelisk Gate \| N. K. Jemisin ⭑⭑⭑⭑**   
+**The Stone Sky \| N. K. Jemisin ⭑⭑⭑⭑**   
+Just wow. It is certain that we are heading towards a tragic ending, but somehow I am happy with the ending. 
+ 
+**Quicksilver \| Neal Stephenson**  
+Unfinished. Was expecting sci-fi but turns out it's historical fiction. Stephenson's repertoire is mind-bogglingly vast.  
+
 **Story of your life and others \| Ted Chiang ⭑⭑⭑⭑**  
 I got ahold of this book coincidentally right after I watched _Arrival_. The titular short story is of course good and thought-provoking. Other stories in the collection are also gripping though. Ted Chiang definitely has a unique voice among sci-fi writers -- there is some sort of... mysticism, sometimes? Which makes the narrative multi-facetedly richer. 
   
