@@ -10,6 +10,9 @@ tags:
 
 Trying to make it a habit again to post, after pandemic hiatus  
   
+**Papers**  
+[Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
+  
 **Science**   
 [COVID-19 Molecular Structure and Therapeutics Hub](https://covid.molssi.org/structures/)  
 [In the Pipeline \| Vaccine Possibilities](https://blogs.sciencemag.org/pipeline/archives/2020/11/18/vaccine-possibilities)  
@@ -24,9 +27,12 @@ Trying to make it a habit again to post, after pandemic hiatus
 [The New Yorker \| How the Coronavirus Hacks the Immune System](https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system)  
   
 **Others**  
+[How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)  
 [Twitter magic realism bot](https://twitter.com/MagicRealismBot)  
 [See a Stunningly Surreal Bookstore in China](https://www.smithsonianmag.com/smart-news/gorgeous-bookstore-china-creates-other-worldly-space-180976143/) 
   
 >Do you need a little darkness to get you going?” _--Mary Oliver_  
   
->He adopted the following strategy: say what you know; what you don’t know; what you are doing to find out; what people can do in the meantime to be on the safe side; and that advice will change --[Nature article](https://www.nature.com/articles/d41586-020-03189-1)
+>He adopted the following strategy: say what you know; what you don’t know; what you are doing to find out; what people can do in the meantime to be on the safe side; and that advice will change --[Nature article](https://www.nature.com/articles/d41586-020-03189-1)  
+  
+>In my work as a mediator, I’ve learnt that successful conversations always involve what I call a ‘gem statement’. When two parties have listened long and hard to each other – have made the heroic effort to listen curiously and empathically even when they disagree strenuously – someone eventually unearths a glowing, priceless gem. It usually takes the form of a short, powerful statement --[How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)
