@@ -15,7 +15,7 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
-<<<<<<< HEAD
+[PyEMMA - Emma’s Markov Model Algorithms](http://www.emma-project.org/latest/)  
 [Life with purpose](https://aeon.co/essays/the-biological-research-putting-purpose-back-into-life)  
 [Nature \| Why your scientific presentation should not be adapted from a journal article](https://www.nature.com/articles/d41586-020-03300-6)  
 [COVID-19 Molecular Structure and Therapeutics Hub](https://covid.molssi.org/structures/)  
@@ -35,6 +35,14 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [Twitter magic realism bot](https://twitter.com/MagicRealismBot)  
 [See a Stunningly Surreal Bookstore in China](https://www.smithsonianmag.com/smart-news/gorgeous-bookstore-china-creates-other-worldly-space-180976143/) 
   
+**Python**  
+[Top 11 Github Repositories to Learn Python](https://towardsdatascience.com/top-11-github-repositories-to-learn-python-e75e8676757a)    
+[github.com/TomNicholas/Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists)  
+[github.com/garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)  
+[github.com/rasbt/python_reference](https://github.com/rasbt/python_reference)  
+[github.com/matplotlib/AnatomyOfMatplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)  
+[github.com/jerry-git/learn-python3](https://github.com/jerry-git/learn-python3)  
+
 >Do you need a little darkness to get you going? --Mary Oliver  
   
 >He adopted the following strategy: say what you know; what you don’t know; what you are doing to find out; what people can do in the meantime to be on the safe side; and that advice will change --[Nature article](https://www.nature.com/articles/d41586-020-03189-1)  
