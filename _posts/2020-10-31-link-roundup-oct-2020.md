@@ -8,13 +8,16 @@ tags:
   - links
 ---
 
-Trying to make it a habit again to post, after pandemic hiatus  
+The world came into a standstill in March, including this blog. Here's to a restart.  
   
 **Papers**  
+[J Med Chem \| Chemists: AI Is Here; Unite To Get the Benefits](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c00163)  
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
+<<<<<<< HEAD
 [Life with purpose](https://aeon.co/essays/the-biological-research-putting-purpose-back-into-life)  
+[Nature \| Why your scientific presentation should not be adapted from a journal article](https://www.nature.com/articles/d41586-020-03300-6)  
 [COVID-19 Molecular Structure and Therapeutics Hub](https://covid.molssi.org/structures/)  
 [In the Pipeline \| Vaccine Possibilities](https://blogs.sciencemag.org/pipeline/archives/2020/11/18/vaccine-possibilities)  
 [SciAm \| Mysteries of COVID Smell Loss Finally Yield Some Answers](https://www.scientificamerican.com/article/mysteries-of-covid-smell-loss-finally-yield-some-answers1/)   
