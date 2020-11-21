@@ -11,6 +11,7 @@ tags:
 Trying to make it a habit again to post, after pandemic hiatus  
   
 **Science**  
+[Nature \| Why your scientific presentation should not be adapted from a journal article](https://www.nature.com/articles/d41586-020-03300-6)  
 [meta, biomedical research search engine ](https://www.meta.org/)  
 [Nature \| Science search engine links papers to grants and patents](https://www.nature.com/articles/d41586-018-00688-0)  
 [C&EN \| Covalent drugs go from fringe field to fashionable endeavor](https://cen.acs.org/pharmaceuticals/drug-discovery/Covalent-drugs-fringe-field-fashionable/98/i43)  
