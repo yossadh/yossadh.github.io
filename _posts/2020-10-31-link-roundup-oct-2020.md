@@ -11,6 +11,7 @@ tags:
 Trying to make it a habit again to post, after pandemic hiatus  
   
 **Papers**  
+[J Med Chem \| Chemists: AI Is Here; Unite To Get the Benefits](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c00163)  
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
