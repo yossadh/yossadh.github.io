@@ -14,6 +14,7 @@ Trying to make it a habit again to post, after pandemic hiatus
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
+[Life with purpose](https://aeon.co/essays/the-biological-research-putting-purpose-back-into-life)  
 [COVID-19 Molecular Structure and Therapeutics Hub](https://covid.molssi.org/structures/)  
 [In the Pipeline \| Vaccine Possibilities](https://blogs.sciencemag.org/pipeline/archives/2020/11/18/vaccine-possibilities)  
 [SciAm \| Mysteries of COVID Smell Loss Finally Yield Some Answers](https://www.scientificamerican.com/article/mysteries-of-covid-smell-loss-finally-yield-some-answers1/)   
@@ -31,7 +32,7 @@ Trying to make it a habit again to post, after pandemic hiatus
 [Twitter magic realism bot](https://twitter.com/MagicRealismBot)  
 [See a Stunningly Surreal Bookstore in China](https://www.smithsonianmag.com/smart-news/gorgeous-bookstore-china-creates-other-worldly-space-180976143/) 
   
->Do you need a little darkness to get you going?” _--Mary Oliver_  
+>Do you need a little darkness to get you going? --Mary Oliver  
   
 >He adopted the following strategy: say what you know; what you don’t know; what you are doing to find out; what people can do in the meantime to be on the safe side; and that advice will change --[Nature article](https://www.nature.com/articles/d41586-020-03189-1)  
   
