@@ -15,6 +15,9 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
+[Nautilus \| Kim Stanley Robinson Holds Out Hope](http://nautil.us/issue/90/something-green/kim-stanley-robinson-holds-out-hope)  
+[Nature \| Postdoc survey reveals disenchantment with working life](https://www.nature.com/articles/d41586-020-03191-7)  
+'disenchantment' is a curious diction... I suppose many of us have been charmed by the wizards of the ivory tower.  
 [PyEMMA - Emma’s Markov Model Algorithms](http://www.emma-project.org/latest/)  
 An alternative is [MSMbuilder](http://msmbuilder.org/3.8.0/), but I have trouble installing it, so can't comment on which one is easier to use.  
 [Life with purpose](https://aeon.co/essays/the-biological-research-putting-purpose-back-into-life)  
