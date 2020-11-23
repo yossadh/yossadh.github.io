@@ -16,6 +16,7 @@ The world came into a standstill in March, including this blog. Here's to a rest
   
 **Science**   
 [PyEMMA - Emma’s Markov Model Algorithms](http://www.emma-project.org/latest/)  
+An alternative is [MSMbuilder](http://msmbuilder.org/3.8.0/), but I have trouble installing it, so can't comment on which one is easier to use.  
 [Life with purpose](https://aeon.co/essays/the-biological-research-putting-purpose-back-into-life)  
 [Nature \| Why your scientific presentation should not be adapted from a journal article](https://www.nature.com/articles/d41586-020-03300-6)  
 [COVID-19 Molecular Structure and Therapeutics Hub](https://covid.molssi.org/structures/)  
@@ -31,6 +32,8 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [The New Yorker \| How the Coronavirus Hacks the Immune System](https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system)  
   
 **Others**  
+[Huawei, 5G, and the Man Who Conquered Noise](https://www.wired.com/story/huawei-5g-polar-codes-data-breakthrough/)  
+[Wired \| Remembrance](https://www.wired.com/story/future-of-work-remembrance-lexi-pandell/)  
 [How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)  
 [Twitter magic realism bot](https://twitter.com/MagicRealismBot)  
 [See a Stunningly Surreal Bookstore in China](https://www.smithsonianmag.com/smart-news/gorgeous-bookstore-china-creates-other-worldly-space-180976143/) 
@@ -42,7 +45,7 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [github.com/rasbt/python_reference](https://github.com/rasbt/python_reference)  
 [github.com/matplotlib/AnatomyOfMatplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)  
 [github.com/jerry-git/learn-python3](https://github.com/jerry-git/learn-python3)  
-
+  
 >Do you need a little darkness to get you going? --Mary Oliver  
   
 >He adopted the following strategy: say what you know; what you don’t know; what you are doing to find out; what people can do in the meantime to be on the safe side; and that advice will change --[Nature article](https://www.nature.com/articles/d41586-020-03189-1)  
