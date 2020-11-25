@@ -18,8 +18,6 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [Nautilus \| Kim Stanley Robinson Holds Out Hope](http://nautil.us/issue/90/something-green/kim-stanley-robinson-holds-out-hope)  
 [Nature \| Postdoc survey reveals disenchantment with working life](https://www.nature.com/articles/d41586-020-03191-7)  
 'disenchantment' is a curious diction... I suppose many of us have been charmed by the wizards of the ivory tower.  
-[PyEMMA - Emma’s Markov Model Algorithms](http://www.emma-project.org/latest/)  
-An alternative is [MSMbuilder](http://msmbuilder.org/3.8.0/), but I have trouble installing it, so can't comment on which one is easier to use.  
 [Life with purpose](https://aeon.co/essays/the-biological-research-putting-purpose-back-into-life)  
 [Nature \| Why your scientific presentation should not be adapted from a journal article](https://www.nature.com/articles/d41586-020-03300-6)  
 [COVID-19 Molecular Structure and Therapeutics Hub](https://covid.molssi.org/structures/)  
@@ -53,4 +51,10 @@ An alternative is [MSMbuilder](http://msmbuilder.org/3.8.0/), but I have trouble
   
 >He adopted the following strategy: say what you know; what you don’t know; what you are doing to find out; what people can do in the meantime to be on the safe side; and that advice will change --[Nature article](https://www.nature.com/articles/d41586-020-03189-1)  
   
->In my work as a mediator, I’ve learnt that successful conversations always involve what I call a ‘gem statement’. When two parties have listened long and hard to each other – have made the heroic effort to listen curiously and empathically even when they disagree strenuously – someone eventually unearths a glowing, priceless gem. It usually takes the form of a short, powerful statement --[How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)
+>In my work as a mediator, I’ve learnt that successful conversations always involve what I call a ‘gem statement’. When two parties have listened long and hard to each other – have made the heroic effort to listen curiously and empathically even when they disagree strenuously – someone eventually unearths a glowing, priceless gem. It usually takes the form of a short, powerful statement --[How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)  
+  
+>aside from faith,  
+as far as you know,  
+you will never have another heart.  
+better to grow the one you were born with.  
+--[Anahata, by Lenelle Moïse](https://www.3quarksdaily.com/3quarksdaily/2020/11/tuesday-poem-230.html)  

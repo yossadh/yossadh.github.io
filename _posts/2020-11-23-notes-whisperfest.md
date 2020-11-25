@@ -23,7 +23,7 @@ I've been following Inger Mewburn's blog [The Thesis Whisperer](https://thesiswh
 Some tips:
 - Subscribe to newsletters
 - CV/Resume: 
-    - 6 secs for recruiters to scan, and other things that we probably already know, but good to know why they do that
+    - 6 secs for recruiters to scan, and other things that we probably already know, but good to know _why_ they do that
     - Soft keywords -- can be overused e.g. team player
     - 3-4 pages
     - Don't use underlines, brackets
