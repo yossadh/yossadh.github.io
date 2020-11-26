@@ -33,6 +33,7 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [The New Yorker \| How the Coronavirus Hacks the Immune System](https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system)  
   
 **Others**  
+[Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)  
 [Huawei, 5G, and the Man Who Conquered Noise](https://www.wired.com/story/huawei-5g-polar-codes-data-breakthrough/)  
 [Wired \| Remembrance](https://www.wired.com/story/future-of-work-remembrance-lexi-pandell/)  
 [How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)  
