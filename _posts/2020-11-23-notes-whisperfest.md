@@ -29,3 +29,6 @@ Some tips:
     - Don't use underlines, brackets
     - footer with date
     - save cover and CV together with filename NameLastDec2020.pdf (or .doc depending on req)
+  
+**Why academia shouldn’t be a competition**  
+No idea how to summarise this. I feel encouraged, I guess? This touches on some soft aspects of being an academic that I'm not used to evaluate for myself. I think one takeaway is the perennial metric-ising everything problem. On one hand, translating human beings into numbers is a sort of reductionism, but on the other, how else one is supposed to do evaluations and comparisons? Stuff that comes to mind and some that was brought up: IQ, uni ranking, being a good mentor, not being toxic, being a good colleague. 
