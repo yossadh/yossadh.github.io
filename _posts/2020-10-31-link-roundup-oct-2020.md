@@ -11,6 +11,7 @@ tags:
 The world came into a standstill in March, including this blog. Here's to a restart.  
   
 **Papers**  
+[Sci. Rep \| Statistics for the analysis of molecular dynamics simulations: providing P values for agonist-dependent GPCR activation](https://www.nature.com/articles/s41598-020-77072-4)  
 [Science \| Protein storytelling through physics](https://science.sciencemag.org/content/370/6520/eaaz3041)  
 Nice general MD review  
 [J Med Chem \| Chemists: AI Is Here; Unite To Get the Benefits](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c00163)  
