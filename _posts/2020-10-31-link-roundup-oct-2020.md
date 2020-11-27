@@ -11,6 +11,7 @@ tags:
 The world came into a standstill in March, including this blog. Here's to a restart.  
   
 **Papers**  
+[Chem Sci \| Ligand design by targeting a binding site water](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc04938g#!divAbstract)  
 [Sci. Rep \| Statistics for the analysis of molecular dynamics simulations: providing P values for agonist-dependent GPCR activation](https://www.nature.com/articles/s41598-020-77072-4)  
 [Science \| Protein storytelling through physics](https://science.sciencemag.org/content/370/6520/eaaz3041)  
 Nice general MD review  
