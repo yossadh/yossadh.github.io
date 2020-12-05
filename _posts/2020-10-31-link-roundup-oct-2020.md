@@ -19,6 +19,7 @@ Nice general MD review
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
+[In the Pipeline \| Get Ready for False Side Effects](https://blogs.sciencemag.org/pipeline/archives/2020/12/04/get-ready-for-false-side-effects)  
 [Sci Am \| The COVID Science Wars](https://www.scientificamerican.com/article/the-covid-science-wars1/)  
 [Helen Berman: the crystallographer who pioneered the Protein Data Bank](https://physicsworld.com/a/the-crystallographer-who-pioneered-protein-data-banks/)  
 [Nautilus \| Kim Stanley Robinson Holds Out Hope](http://nautil.us/issue/90/something-green/kim-stanley-robinson-holds-out-hope)  
@@ -39,6 +40,8 @@ Nice general MD review
 [The New Yorker \| How the Coronavirus Hacks the Immune System](https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system)  
   
 **Others**  
+[LARB \| Of Course They Would: On Kim Stanley Robinson’s “The Ministry for the Future”](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)  
+[Thesis Whisperer \| While you scream inside your heart, please keep working.](https://thesiswhisperer.com/2020/12/02/please-keep-doing-your-work-while-you-scream-inside-your-heart-a-guide-for-research-project-management-during-covid/)  
 [Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)  
 [Huawei, 5G, and the Man Who Conquered Noise](https://www.wired.com/story/huawei-5g-polar-codes-data-breakthrough/)  
 [Wired \| Remembrance](https://www.wired.com/story/future-of-work-remembrance-lexi-pandell/)  
