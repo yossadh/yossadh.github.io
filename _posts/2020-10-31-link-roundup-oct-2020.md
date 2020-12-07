@@ -19,6 +19,8 @@ Nice general MD review
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
+PyCaret: [Useful ML tool for chemoinformatics #chemoinformatics #RDKit #Machine learning](https://iwatobipen.wordpress.com/2020/12/06/useful-ml-tool-for-chemoinformatics-chemoinformatics-rdkit-machine-learning/)  
+[Nature \| How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x)  
 [In the Pipeline \| Get Ready for False Side Effects](https://blogs.sciencemag.org/pipeline/archives/2020/12/04/get-ready-for-false-side-effects)  
 [Sci Am \| The COVID Science Wars](https://www.scientificamerican.com/article/the-covid-science-wars1/)  
 [Helen Berman: the crystallographer who pioneered the Protein Data Bank](https://physicsworld.com/a/the-crystallographer-who-pioneered-protein-data-banks/)  
