@@ -16,4 +16,4 @@ In other words, efficacy is a proxy for the eventual _effectiveness_. The former
 Some points on why there will be discrepancy between the 2:
 - Clinical trial population is biased -- only certain kind of people would volunteer for the trial. You can expect that they usually are healthy and do not have underlying conditions. Behaviour-wise, they would tend to be more cautious as well.
 - Blinding is imperfect. Some people get mild reactions from the vaccine, which sort of tell you that you are in the vaccine arm. 
-- Asymptomatic cases are not accounted for. The participants are not tested regularly. Instead, they are only tested when they self-report symptoms.   
+- Asymptomatic cases are not accounted for. The participants are not tested regularly. Instead, they are only tested when they self-report symptoms. This is the case for Moderna trials. AZ-Oxford does weekly swabs so they have data about asymptomatic cases as well.  
