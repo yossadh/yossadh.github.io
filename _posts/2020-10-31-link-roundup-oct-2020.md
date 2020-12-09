@@ -43,6 +43,7 @@ PyCaret: [Useful ML tool for chemoinformatics #chemoinformatics #RDKit #Machine 
 [The New Yorker \| How the Coronavirus Hacks the Immune System](https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system)  
   
 **Others**  
+[Yo-Yo Ma, Kathryn Stott - Over the Rainbow (Official Video)](https://youtu.be/03GpPfOsFkQ)  
 [LARB \| Of Course They Would: On Kim Stanley Robinson’s “The Ministry for the Future”](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)  
 [Thesis Whisperer \| While you scream inside your heart, please keep working.](https://thesiswhisperer.com/2020/12/02/please-keep-doing-your-work-while-you-scream-inside-your-heart-a-guide-for-research-project-management-during-covid/)  
 [Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)  
