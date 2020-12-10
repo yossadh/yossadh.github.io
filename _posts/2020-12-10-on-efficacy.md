@@ -15,7 +15,7 @@ For exact figure, just replace the absolute numbers as fraction in that arm inst
   
 ![\Large \text{Efficacy}=\frac{\frac{162}{a}-\frac{8}{b}}{\frac{162}{a}}}](https://latex.codecogs.com/svg.latex?\Large&space;\text{Efficacy}=\frac{\frac{162}{a}-\frac{8}{b}}{\frac{162}{a}})
   
-In other words, efficacy is a proxy for the eventual _effectiveness_. The former is in controlled clinical trial setting, while the latter is in messy real word setting.
+So, efficacy is a proxy for the eventual _effectiveness_. The former is in controlled clinical trial setting, while the latter is in messy real word setting.
 Some points on why there will be discrepancy between the 2:
 - Clinical trial population is biased -- only certain kind of people would volunteer for the trial. You can expect that they usually are healthy and do not have underlying conditions. Behaviour-wise, they would tend to be more cautious as well.
 - Blinding is imperfect. Some people get mild reactions from the vaccine, which sort of tell you that you are in the vaccine arm. 
