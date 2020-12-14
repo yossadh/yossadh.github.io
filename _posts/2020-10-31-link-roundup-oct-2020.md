@@ -42,6 +42,7 @@ PyCaret: [Useful ML tool for chemoinformatics #chemoinformatics #RDKit #Machine 
 [The New Yorker \| How the Coronavirus Hacks the Immune System](https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system)  
   
 **Others**  
+[Educated Fools: Why Democratic leaders still misunderstand the politics of social class](https://newrepublic.com/article/156000/educated-fools-democrats-misunderstand-politics-social-class)  
 [Beyond Tokyo and Jerusalem](https://taxismag.com/beyond-tokyo-and-jerusalem-72daf28f6) Shusaku Endo's _Silence_ review  
 [Yo-Yo Ma, Kathryn Stott - Over the Rainbow (Official Video)](https://youtu.be/03GpPfOsFkQ)  
 [LARB \| Of Course They Would: On Kim Stanley Robinson’s “The Ministry for the Future”](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)  
