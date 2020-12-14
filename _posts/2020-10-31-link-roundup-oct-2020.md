@@ -18,6 +18,7 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
+[How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html)  
 [Nature \| Oxford COVID vaccine paper highlights lingering unknowns about results](https://www.nature.com/articles/d41586-020-03504-w)  
 PyCaret: [Useful ML tool for chemoinformatics #chemoinformatics #RDKit #Machine learning](https://iwatobipen.wordpress.com/2020/12/06/useful-ml-tool-for-chemoinformatics-chemoinformatics-rdkit-machine-learning/)  
 [Nature \| How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x)  
