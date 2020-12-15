@@ -11,6 +11,7 @@ tags:
 The world came into a standstill in March, including this blog. Here's to a restart.  
   
 **Papers**  
+[Science \| Genetic interaction mapping informs integrative structure determination of protein complexes](https://science.sciencemag.org/content/370/6522/eaaz4910)  
 [Chem Sci \| Ligand design by targeting a binding site water](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc04938g#!divAbstract)  
 [Sci. Rep \| Statistics for the analysis of molecular dynamics simulations: providing P values for agonist-dependent GPCR activation](https://www.nature.com/articles/s41598-020-77072-4)  
 [Science \| Protein storytelling through physics](https://science.sciencemag.org/content/370/6520/eaaz3041) Nice general MD review  
@@ -18,6 +19,7 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
+[Nature \| The peanut snack that triggered a fresh approach to allergy prevention](https://www.nature.com/articles/d41586-020-02782-8)  
 [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html)  
 [Nature \| Oxford COVID vaccine paper highlights lingering unknowns about results](https://www.nature.com/articles/d41586-020-03504-w)  
 PyCaret: [Useful ML tool for chemoinformatics #chemoinformatics #RDKit #Machine learning](https://iwatobipen.wordpress.com/2020/12/06/useful-ml-tool-for-chemoinformatics-chemoinformatics-rdkit-machine-learning/)  
