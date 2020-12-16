@@ -19,6 +19,7 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
+[The Atlantic \| How Science Beat the Virus](https://www.theatlantic.com/magazine/archive/2021/01/science-covid-19-manhattan-project/617262/)   
 [Nature \| The peanut snack that triggered a fresh approach to allergy prevention](https://www.nature.com/articles/d41586-020-02782-8)  
 [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html)  
 [Nature \| Oxford COVID vaccine paper highlights lingering unknowns about results](https://www.nature.com/articles/d41586-020-03504-w)  
