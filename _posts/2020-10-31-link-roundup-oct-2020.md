@@ -19,6 +19,8 @@ The world came into a standstill in March, including this blog. Here's to a rest
 [Sci. Rep \| Moving targets in drug discovery](https://www.nature.com/articles/s41598-020-77033-x)  
   
 **Science**   
+[In the Pipeline \| The New Mutations](https://blogs.sciencemag.org/pipeline/archives/2020/12/22/the-new-mutations)  
+It occurred to me that I'm trying to introduce mutations to my enzyme and here is the virus doing just that using the world as its test tube...What do you call this? Poignant? Amusing? Ironic?   
 [The Atlantic \| How COVID-19 Changes Our Sleep](https://www.theatlantic.com/health/archive/2020/12/covid-19-sleep-pandemic-zzzz/617454/)  
 [The Atlantic \| How Science Beat the Virus](https://www.theatlantic.com/magazine/archive/2021/01/science-covid-19-manhattan-project/617262/)   
 [Nature \| The peanut snack that triggered a fresh approach to allergy prevention](https://www.nature.com/articles/d41586-020-02782-8)  
