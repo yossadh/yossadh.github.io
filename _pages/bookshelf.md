@@ -92,7 +92,7 @@ The Glass Bead Game \| Herman Hesse
 Zen and the art of motorcycle maintenance \| Robert M. Pirsig   
 Sophie's world \| Jostein Gaarder  
 
-NK Jemisin: Broken earth trilogy
+NK Jemisin: Broken earth trilogy  
 Neal Stephenson: Seveneves  
 Shusaku Endo: Silence, Kiku's prayer  
 Liu Cixin: The Three Body Problem  
