@@ -40,11 +40,14 @@ author_profile: true
 **The Long Walk: The True Story Of A Trek To Freedom \| Slavomir Rawicz**  
 **Lament for a Son \| Nicholas Wolterstorff**  
 **Lent \| Jo Walton**  
+**Why we swim \| Bonnie Tsui**  
 
 ## Reading queue
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
-
+  
+**The magic mountain \| Thomas Mann**  
+**The medusa and the snail : more notes of a biology watcher \| Lewis Thomas**  
 **Borderliners \| Peter Hoeg**   
 **Cancer ward \| Alexander Solzhenitsyn**  
 **Illness as a metaphor \| Susan Sontag**  
@@ -63,32 +66,10 @@ author_profile: true
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
-  
-## 2020 -- 7 books read
-**The Plague \| Albert Camus**  
-Unfinished. Will borrow from the library again someday.
 
-**Newcomer \| Keigo Higashino ⭑⭑⭑⭑**  
-Quite a simple murder thriller case, actually, but the way it is written is very interesting. Higashino leads the reader through red herrings, which form self-contained stories themselves, before finally bringing us to the real clue that unravels the case. 
-
-**The Obelisk Gate \| N. K. Jemisin ⭑⭑⭑⭑**   
-**The Stone Sky \| N. K. Jemisin ⭑⭑⭑⭑**   
-Just wow. It is certain that we are heading towards a tragic ending, but somehow I am happy with the ending. 
- 
-**Quicksilver \| Neal Stephenson**  
-Unfinished. Was expecting sci-fi but turns out it's historical fiction. Stephenson's repertoire is mind-bogglingly vast.  
-
-**Story of your life and others \| Ted Chiang ⭑⭑⭑⭑**  
-I got ahold of this book coincidentally right after I watched _Arrival_. The titular short story is of course good and thought-provoking. Other stories in the collection are also gripping though. Ted Chiang definitely has a unique voice among sci-fi writers -- there is some sort of... mysticism, sometimes? Which makes the narrative multi-facetedly richer. 
+## 2021 -- 0 books read
   
-**The Fifth Season \| N. K. Jemisin ⭑⭑⭑⭑**   
-It is sci-fi and it is supernatural at the same time. "Earthbenders in climate-apocalyptic world" would be not so far off. Not a cheerful read for sure, especially when the erratic climate in the book could be one of the scenarios we are heading to. Looking forward to read the rest of the trilogy.
-  
-**The Periodic Table \| Primo Levi ⭑⭑⭑⭑**  
-Interestingly structured memoir of Primo Levi, appearing as essays under the headings of the elements. Levi is a rare scientist-writer hybrid and his description of chemistry is beautifully poetic. 
-  
-**The meaning of marriage \| Timothy Keller ⭑⭑⭑⭑⭑**  
-A must read for a Christian, married or not yet. The content is probably not eye-opening for those who are already married, but it would still be good reminder. It is an eye-opener for me.
+## [2020 -- 7 books read](https://yossadh.github.io/posts/2021/01/2020-books/)
 
 ## [2019 -- 29 books read](https://yossadh.github.io/posts/2020/01/2019-books/)
 
@@ -111,6 +92,7 @@ The Glass Bead Game \| Herman Hesse
 Zen and the art of motorcycle maintenance \| Robert M. Pirsig   
 Sophie's world \| Jostein Gaarder  
 
+NK Jemisin: Broken earth trilogy
 Neal Stephenson: Seveneves  
 Shusaku Endo: Silence, Kiku's prayer  
 Liu Cixin: The Three Body Problem  
