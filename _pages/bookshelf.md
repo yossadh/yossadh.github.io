@@ -40,7 +40,6 @@ author_profile: true
 **The Long Walk: The True Story Of A Trek To Freedom \| Slavomir Rawicz**  
 **Lament for a Son \| Nicholas Wolterstorff**  
 **Lent \| Jo Walton**  
-**Why we swim \| Bonnie Tsui**  
 
 ## Reading queue
 **Easy & Not So Easy Pieces \| Richard Feynman**   
@@ -67,7 +66,12 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 0 books read
+## 2021 -- 4 books read  
+**The Sacred Search: What If It's Not about Who You Marry, But Why? \| Gary Thomas**  
+**Why We Swim \| Bonnie Tsui**  
+**Hands-on Scikit-Learn for Machine Learning Applications \| David Paper**  
+**Please Look After Mom \| Shin Kyung-sook**  
+**The City We Became \| NK Jemisin**  
   
 ## [2020 -- 7 books read](https://yossadh.github.io/posts/2021/01/2020-books/)
 
