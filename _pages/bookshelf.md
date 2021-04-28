@@ -67,6 +67,7 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 
 ## 2021 -- 4 books read  
+**A Voice in the Wind \| Francine RIvers**  
 **The Sacred Search: What If It's Not about Who You Marry, But Why? \| Gary Thomas**  
 **Why We Swim \| Bonnie Tsui**  
 **Hands-on Scikit-Learn for Machine Learning Applications \| David Paper**  
