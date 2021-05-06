@@ -67,7 +67,8 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 
 ## 2021 -- 4 books read  
-**A Voice in the Wind \| Francine RIvers**  
+**Alternative Careers in Science \| Editor(s): Christopher Avery & Brian J. Walker**  
+**A Voice in the Wind \| Francine Rivers**  
 **The Sacred Search: What If It's Not about Who You Marry, But Why? \| Gary Thomas**  
 **Why We Swim \| Bonnie Tsui**  
 **Hands-on Scikit-Learn for Machine Learning Applications \| David Paper**  
