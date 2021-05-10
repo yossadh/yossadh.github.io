@@ -66,7 +66,9 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 4 books read  
+## 2021 -- 8 books read  
+**Art of Forgiving \| Lewis Smedes**  
+**Letters to Malcolm: Chiefly on Prayer \| CS Lewis**  
 **Alternative Careers in Science \| Editor(s): Christopher Avery & Brian J. Walker**  
 **A Voice in the Wind \| Francine Rivers**  
 **The Sacred Search: What If It's Not about Who You Marry, But Why? \| Gary Thomas**  
