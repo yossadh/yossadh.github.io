@@ -66,8 +66,9 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 8 books read  
-**Art of Forgiving \| Lewis Smedes**  
+## 2021 -- 10 books read  
+**Invisible Planets: Contemporary Chinese Science Fiction in Translation \| Edited and translated by Ken Liu**  
+**The Art of Forgiving \| Lewis Smedes**  
 **Letters to Malcolm: Chiefly on Prayer \| CS Lewis**  
 **Alternative Careers in Science \| Editor(s): Christopher Avery & Brian J. Walker**  
 **A Voice in the Wind \| Francine Rivers**  
