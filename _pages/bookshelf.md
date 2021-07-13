@@ -66,7 +66,10 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 10 books read  
+## 2021 -- 13 books read  
+**Marriage: 6 Gospel Commitments Every Couple Needs to Make \| Paul Tripp**  
+**The Plague \| Albert Camus**  
+**The Ministry for the Future \| Kim Stanley Robinson**  
 **Invisible Planets: Contemporary Chinese Science Fiction in Translation \| Edited and translated by Ken Liu**  
 **The Art of Forgiving \| Lewis Smedes**  
 **Letters to Malcolm: Chiefly on Prayer \| CS Lewis**  
