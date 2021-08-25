@@ -7,7 +7,7 @@ categories:
 tags:
   - python
 ---
-I am in charge of uploading a Mailchimp daily newsletter. Here is some code to pre-fill everything except the content.
+I am in charge of uploading a Mailchimp daily email newsletter. Here is some code to pre-fill everything except the content.
 Technically you can automate the content upload, too, but it requires more html-fu than I have.
 
 First, a setup:
@@ -50,7 +50,7 @@ pp.pprint(r)
 ```
 
 Then we are ready to create the campaigns. 
-Create a date:title dict, my campaign title is just YYYYMMDD date, so my dict looks like this: 
+Create a date:title dict first. My campaign title is just YYYYMMDD date, so my dict looks like this: 
 
 ```python
 titles ={
@@ -59,8 +59,9 @@ titles ={
 '0903':'dolor',
 }
 
+# create campaigns
 for date in titles:    
-    response = client.campaigns.create({
+    client.campaigns.create({
         "type": "regular",
         'recipients': {'list_id': 'YOUR_LIST_ID', 
                        'list_is_active': True, 
