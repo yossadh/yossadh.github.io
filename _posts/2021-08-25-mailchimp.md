@@ -91,7 +91,7 @@ to_schedule = convert_list_of_campaigns_to_id_title_dict(r)
 # schedule. Here the timing that I want is actually 1 day before the date in the title
 for i in to_schedule:
     # send_date = title_date minus 24hr
-    a = dateutil.parser.isoparse('2021-09-'+schedule[i][:2]+'T16:15:00+00:00')
+    a = dateutil.parser.isoparse('2021-09-'+schedule[i][-2:]+'T16:15:00+00:00')
     send_date = a + timedelta(days=-1)
 
     client.campaigns.schedule(i, {"schedule_time": send_date.isoformat()})
