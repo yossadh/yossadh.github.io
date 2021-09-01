@@ -7,7 +7,7 @@ categories:
 tags:
   - python
 ---
-I am in charge of uploading a Mailchimp daily email newsletter. Here is some code to pre-fill everything except the content.
+I am in charge of uploading a Mailchimp daily email newsletter. Here is some code to pre-fill everything except the content utilising Mailchimp API.
 Technically you can automate the content upload, too, but it requires more html-fu than I have.
 
 First, a setup:
@@ -84,7 +84,9 @@ r = client.campaigns.list(fields=['campaigns.id','campaigns.settings.title'],sta
 
 # check that output is only your campaigns (there might be other saved drafts from the past)
 pp.pprint(r)
+```
 
+```python
 # convert output to dict
 to_schedule = convert_list_of_campaigns_to_id_title_dict(r)
 
