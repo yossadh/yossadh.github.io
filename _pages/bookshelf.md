@@ -66,7 +66,8 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 14 books read  
+## 2021 -- 15 books read  
+**Vagabonds \| Hao Jingfang**  
 **Among others \| Jo Walton**  
 **Marriage: 6 Gospel Commitments Every Couple Needs to Make \| Paul Tripp**  
 **The Plague \| Albert Camus**  
