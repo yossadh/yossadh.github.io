@@ -60,13 +60,13 @@ author_profile: true
 **The meaning of human existence \| Edward O. Wilson**  
 **The dispossessed \| Ursula Le Guin**  
 **The better angels of our nature : why violence has declined \| Steven Pinker**  
-**Curiosity \| Alberto Manguel**  
 **I am a strange loop \| Douglas Hofstadter**  
 **Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 15 books read  
+## 2021 -- 16 books read  
+**Curiosity \| Alberto Manguel**  
 **Vagabonds \| Hao Jingfang**  
 **Among others \| Jo Walton**  
 **Marriage: 6 Gospel Commitments Every Couple Needs to Make \| Paul Tripp**  
