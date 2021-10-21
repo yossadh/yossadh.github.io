@@ -29,14 +29,14 @@ for ind, title in enumerate(plots):
 Now if we want to split this to, say, 3 columns,
 ```python
 ncol=3
-nrow=int(len(plots)/ncol)
+nrow=len(plots)//ncol
 
 fig, axes = plt.subplots(nrow, ncol)
 
 for ind, title in enumerate(plots):
-    ax = axes[ind%nrow,int(ind/nrow)]
+    ax = axes[ind%nrow,ind//nrow]
     
     ...plt(ax=ax)
 ```
 For the row index, the modulo operator 'resets' `ind` for every column by modulo-ing it with `nrow`.
-For the column index, simply divide `ind` with `nrow` and take the integer.
+For the column index, simply divide `ind` with `nrow` and round down.
