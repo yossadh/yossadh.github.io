@@ -8,8 +8,8 @@ tags:
   - python
 ---
 Case: I have many rows of subplots and would like to divide them up in multiple columns
-  
-The solution is quite simple with modulo operator, although it took me embarassingly sometime to figure it out.
+
+The solution is quite simple with modulo operator, although it took me embarassingly sometime to figure it out.  
 First, let's say we have a list of plot names:
 ```python
 plots = ['plot1', 'plot2',...]
@@ -21,7 +21,7 @@ nrow=len(plots)
 
 fig, axes = plt.subplots(nrow, ncol)
 
-for ind, title in enumerate(list(plots)):
+for ind, title in enumerate(plots):
     ax = axes[ind]
     
     ...plt(ax=ax)
@@ -33,8 +33,8 @@ nrow=int(len(plots)/ncol)
 
 fig, axes = plt.subplots(nrow, ncol)
 
-for ind, title in enumerate(list(plots)):
-    ax = axes[axes[ind%nrow,int(ind/nrow)]]
+for ind, title in enumerate(plots):
+    ax = axes[ind%nrow,int(ind/nrow)]
     
     ...plt(ax=ax)
 ```
