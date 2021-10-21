@@ -37,7 +37,6 @@ author_profile: true
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
 **Giants series \| James P Hogan**    
 **Madam Bovary \| Gustave Flaubert**  
-**The Long Walk: The True Story Of A Trek To Freedom \| Slavomir Rawicz**  
 **Lament for a Son \| Nicholas Wolterstorff**  
 **Lent \| Jo Walton**  
 
@@ -65,7 +64,8 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 16 books read  
+## 2021 -- 17 books read  
+**The Long Walk: The True Story Of A Trek To Freedom \| Slavomir Rawicz**  
 **Curiosity \| Alberto Manguel**  
 **Vagabonds \| Hao Jingfang**  
 **Among others \| Jo Walton**  
