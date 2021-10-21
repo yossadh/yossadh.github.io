@@ -1,5 +1,5 @@
 ---
-title:  "Converting a row of matplotlib subplots to columns"
+title:  "Splitting a row of matplotlib subplots to columns"
 date: 2021-10-25
 permalink: /posts/2021/10/matplotlib/
 categories: 
@@ -7,7 +7,7 @@ categories:
 tags:
   - python
 ---
-Case: I have many rows of subplots and would like to divide them up in multiple columns
+Case: I have many rows of subplots and would like to divide them up in multiple columns  
 
 The solution is quite simple with modulo operator, although it took me embarassingly sometime to figure it out.  
 First, let's say we have a list of plot names:
