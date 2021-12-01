@@ -37,7 +37,6 @@ author_profile: true
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
 **Giants series \| James P Hogan**    
 **Madam Bovary \| Gustave Flaubert**  
-**Lament for a Son \| Nicholas Wolterstorff**  
 **Lent \| Jo Walton**  
 
 ## Reading queue
@@ -51,7 +50,6 @@ author_profile: true
 **Illness as a metaphor \| Susan Sontag**  
 **A third testament \| Malcolm Muggeridge**  
 **One hundred years of solitude \| Gabriel García Márquez**  
-**Gulp : adventures on the alimentary canal \| Mary Roach**  
 **John Crow's devil \| Marlon James**  
 **Don Quixote \| Miguel de Cervantes**  
 **Under the Volcano \| Malcom Lowery**  
@@ -64,7 +62,9 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 17 books read  
+## 2021 -- 19 books read  
+**Gulp : adventures on the alimentary canal \| Mary Roach**  
+**Lament for a Son \| Nicholas Wolterstorff**  
 **The Long Walk: The True Story Of A Trek To Freedom \| Slavomir Rawicz**  
 **Curiosity \| Alberto Manguel**  
 **Vagabonds \| Hao Jingfang**  
