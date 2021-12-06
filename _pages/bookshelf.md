@@ -44,7 +44,6 @@ author_profile: true
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
   
 **The magic mountain \| Thomas Mann**  
-**The medusa and the snail : more notes of a biology watcher \| Lewis Thomas**  
 **Borderliners \| Peter Hoeg**   
 **Cancer ward \| Alexander Solzhenitsyn**  
 **Illness as a metaphor \| Susan Sontag**  
@@ -62,7 +61,8 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 19 books read  
+## 2021 -- 20 books read  
+**The medusa and the snail : more notes of a biology watcher \| Lewis Thomas**  
 **Gulp : adventures on the alimentary canal \| Mary Roach**  
 **Lament for a Son \| Nicholas Wolterstorff**  
 **The Long Walk: The True Story Of A Trek To Freedom \| Slavomir Rawicz**  
