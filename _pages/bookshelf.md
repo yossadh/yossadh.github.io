@@ -33,6 +33,7 @@ author_profile: true
 </head>
 
 ## Wishlist
+**The Nutmeg’s Curse \| Parables for a Planet in Crisis \| Amitav Ghosh**  
 **Does Religion do More Harm than Good? \| Rupert Shortt**   
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
 **Giants series \| James P Hogan**    
@@ -45,7 +46,6 @@ author_profile: true
   
 **The magic mountain \| Thomas Mann**  
 **Borderliners \| Peter Hoeg**   
-**Cancer ward \| Alexander Solzhenitsyn**  
 **Illness as a metaphor \| Susan Sontag**  
 **A third testament \| Malcolm Muggeridge**  
 **One hundred years of solitude \| Gabriel García Márquez**  
@@ -62,6 +62,7 @@ author_profile: true
 **The firmament of time \| Loren Eiseley**  
 
 ## 2021 -- 20 books read  
+**Cancer ward \| Alexander Solzhenitsyn**  
 **The medusa and the snail : more notes of a biology watcher \| Lewis Thomas**  
 **Gulp : adventures on the alimentary canal \| Mary Roach**  
 **Lament for a Son \| Nicholas Wolterstorff**  
