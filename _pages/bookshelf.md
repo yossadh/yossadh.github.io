@@ -33,6 +33,7 @@ author_profile: true
 </head>
 
 ## Wishlist
+**The Story Paradox \| Jonathan Gottschall**  
 **The Nutmeg’s Curse \| Parables for a Planet in Crisis \| Amitav Ghosh**  
 **Does Religion do More Harm than Good? \| Rupert Shortt**   
 **Sapiens : a brief history of humankind \| Yuval Noah Harari**  
