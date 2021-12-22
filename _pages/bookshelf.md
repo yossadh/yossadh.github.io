@@ -45,6 +45,7 @@ author_profile: true
 **Easy & Not So Easy Pieces \| Richard Feynman**   
 **On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
   
+**I see Satan fall like lightning \| René Girard**  
 **The magic mountain \| Thomas Mann**  
 **Borderliners \| Peter Hoeg**   
 **Illness as a metaphor \| Susan Sontag**  
