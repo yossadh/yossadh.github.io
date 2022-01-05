@@ -63,28 +63,10 @@ author_profile: true
 **The structure of scientific revolutions \| Thomas S. Kuhn**  
 **The firmament of time \| Loren Eiseley**  
 
-## 2021 -- 20 books read  
-**Cancer ward \| Alexander Solzhenitsyn**  
-**The medusa and the snail : more notes of a biology watcher \| Lewis Thomas**  
-**Gulp : adventures on the alimentary canal \| Mary Roach**  
-**Lament for a Son \| Nicholas Wolterstorff**  
-**The Long Walk: The True Story Of A Trek To Freedom \| Slavomir Rawicz**  
-**Curiosity \| Alberto Manguel**  
-**Vagabonds \| Hao Jingfang**  
-**Among others \| Jo Walton**  
-**Marriage: 6 Gospel Commitments Every Couple Needs to Make \| Paul Tripp**  
-**The Plague \| Albert Camus**  
-**The Ministry for the Future \| Kim Stanley Robinson**  
-**Invisible Planets: Contemporary Chinese Science Fiction in Translation \| Edited and translated by Ken Liu**  
-**The Art of Forgiving \| Lewis Smedes**  
-**Letters to Malcolm: Chiefly on Prayer \| CS Lewis**  
-**Alternative Careers in Science \| Editor(s): Christopher Avery & Brian J. Walker**  
-**A Voice in the Wind \| Francine Rivers**  
-**The Sacred Search: What If It's Not about Who You Marry, But Why? \| Gary Thomas**  
-**Why We Swim \| Bonnie Tsui**  
-**Hands-on Scikit-Learn for Machine Learning Applications \| David Paper**  
-**Please Look After Mom \| Shin Kyung-sook**  
-**The City We Became \| NK Jemisin**  
+## 2022 -- 0 books read
+How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers \| Sönke Ahrens  
+
+## [2021 -- 21 books read](https://yossadh.github.io/posts/2022/01/2021-books/)  
   
 ## [2020 -- 7 books read](https://yossadh.github.io/posts/2021/01/2020-books/)
 
@@ -126,6 +108,3 @@ JRR Tolkien: The Hobbit, Lord of the Rings trilogy
 FW Boreham: A Handful of Stars, Mushrooms on the Moor  
 Viktor Frankl: Man's Search for Ultimate Meaning  
 Søren Kierkegaard: Fear and Trembling  
-
-
-
