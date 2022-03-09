@@ -33,37 +33,39 @@ author_profile: true
 </head>
 
 ## Wishlist
-**The Story Paradox \| Jonathan Gottschall**  
-**The Nutmeg’s Curse \| Parables for a Planet in Crisis \| Amitav Ghosh**  
-**Does Religion do More Harm than Good? \| Rupert Shortt**   
-**Sapiens : a brief history of humankind \| Yuval Noah Harari**  
-**Giants series \| James P Hogan**    
-**Madam Bovary \| Gustave Flaubert**  
-**Lent \| Jo Walton**  
+The Story Paradox \| Jonathan Gottschall  
+The Nutmeg’s Curse \| Parables for a Planet in Crisis \| Amitav Ghosh  
+Does Religion do More Harm than Good? \| Rupert Shortt   
+Sapiens : a brief history of humankind \| Yuval Noah Harari  
+Giants series \| James P Hogan    
+Madam Bovary \| Gustave Flaubert  
+Lent \| Jo Walton  
 
 ## Reading queue
-**Easy & Not So Easy Pieces \| Richard Feynman**   
-**On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee**  
+Easy & Not So Easy Pieces \| Richard Feynman   
+On Food and Cooking: The Science and Lore of the Kitchen \| Harold McGee  
   
-**I see Satan fall like lightning \| René Girard**  
-**The magic mountain \| Thomas Mann**  
-**Borderliners \| Peter Hoeg**   
-**Illness as a metaphor \| Susan Sontag**  
-**A third testament \| Malcolm Muggeridge**  
-**One hundred years of solitude \| Gabriel García Márquez**  
-**John Crow's devil \| Marlon James**  
-**Don Quixote \| Miguel de Cervantes**  
-**Under the Volcano \| Malcom Lowery**  
-**A house for Mr. Biswas \| V.S. Naipaul**  
-**The meaning of human existence \| Edward O. Wilson**  
-**The dispossessed \| Ursula Le Guin**  
-**The better angels of our nature : why violence has declined \| Steven Pinker**  
-**I am a strange loop \| Douglas Hofstadter**  
-**Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox**  
-**The structure of scientific revolutions \| Thomas S. Kuhn**  
-**The firmament of time \| Loren Eiseley**  
-
-## 2022 -- 0 books read
+I see Satan fall like lightning \| René Girard  
+The magic mountain \| Thomas Mann  
+Borderliners \| Peter Hoeg   
+Illness as a metaphor \| Susan Sontag  
+A third testament \| Malcolm Muggeridge  
+One hundred years of solitude \| Gabriel García Márquez  
+John Crow's devil \| Marlon James  
+Don Quixote \| Miguel de Cervantes  
+Under the Volcano \| Malcom Lowery  
+A house for Mr. Biswas \| V.S. Naipaul  
+The meaning of human existence \| Edward O. Wilson  
+The dispossessed \| Ursula Le Guin  
+The better angels of our nature : why violence has declined \| Steven Pinker  
+I am a strange loop \| Douglas Hofstadter  
+Seven days that divide the world : the beginning according to Genesis and science \| John C. Lennox  
+The structure of scientific revolutions \| Thomas S. Kuhn  
+The firmament of time \| Loren Eiseley  
+  
+## 2022 -- 3 books read
+Life's Edge: The Search for What It Means to Be Alive \| Carl Zimmer  
+The Aozawa murders \| Riku Onda  
 How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers \| Sönke Ahrens  
 
 ## [2021 -- 21 books read](https://yossadh.github.io/posts/2022/01/2021-books/)  
