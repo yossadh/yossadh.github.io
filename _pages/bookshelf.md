@@ -34,7 +34,6 @@ author_profile: true
 
 ## Wishlist
 The Story Paradox \| Jonathan Gottschall  
-The Nutmeg’s Curse \| Parables for a Planet in Crisis \| Amitav Ghosh  
 Does Religion do More Harm than Good? \| Rupert Shortt   
 Sapiens : a brief history of humankind \| Yuval Noah Harari  
 Giants series \| James P Hogan    
@@ -63,7 +62,10 @@ Seven days that divide the world : the beginning according to Genesis and scienc
 The structure of scientific revolutions \| Thomas S. Kuhn  
 The firmament of time \| Loren Eiseley  
   
-## 2022 -- 3 books read
+## 2022 -- 5 books read
+The Cost of Discipleship \| Dietrich Bonhoeffer  
+The Nutmeg’s Curse \| Parables for a Planet in Crisis \| Amitav Ghosh  
+The Road \| Cormac McCarthy  
 Life's Edge: The Search for What It Means to Be Alive \| Carl Zimmer  
 The Aozawa murders \| Riku Onda  
 How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers \| Sönke Ahrens  
