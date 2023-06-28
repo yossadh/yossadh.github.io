@@ -29,7 +29,7 @@ for ind, title in enumerate(plots):
 Now if we want to split this to, say, 3 columns,
 ```python
 ncol=3
-nrow=len(plots)//ncol
+nrow=len(plots)//ncol+1
 
 fig, axes = plt.subplots(nrow, ncol)
 
